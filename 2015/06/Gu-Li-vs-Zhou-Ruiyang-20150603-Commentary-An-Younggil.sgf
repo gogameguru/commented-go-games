@@ -50,21 +50,23 @@ White 22 was a good follow up, and Black 23 was the proper response.]
 (;B[nb]LB[nb:41][oe:39][qe:40]C[Black 41 was the currect move.]
 ;W[of]
 (;B[mf]LB[mf:43][of:42]C[Black 43 showed Gu's typical style of play. This is also the fighting sprit by Gu.]
-(;W[dk]LB[dk:44]C[White chose to ]
-(;B[ge]LB[ge:45]C[a]
-(;W[qq]LB[qq:46]C[a]
-;B[pq]
+(;W[dk]LB[dk:44]C[White 44 was a good move to develop the left side. Even though Black started the game with the three star formation, White wasn't ahead by territory.]
+(;B[ge]LB[ge:45]TR[hc][id][jd][kd][le][kf]C[The jump at Black 45 was very nice. That reduces White's left side, and Black can also attack the marked stones later.]
+(;W[qq]LB[qq:46]C[Invading 3-3 is big, but it was premature.]
+(;B[pq]LB[pq:47]C[Blocking at Black 47 was the right direction, because lower side is more valuable and easlier to develop than the right side in this game.
+
+]
 ;W[qp]
-(;B[qn]LB[qn:49][qp:48][pq:47]C[a]
+(;B[qn]LB[qn:49][qp:48]C[The knight's move at Black 49 is a good move, especially to take sente.]
 ;W[rn]
-(;B[po]LB[rn:50][po:51]C[a]
+(;B[po]LB[rn:50][po:51]C[Black 51 is unusual, but it was the proper move in this case.]
 ;W[qm]
-(;B[rm]LB[qm:52][rm:53]C[a]
-(;W[ro]LB[ro:54]C[a]
+(;B[rm]LB[qm:52][rm:53]C[The cross cut at Black 53 was brilliant.]
+(;W[ro]LB[ro:54]C[White 54 was unavoidable, but White wasn't happy with that.]
 ;B[pm]
 ;W[ql]
 ;B[rl]
-(;W[he]LB[he:58][ql:56][rl:57][pm:55]C[a]
+(;W[he]LB[he:58][ql:56][rl:57][pm:55]C[Black 55 and 57 were a nice combination, and that's hard for White to move the two stones.]
 (;B[gg]LB[gg:59]C[a]
 (;W[og]LB[og:60]C[a]
 ;B[dg]
@@ -543,7 +545,11 @@ White 22 was a good follow up, and Black 23 was the proper response.]
 ;B[kg]
 ;W[kh]
 ;B[lg]
-;W[ho]LB[gd:1][ff:3][gf:2][hf:5][jf:11][fg:4][gg:6][hg:7][jg:9][kg:13][lg:15][hh:8][ih:10][jh:12][kh:14][ho:16]C[a])
+;W[ho]LB[gd:1][ff:3][gf:2][hf:5][jf:11][fg:4][gg:6][hg:7][jg:9][kg:13][lg:15][hh:8][ih:10][jh:12][kh:14][ho:16]TR[hc][id][jd][kd][he][le][kf]C[Connecting at Black 1 is lack of fighting spirit.
+
+White will play 2 to 4, and White doesn't have to worry about his weaknesses.
+
+If Black cuts at 5, White will sacrifice all the marked stones, and the result up to White 16 is favorable for White.])
 (;B[ef]
 ;W[eg]
 ;B[gg]
@@ -551,7 +557,7 @@ White 22 was a good follow up, and Black 23 was the proper response.]
 ;B[gh]
 ;W[dg]
 ;B[ih]
-;W[kh]LB[gd:1][ef:5][ff:3][gf:2][hf:8][dg:10][eg:6][fg:4][gg:7][gh:9][ih:11][kh:12]C[a])))
+;W[kh]LB[gd:1][ef:5][ff:3][gf:2][hf:8][dg:10][eg:6][fg:4][gg:7][gh:9][ih:11][kh:12]C[If Black cuts at 7 instead, ])))
 (;W[qk]
 ;B[rk]
 ;W[qj]
@@ -563,17 +569,19 @@ White 22 was a good follow up, and Black 23 was the proper response.]
 ;W[sm]
 ;B[pl]
 ;W[sl]
-;B[hh]LB[hh:12][qi:4][ri:6][qj:3][rj:5][pk:8][qk:1][rk:2][sk:7][pl:10][sl:11][sm:9]C[a]))
+;B[hh]LB[hh:12][qi:4][ri:6][qj:3][rj:5][pk:8][qk:1][rk:2][sk:7][pl:10][sl:11][sm:9]C[If White extends at 1, Black will play 2 to 4 to sacrifice the stones. Black 8 and 10 are sente, and Black's wall is perfect.
+
+This result is too bad for White.]))
 (;W[qo]
 ;B[pn]
 ;W[rl]
 ;B[pm]
 ;W[ql]
-;B[qr]LB[ql:5][rl:3][pm:4][pn:2][qo:1][qr:6]C[a]))
+;B[qr]LB[ql:5][rl:3][pm:4][sm:B][gn:D][pn:2][fo:C][qo:1][rp:A][qr:6]C[If White plays 1 and 3, Black will play 4 and 6. White should play either A or B, then Black will develop the bottom with C or D next.]))
 (;B[pm]
 ;W[rm]
 ;B[pl]
-;W[hq]LB[pl:3][pm:1][rm:2][hq:4]C[a]))
+;W[hq]LB[pl:3][pm:1][rm:2][hq:4]C[The hane at Black 1 is what White wants. Black'll have a nice wall with 3, but White can invade at 4 to destroy Black's precious territory at the bottom.]))
 (;B[qm]
 ;W[pr]
 ;B[or]
@@ -581,7 +589,7 @@ White 22 was a good follow up, and Black 23 was the proper response.]
 ;B[nq]
 ;W[qo]
 ;B[po]
-;W[ho]LB[qm:1][ho:8][po:7][qo:6][nq:5][or:3][pr:2][qr:4]C[a]))
+;W[ho]LB[qm:1][ho:8][po:7][qo:6][nq:5][or:3][pr:2][qr:4]C[Extending at Black 1 is also possible, but that's a bit slow in this situation. That's because White can take sente, and this variation is similar to the previous one.]))
 (;B[qo]
 ;W[ro]
 ;B[qn]
@@ -591,22 +599,32 @@ White 22 was a good follow up, and Black 23 was the proper response.]
 ;B[or]
 ;W[qr]
 ;B[nq]
-;W[ho]LB[qm:5][qn:3][rn:4][ho:10][qo:1][ro:2][nq:9][or:7][pr:6][qr:8]C[a]))
+;W[ho]LB[qm:5][qn:3][rn:4][ho:10][qo:1][ro:2][nq:9][or:7][pr:6][qr:8]C[The hane at Black 1 is normal, but then White will take sente. 4
+
+White 10 is very good to reduce Black's influence and enlarge his own area at the same time.]))
+(;B[qp]
+;W[pq]
+;B[nq]
+;W[nr]LB[qh:A][qp:1][nq:3][pq:2][nr:4]C[Blocking from the right side at Black 1 is wrong. That's because the right side is open at A.]))
 (;W[nq]
 ;B[oq]
 ;W[np]
 ;B[pn]
 ;W[lp]
-;B[kq])
+;B[kq]LB[pn:4][lp:5][np:3][kq:6][nq:1][oq:2]TR[pj][jp]C[Generally, approaching at White 1 isn't good when Black has double wings with the marked stoens.
+
+While White is taking care of this group, Black will strengthen the both sides.])
 (;W[he]
 (;B[gd]
 ;W[gf]
 ;B[ff]
-;W[fg]LB[gd:2][he:1][ff:4][gf:3][fg:5]C[a])
+;W[fg]LB[gd:2][he:1][ff:4][gf:3][fg:5]C[White should have attached at 1 to probe.
+
+If Black connects at 2, White can keep playing in the center with 3 to 5, and the flow of the stones is good for White.])
 (;B[gg]
-;W[ji]LB[he:1][gg:2][ji:3]C[a])))
+;W[ji]LB[hb:A][he:1][gg:2][ji:3]C[If Black jumps out at 2, White can fly towards the center with 3. White can play A to cut Black off later.])))
 (;B[od]
-;W[ge]LB[hb:A][od:1][ge:2][dk:B]C[a]))
+;W[ge]LB[hb:C][od:1][fe:A][ge:2][dk:B]C[Black 1 is big, but slack. White will play 2 or A to increace the left side towards the center. White can also play C to reduce Black's top.]))
 (;W[og]
 ;B[cl]
 ;W[cj]
