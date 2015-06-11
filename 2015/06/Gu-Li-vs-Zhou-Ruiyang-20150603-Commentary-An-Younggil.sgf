@@ -151,22 +151,26 @@ White 96 wasn't usual, but it was the proper move in this situation.]
 ;W[kj]
 ;B[kg]
 ;W[hp]
-(;B[jj]LB[kg:33][kh:30][mh:31][jj:35][kj:32][hp:34]C[Black 135 was the right move, and there's a big trade.]
+(;B[jj]LB[kg:33][kh:30][mh:31][jj:35][kj:32][hp:34]C[Black 135 was the right move, and big trade will soon come.]
 ;W[hr]
 ;B[gr]
 ;W[ir]
 ;B[im]
-(;W[hk]LB[hk:40][im:39][gr:37][hr:36][ir:38]C[a]
+(;W[hk]LB[hk:40][im:39][gr:37][hr:36][ir:38]TR[jm][km]C[White captured Black's bottom group with 136 and 138, and Black cuts at 139 to capture the marked stones.
+
+White 140 was a good move to manage this area.]
 ;B[hm]
 ;W[gl]
 ;B[gm]
-(;W[fo]LB[gl:42][gm:43][hm:41][fo:44]C[a]
+(;W[fo]LB[gl:42][gm:43][hm:41][fo:44]C[White 144 was necessary.]
 ;B[fl]
 ;W[fk]
 ;B[il]
 ;W[ph]
 ;B[em]
-(;W[fj]LB[ph:48][fj:50][fk:46][fl:45][il:47][em:49]C[a]
+(;W[fj]LB[ph:48][fj:50][fk:46][fl:45][il:47][em:49]C[Black 47 was necessary, and White 48 was a big endgame move.
+
+White 150 was the proper move to save the center group.]
 ;B[ch]
 ;W[jl]
 ;B[dm]
@@ -175,7 +179,9 @@ White 96 wasn't usual, but it was the proper move in this situation.]
 ;W[qk]
 ;B[qj]
 ;W[rk]
-(;B[rj]LB[ch:51][qj:57][rj:59][qk:56][rk:58][jl:52][ll:55][cm:54][dm:53]C[a]
+(;B[rj]LB[ch:51][qj:57][rj:59][qk:56][rk:58][jl:52][ll:55][cm:54][dm:53]C[Black 151 was big, and White 156 was also big.
+
+Black 157 and 159 were the correct response, and the game was still slightly better for Black.]
 ;W[kk]
 ;B[jf]
 ;W[ni]
@@ -190,7 +196,7 @@ White 96 wasn't usual, but it was the proper move in this situation.]
 ;B[da]
 ;W[ab]
 ;B[qr]
-(;W[kr]LB[ba:70][ca:69][da:71][ab:72][bc:A][jf:61][mi:67][ni:62][bk:68][kk:60][pk:63][pl:65][sl:66][sm:64][kr:74][qr:73]C[a]
+(;W[kr]LB[ba:70][ca:69][da:71][ab:72][bc:A][jf:61][mi:67][ni:62][bk:68][kk:60][pk:63][pl:65][sl:66][sm:64][kr:74][qr:73]C[White 168 was big, and Black 173 was also big for endgame.]
 ;B[lr]
 ;W[nj]
 ;B[od]
@@ -200,12 +206,18 @@ White 96 wasn't usual, but it was the proper move in this situation.]
 ;B[mk]
 ;W[nk]
 ;B[lk]
-(;W[qg]LB[od:77][qg:84][lj:79][mj:78][nj:76][lk:83][mk:81][nk:82][ml:80][lr:75]C[a]
+(;W[qg]LB[od:77][qg:84][lj:79][mj:78][nj:76][lk:83][mk:81][nk:82][ml:80][lr:75]C[White 176 was sharp, and Black 177 was a tricky move.
+
+White 184 was necessary, because of the weakness.]
 ;B[nl]
 ;W[ls]
 ;B[ms]
 ;W[ks]
-(;B[or]LB[nl:85][or:89][ks:88][ls:86][ms:87]C[a]
+(;B[or]LB[nl:85][or:89][rr:A][ks:88][ls:86][ms:87][rs:B]C[Black 185 was a big reverse endgame move, and White 186 and 188 were the proper way of endgame.
+
+Black 189 was good response, and Black didn't lose any points here. If White hanes at A next, Black can respond at B.
+
+]
 ;W[nf]
 ;B[rq]
 ;W[rp]
@@ -229,15 +241,17 @@ White 96 wasn't usual, but it was the proper move in this situation.]
 ;W[dl]
 ;B[ej]
 ;W[ek]
-(;B[lm]LB[mb:6][mc:7][ed:97][de:98][nf:90][bg:96][bh:95][hh:1][rh:99][fi:3][hi:2][aj:5][cj:94][ej:11][gj:4][ek:12][dl:10][hl:200][fm:8][lm:13][fn:9][rp:92][rq:91][rr:93]C[a]
+(;B[lm]LB[mb:6][mc:7][ed:97][de:98][nf:90][bg:96][bh:95][hh:1][rh:99][fi:3][hi:2][aj:5][cj:94][ej:11][gj:4][ek:12][dl:10][hl:200][fm:8][lm:13][fn:9][rp:92][rq:91][rr:93]C[White 194 was the reverse sente endgame, and both sides' endgame was perfect up to 212.
+
+Black 213 was necessary, and Black was leading by smallest margin (half a point).]
 ;W[ak]
 ;B[nh]
 ;W[oi]
 ;B[ok]
-;W[rg]
+;W[rg]LB[rg:18][ah:A][nh:15][bi:B][oi:16][ak:14][ok:17]C[White should have exchanged A for B before playing White 218, and then the game would have been still super close although Black is still ahead very little.]
 ;B[ag]
 ;W[af]
-;B[ah]
+;B[ah]LB[af:20][ag:19][ah:21]C[This is two points reverse sente endgame, and Black earn another point here.]
 ;W[gn]
 ;B[kn]
 ;W[hn]
@@ -266,7 +280,7 @@ White 96 wasn't usual, but it was the proper move in this situation.]
 ;B[na]
 ;W[pa]
 ;B[eg]
-(;W[be]LB[ma:33][na:47][oa:32][pa:48][lb:27][qd:26][be:50][af:20][ff:36][gf:37][ag:19][eg:49][rg:18][sg:34][ah:21][nh:15][qh:28][sh:29][di:39][ei:38][oi:16][qi:46][ri:44][si:45][dj:40][sj:35][ak:14][ok:17][kl:25][gn:22][hn:24][kn:23][pn:31][qo:30][so:42][sp:41][sq:43]C[a]
+(;W[be]LB[ma:33][na:47][oa:32][pa:48][lb:27][qd:26][be:50][af:20][ff:36][gf:37][ag:19][eg:49][rg:18][sg:34][ah:21][nh:15][qh:28][sh:29][di:39][ei:38][oi:16][qi:46][ri:44][si:45][dj:40][sj:35][ak:14][ok:17][kl:25][gn:22][hn:24][kn:23][pn:31][qo:30][so:42][sp:41][sq:43]C[White 250 was necessary, and the game was about to finish.]
 ;B[bj]
 ;W[bi]
 ;B[ai]
@@ -279,8 +293,12 @@ White 96 wasn't usual, but it was the proper move in this situation.]
 ;W[sk]
 ;B[en]
 ;W[el]
-;B[pi]LB[ng:57][oh:56][ai:53][bi:52][ci:54][pi:63][bj:51][ej:58][oj:59][sk:60][el:62][fm:55][en:61]C[a]
-;W[eh]LB[eh:64]C[https://gogameguru.com/])
+;B[pi]LB[ng:57][oh:56][ai:53][bi:52][ci:54][pi:63][bj:51][ej:58][oj:59][sk:60][el:62][fm:55][en:61]C[All the netural points were played, and the game was completely finished.]
+;W[eh]LB[eh:64]C[Black won by 1.5 points at the move of 264.
+
+Gu Li won the 10th Chunlan Cup defeating Zhou Ruiyang in the final scored by 2-0.
+
+https://gogameguru.com/])
 (;W[bj]
 ;B[ae]
 ;W[bf]
@@ -288,23 +306,15 @@ White 96 wasn't usual, but it was the proper move in this situation.]
 ;W[cd]
 ;B[bc]
 ;W[bb]
-;B[ac]LB[bb:7][ac:8][bc:6][bd:4][cd:5][ae:2][bf:3][bj:1]C[a]))
+;B[ac]LB[bb:7][ac:8][bc:6][bd:4][cd:5][ae:2][bf:3][bj:1]C[If White doesn't reinforce, Black will play 2 to 8 to make it seki.]))
 (;B[rg]
 ;W[gn]
 ;B[lm]
 ;W[hn]
 ;B[fm]
-;W[el]LB[rg:1][el:6][fm:5][lm:3][gn:2][hn:4]C[a]))
+;W[el]LB[rg:1][el:6][fm:5][lm:3][gn:2][hn:4]C[If Black doesn't reinforce the center, White will fill in the liberties and capture the group like this.]))
 (;B[nr]
-;W[rr]LB[nr:1][rr:2]C[a]))
-(;W[nm]
-;B[mm]
-;W[nl]
-;B[nn]
-;W[qg]
-;B[rq]
-;W[rp]
-;B[rr]LB[qg:5][nl:3][mm:2][nm:1][nn:4][rp:7][rq:6][rr:8]C[a])
+;W[rr]LB[nr:1][rr:2]C[Black 1 is normal, but not the best in this situation. White will block at 2, and that's big difference compared to the actual game.]))
 (;W[nf]
 ;B[nh]
 ;W[oi]
@@ -312,9 +322,19 @@ White 96 wasn't usual, but it was the proper move in this situation.]
 (;W[qh]
 ;B[rg]
 ;W[rh]
-;B[oh]LB[nf:1][qg:4][rg:6][sg:B][nh:2][oh:8][qh:5][rh:7][oi:3][pi:A]C[a])
+;B[oh]LB[nf:1][qg:4][rg:6][sg:B][nh:2][oh:8][qh:5][rh:7][oi:3][pi:A]C[If White connects at 1, Black will play 2 to 4 and White will be in deep trouble.
+
+If White tries to capture the stones with 5 to 7, Black will cut at 8, and A and B are miai for Black next.])
 (;W[rg]
-;B[pi]LB[nf:1][qg:4][rg:5][nh:2][oh:B][qh:A][oi:3][pi:6]C[a])))
+;B[pi]LB[nf:1][qg:4][rg:5][nh:2][oh:B][qh:A][oi:3][pi:6]C[If White ataris at 5 instead, Black will clamp at 6, and A and B are still miai.]))
+(;W[nm]
+;B[mm]
+;W[nl]
+;B[nh]
+;W[oi]
+;B[qg]
+;W[rg]
+;B[pi]LB[qg:6][rg:7][nh:4][oh:B][qh:A][oi:5][pi:8][nl:3][mm:2][nm:1]C[If White plays 1, Black will exchange 2 for 3, and cut White off with 4 to 6. White can't manage to save the center group.]))
 (;W[rr]
 ;B[kr]
 ;W[pr]
@@ -324,7 +344,7 @@ White 96 wasn't usual, but it was the proper move in this situation.]
 ;W[eq]
 ;B[js]
 ;W[fs]
-;B[oi]LB[oi:10][eq:7][gq:6][kr:2][or:4][pr:3][rr:1][fs:9][js:8][qs:5]C[a]))
+;B[oi]LB[oi:10][eq:7][gq:6][kr:2][or:4][pr:3][rr:1][fs:9][js:8][qs:5]C[If White blocks at 1, Black will play like this, and the result would be similar to the actual game.]))
 (;B[cl]
 ;W[dl]
 ;B[ck]
@@ -336,17 +356,19 @@ White 96 wasn't usual, but it was the proper move in this situation.]
 ;B[bi]
 ;W[hl]
 ;B[fm]
-;W[ok]LB[hh:A][bi:9][bj:7][cj:4][dj:8][ck:3][ok:12][cl:1][dl:2][el:B][hl:10][bm:5][fm:11][cn:6]C[aa]))
+;W[ok]LB[hh:A][bi:9][bj:7][cj:4][dj:8][ck:3][ok:12][cl:1][dl:2][el:B][hl:10][bm:5][fm:11][cn:6]C[If Black plays 1 to attack the center group, White will play 2 to 10. Black 11 is necessary, and White can play elsewhere like 12. 
+
+White's center group is already alive because A and B are miai.]))
 (;W[el]
 ;B[hl]
 ;W[dm]
-;B[fj]LB[fj:4][el:1][hl:2][dm:3]C[a]))
+;B[fj]LB[fj:4][el:1][hl:2][dm:3]C[The atari at White 1 is careless, and 3 and 4 will be miai for Black after 2.]))
 (;W[fl]
 ;B[fo]
 ;W[fn]
 ;B[gn]
 ;W[gq]
-;B[ho]LB[fl:1][fn:3][gn:4][fo:2][ho:6][gq:5]C[a]))
+;B[ho]LB[fl:1][fn:3][gn:4][fo:2][ho:6][gq:5]C[If White extends at 1 instead, Black will play 2 to 6 to revive the captured stones.]))
 (;W[hm]
 ;B[il]
 ;W[hk]
@@ -354,7 +376,9 @@ White 96 wasn't usual, but it was the proper move in this situation.]
 ;W[gl]
 ;B[jl]
 ;W[gm]
-;B[fk]LB[fk:8][hk:3][gl:5][hl:4][il:2][jl:6][gm:7][hm:1]C[a]))
+;B[fk]LB[fk:8][hk:3][gl:5][hl:4][il:2][jl:6][gm:7][hm:1]C[The atari at White 1 isn't a good idea.
+
+Black will play 2 to 8, and White's center group will be captured.]))
 (;B[hr]
 ;W[kh]
 ;B[jj]
