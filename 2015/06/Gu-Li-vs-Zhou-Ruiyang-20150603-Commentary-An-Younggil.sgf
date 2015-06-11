@@ -103,53 +103,55 @@ This attachment is more efficient than playing B in terms of territory.]
 ;W[cc]
 ;B[gk]
 (;W[go]LB[cb:84][cc:86][dc:85][ec:83][gk:87][go:88]C[Black 87 was the vital point of White's shape, and Black is still in the lead.]
-(;B[ij]LB[ij:89]C[Black 89 looks slow, but it was the right move. Gu's play thick and solid moves in this area, and that was a good decision.]
-(;W[gh]LB[gh:90]C[a]
+(;B[ij]LB[ij:89]C[Black 89 looks slow, but it was the proper move. Gu played thick and solid moves in this area, and that was very good to maintain his lead.]
+(;W[gh]LB[gh:90]C[White 90 was sente, but it was a bit too easy for Black.]
 ;B[fg]
 ;W[gq]
 ;B[dq]
 ;W[cq]
 ;B[ep]
-(;W[eo]LB[fg:91][eo:96][ep:95][cq:94][dq:93][gq:92]C[a]
+(;W[eo]LB[fg:91][eo:96][ep:95][cq:94][dq:93][gq:92]C[White 92 was a good followup, and Black 93 and 95 were a nice combination to fight back.
+
+White 96 wasn't usual, but it was the proper move in this situation.]
 ;B[cp]
 ;W[do]
 ;B[cr]
 ;W[bq]
-(;B[fp]LB[do:98][cp:97][fp:1][bq:100][cr:99]C[a]
-(;W[jq]LB[jq:2]C[a]
+(;B[fp]LB[do:98][cp:97][fp:1][bq:100][cr:99]C[Black 101 seems to be weird, but it was a good move.]
+(;W[jq]LB[jq:2]C[White 102 was a good idea to fight in this area before choosing his next move in the bottom left.]
 ;B[kq]
 ;W[kp]
-(;B[iq]LB[kp:4][iq:5][kq:3]C[a]
+(;B[iq]LB[kp:4][iq:5][kq:3]C[The atari first at Black 105 was the right sequence. Black should be careful against White's attachment and cut, because his bottom left group is weak.]
 ;W[jr]
 ;B[lq]
 ;W[ip]
 ;B[jo]
 ;W[io]
-(;B[jn]LB[jn:11][io:10][jo:9][ip:8][lq:7][jr:6]C[a]
-(;W[er]LB[er:12]C[a]
+(;B[jn]LB[jn:11][io:10][jo:9][ip:8][lq:7][jr:6]C[Black 111 was necessary, and White got sente.]
+(;W[er]LB[jq:A][er:12]C[White 112 was a good choice in this case, and the exchanges from A was still useful.]
 ;B[fr]
 ;W[dr]
 ;B[hq]
 (;W[in]LB[in:16][hq:15][dr:14][fr:13]C[a]
-(;B[gp]LB[gp:17]C[a]
+(;B[gp]LB[gp:17]C[Black 117 was unavoidable, and White caught up a bit from this battle.]
 ;W[jm]
 ;B[lo]
 ;W[km]
 ;B[ln]
-(;W[lg]LB[lg:22][jm:18][km:20][ln:21][lo:19]C[a]
+(;W[lg]LB[lg:22][jm:18][km:20][ln:21][lo:19]C[Zhou thought the game was still bad for him, so he created a ko with 122.]
 ;B[mg]
 ;W[hj]
-(;B[hg]LB[hg:25][mg:23][hj:24]C[a]
-;W[li]
+(;B[hg]LB[hg:25][mg:23][hj:24]C[Black 125 was the fighting spirit of Gu, and the game becomes more interesting.]
+(;W[li]LB[li:26]C[White 126 was what Zhou was planned.]
 ;B[kg]
 ;W[ik]
-(;B[ig]LB[ig:29][kg:27][li:26][ik:28]C[a]
+(;B[ig]LB[ig:29][kg:27][ik:28]C[White 126 and 128 were the right order of play, and Black 129 was correct as well.]
 ;W[kh]
 ;B[mh]
 ;W[kj]
 ;B[kg]
 ;W[hp]
-(;B[jj]LB[kg:33][kh:30][mh:31][jj:35][kj:32][hp:34]C[a]
+(;B[jj]LB[kg:33][kh:30][mh:31][jj:35][kj:32][hp:34]C[Black 135 was the right move, and there's a big trade.]
 ;W[hr]
 ;B[gr]
 ;W[ir]
@@ -366,7 +368,9 @@ This attachment is more efficient than playing B in terms of territory.]
 ;B[kg]
 ;W[ff]
 ;B[jf]
-;W[gf]LB[ff:11][gf:13][jf:12][kg:10][kh:2][jj:3][kk:4][il:9][jl:8][kn:6][ko:7][hr:1]C[a]))
+;W[gf]LB[ff:12][gf:14][jf:13][kh:2][jj:3][kk:4][il:10][jl:9][kn:6][ko:7][hr:1]C[If Black responds at 1, White will keep dealing the ko. Black will eventually win the ko with 13, but White can also save his group with 14.
+
+The result is favorable for White, because the exchange of Black 9 for White 10 was too bad for Black. That's why Gu didn't respond at 1 in the actual game.]))
 (;B[jj]
 ;W[kh]
 ;B[mh]
@@ -376,13 +380,17 @@ This attachment is more efficient than playing B in terms of territory.]
 ;B[kg]
 ;W[kn]
 ;B[ko]
-;W[kh]LB[ig:5][kg:7][kh:2][mh:3][jj:1][kk:6][jl:4][kn:8][ko:9]C[a])
+;W[kh]LB[ig:5][kg:7][kh:2][mh:3][jj:1][kk:6][jl:4][kn:8][ko:9]C[Connecting at Black 1 is wrong. There'll be a big ko in the center, but there're no big enough ko threats for Black after White 10.])
 (;B[lj]
-;W[ig]LB[ig:6][kh:2][mh:3][jj:1][lj:5][jl:4]C[a])))
+;W[ig]LB[ig:6][kh:2][mh:3][jj:1][lj:5][gk:A][jl:4]C[If Black ataris at 5 instead, White will connect at 6, and Black A is isolated.])))
+(;W[ig]
+;B[hk]
+;W[il]
+;B[gj]LB[je:A][ke:E][if:C][lf:B][ig:1][kg:D][gj:4][hk:2][il:3]C[White shouldn't connect at 1, because Black will play 2 to 4, and White has to live with A to E in gote. That's too bad for White.]))
 (;B[hk]
 ;W[il]
 ;B[ik]
-;W[hg]LB[hg:4][li:A][hk:1][ik:3][il:2]C[a]))
+;W[hg]LB[hg:4][li:A][hk:1][ik:3][il:2]C[If Black blocks at 1, White will play 2 to 4. This is much better for White than the previous variation, so Gu didn't respond at 1 right away.]))
 (;W[il]
 ;B[gj]
 ;W[fi]
@@ -396,7 +404,9 @@ This attachment is more efficient than playing B in terms of territory.]
 ;W[ke]
 ;B[qh]
 ;W[od]
-;B[oh]LB[od:13][je:7][ke:11][if:9][lf:8][hg:4][ig:5][kg:10][oh:14][qh:12][fi:3][ej:6][gj:2][il:1]C[a]))
+;B[oh]LB[od:13][je:7][ke:11][if:9][lf:8][hg:4][ig:5][kg:10][oh:14][qh:12][fi:3][ej:6][gj:2][il:1]C[The hanging connection at White 1 is normal, but then Black will squeese White's center group up to 11 in sente.
+
+Black is still in the lead up to 14, so White didn't play 1, but tried to do other way.]))
 (;B[im]
 ;W[jm]
 ;B[km]
@@ -408,7 +418,9 @@ This attachment is more efficient than playing B in terms of territory.]
 ;B[gp]
 ;W[hp]
 ;B[gq]
-;W[fo]LB[il:5][hm:4][im:1][jm:2][km:3][fo:12][gp:9][hp:10][gq:11][gr:7][hr:6][ir:8]C[a]))
+;W[fo]LB[il:5][hm:4][im:1][jm:2][km:3][fo:12][gp:9][hp:10][gq:11][gr:7][hr:6][ir:8]C[Black shouldn't respond the center with 1, because White can come back at 6 to do the capturing race.
+
+White can win the race this time.]))
 (;W[hr]
 ;B[gr]
 ;W[hp]
@@ -422,15 +434,17 @@ This attachment is more efficient than playing B in terms of territory.]
 ;W[hn]
 ;B[gm]
 ;W[hm]
-;B[hl]LB[hl:14][gm:12][hm:13][fn:7][gn:8][hn:11][fo:6][ho:9][gp:4][hp:3][gq:10][gr:2][hr:1][ir:5]C[a]))
+;B[hl]LB[hl:14][gm:12][hm:13][fn:7][gn:8][hn:11][fo:6][ho:9][gp:4][hp:3][gq:10][gr:2][hr:1][ir:5]C[White can also think about fighting with 1 to 3, but that doesn't work.
+
+Black 6 and 8 are nice, and the capturing race up to 14 favors Black.]))
 (;W[hq]
-;B[er]LB[hq:1][er:2]C[a]))
+;B[er]LB[bp:B][hq:1][er:2][ir:A]C[Capturing the Black stone with 1 or A isn't good. Black will be satisfied to live witth 2, and in addition, Black can block at B to capture the two stones later.]))
 (;B[ir]
 ;W[jn]
 ;B[ko]
 ;W[kn]
 ;B[lo]
-;W[il]LB[il:6][jn:2][kn:4][ko:3][lo:5][ir:1]C[a]))
+;W[il]LB[il:6][jn:2][kn:4][ko:3][lo:5][ir:1]TR[jq][jr]C[Black shouldn't be greedy to capture the marked stones. White will play 2 to 6 to reduce Black's center area, and that's more valuable than capturing the marked stones.]))
 (;B[lq]
 ;W[jo]
 ;B[ip]
@@ -444,9 +458,11 @@ This attachment is more efficient than playing B in terms of territory.]
 ;B[lp]
 ;W[er]
 ;B[dr]
-;W[br]LB[in:6][jn:7][ho:8][io:5][jo:2][ko:9][hp:10][ip:3][lp:11][iq:4][lq:1][br:14][dr:13][er:12]C[a]))
+;W[br]LB[in:6][jn:7][ho:8][io:5][jo:2][ko:9][hp:10][ip:3][lp:11][iq:4][lq:1][br:14][dr:13][er:12]TR[ep][fp][dq][fq][cr]C[Black 1 is what White wants to see. White will play 2 to 6 as driving tesuji, and White can attack the bottom left with 12 and 14. 
+
+The marked stones will be captured, so Black shouldn't just extend at 1.]))
 (;W[gp]
-;B[er]LB[gp:1][er:2]C[a]))
+;B[er]LB[gp:1][er:2]C[Connecting at White 1 is lack of strategy and Black will be happy to play 2 to settle down.]))
 (;B[er]
 ;W[fp]
 ;B[bp]
@@ -456,16 +472,20 @@ This attachment is more efficient than playing B in terms of territory.]
 ;B[bs]
 ;W[bo]
 ;B[ar]
-;W[jn]LB[jn:10][bo:8][bp:3][fp:2][eq:4][ar:9][br:6][dr:5][er:1][bs:7]C[a]))
+;W[jn]LB[jn:10][bo:8][bp:3][fp:2][eq:4][ar:9][br:6][dr:5][er:1][bs:7]C[Black 1 is also conceivable, but then White will atari 2 to sacrifice the two stones in the corner.
+
+The result up to White 10 is satisfactory for White, because the game becomes wider and complex, and that's welcoming news for White since he was behind.]))
 (;W[do]
 ;B[cr]
 ;W[dr]
 ;B[er]
 ;W[eq]
-;B[hg]LB[hg:6][do:1][eq:5][cr:2][dr:3][er:4]C[a]))
+;B[hg]LB[hg:6][do:1][eq:5][cr:2][dr:3][er:4]C[Connecting at White 1 is normal, but then Black will hane at 2 to create a ko. 
+
+Black has so many ko threats from 6, so White didn't choose 1 in the actual game.]))
 (;W[fj]
 ;B[fg]
-;W[gq]LB[fg:2][fj:1][gq:3]C[a]))
+;W[gq]LB[fg:2][fj:1][gq:3]C[White could also think about going out at 1. If Black still plays 2 to connect, that's better for White compared to the actual game.]))
 (;B[hp]
 ;W[ik]
 ;B[il]
