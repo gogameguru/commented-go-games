@@ -1,0 +1,923 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[7.50]
+PW[Gu Li]PB[Mi Yuting]WR[9p]BR[4p]DT[2013-12-2]EV[MLily Cup ]RO[Final, Game 2]SO[gogameguru.com]C[This is game 2 from the 1st MLily Cup final played between Gu Li 9p and Mi Yuting 4p. 
+
+The game was played on December 2, 2013, in China.
+
+Gu won game 1 of the final, and if Gu wins this game again, it'll be an easy series for him. 
+
+Gu Li was ranked #3 in China by the time this game was played, and he was still one of the most popular players along with Lee Sedol 9p in the world. 
+
+Gu's already won seven international titles in his career, but the last time was 2010.
+
+His style of play is active and creative. He's very good at opening, and his haengma is sharp and strong. His games are always dynamic and thrilling, and that's the main reason why people like his games so much. 
+
+Gu defeated Na Hyun 3p, Hu Yaoyu 9p, Wang Lei 6p, and Zhou Ruiyang 9p (2-0 in the semifinal) respectively to the final. 
+
+
+Mi Yuting was born in 1996, and he became a pro in 2007. He was ranked #7 in China, but he was still unknown internationally by that time. 
+
+His best result in the international tournaments before this MLily Cup was round of 16. However, his performance in this tournament was very impressive. 
+
+He defeated Lee Sedol 9p, Kang Dongyun 9p, Kong Jie 9p, Dang Yifei 4p and Wang Xi 9p (2-1 in the semifinal) to reach the final.
+
+He was relatively unknown, but his reading was already propound and accurate, and he's also got strong mind even if he was only 17 year old boy.
+
+The time limit for this final is 3 hours with 1 min x 5 times each. 
+The winner's prize is 1,800,000 RMB (US$ 300,000approx), and 600,000 RMB for the runner-up. 
+
+
+Let's have a look at game 2 of the 1st MLily Cup final. 
+]RE[B+Resign]
+;B[pd]C[Mi Yuting plays black. ]
+;W[dc]
+;B[pq]
+;W[dp]
+;B[qk]C[This Chinese opening was still very popular by that time.]
+;W[nc]LB[dc:B][fq:A]C[Gu Li used to play at A a lot, but he chose this approach in this game, that's partly because the B was not in the star point.]
+;B[pf]
+;W[jd]LB[dc:A]C[White started with Kobayashi opening against Black's Chinese opening.]
+;B[fq]LB[cf:A]C[Approaching at A is also common, but Mi chose to develop his position first. ]
+;W[cn]
+;B[jp]
+;W[po]
+;B[np]
+;W[qq]
+;B[qr]
+;W[qp]
+;B[rr]
+;W[qm]
+;B[nn]
+(;W[pk]C[It's a well known joseki from the Chinese opening. 
+
+This attachment is very rarely played, but Gu Li might have researched. ]
+(;B[qj]C[a]
+;W[pj]C[a]
+(;B[rm]LB[pi:A][qi:B]C[White pushed again since black just extended. 
+
+Mi didn't like to answer at A or B, so he tried to play differently. ]
+;W[pl]
+;B[qn]
+;W[pn]
+;B[rn]
+(;W[pi]C[Black removed white's base, but it wasn't a very good idea, because this area is small. ]
+;B[qi]
+;W[pg]
+;B[qg]
+;W[og]TR[pi][pj][pk][pl][pn][po]SQ[nn][jp][np][fq][pq]C[It was a nice attachment to get rhythm. 30
+
+Since white's stones are getting more solid, black's lower side is getting more thiner. ]
+;B[of]
+;W[nf]
+;B[ng]
+;W[nh]
+;B[mg]
+;W[mh]
+(;B[ne]LB[dc:A]C[Black cuts here to fight. This area is more important than approaching to A. 
+
+It was a good sequence to atari here first. ]
+;W[mf]
+;B[lg]
+(;W[me]C[a]
+;B[lh]
+(;W[li]C[a]
+(;B[md]C[It was a good idea to hane here. ]
+(;W[kf]C[Jumping here was the right answer for white. ]
+;B[nd]
+;W[kh]
+(;B[mc]TR[nc][lg][mg][ng][lh]C[The marked stones are practically captured. 
+
+The trade up to here was an even result. ]
+(;W[ce]C[Enclosing here was big, and the game's playable for both. ]
+;B[ke]
+(;W[kg]C[It was a nice tesuji to come out. 
+
+It was inevitable. ]
+;B[je]
+;W[hd]
+(;B[cf]LB[hq:A][lq:B]C[Black has more territories, but white has more potential over the center area, and there're some weaknesses at A and B. 
+
+It was a good idea to attach here. ]
+;W[df]
+;B[cg]
+;W[be]
+;B[dg]
+(;W[dj]TR[cf][cg][dg]C[It was the right move, and black needs to look after the marked stones. ]
+;B[id]
+(;W[qc]LB[id:A]C[It was a very subtle time to wedge here. It wasn't necessary, but this move was rather a probe. 
+
+It was a reverse probe. Gu wanted to check where would black respond before answering to A. ]
+;B[ob]
+;W[ie]LB[ic:A]C[It was the right answer, and there's no aji in the corner at the moment. 
+
+Gu cut here. He might have thought that answering back at A is a bit passive. ]
+;B[ic]
+;W[hc]
+;B[jc]
+(;W[ci]TR[cf][cg][dg]C[White started to attack the marked stones severely. ]
+;B[ef]
+;W[de]
+;B[ei]
+;W[ej]
+;B[fi]LB[jd:A]
+;W[fj]
+(;B[he]C[Since black got the stone A, wihte should attack this black group to get compensation. 
+
+It was a nice cut to settle the group. ]
+;W[if]
+;B[hf]
+(;W[fd]C[This black group has become flexible, so it's not easy to attack. 
+
+Reinforcing here looked a bit slack, but it's very hard to find a vital point to attack. ]
+;B[ig]
+;W[jf]
+;B[gj]
+;W[gk]
+;B[hj]
+;W[hk]
+;B[di]
+;W[mb]
+(;B[rf]LB[qh:A][rh:B]C[Black's practically settled, and black took the lead of the game here. 
+
+Gu Li is very good at this sort of aji. It's not easy to respond properly, but
+
+It was a very clever response. White loses some points on the right side, because A to C isn't sente anymore. ]
+(;W[hq]C[It was necessary to invade here to catch up. ]
+;B[dq]
+;W[cq]
+;B[hp]
+(;W[nq]LB[dq:A]C[This attachment was a good combination with A. 
+
+It was Gu Li's creative move. ]
+(;B[mq]C[It was the proper response. ]
+;W[mp]
+(;B[mo]C[It was necessary, and ]
+(;W[eq]LB[mp:B][nq:A]C[White just captures the single stone, because white already got some points to exchange of A and B. ]
+;B[fp]
+;W[fr]
+;B[gr]
+;W[er]
+;B[hr]
+;W[iq]
+;B[gq]
+;W[hh]
+(;B[cj]LB[mp:B][nq:A]C[The game becomes very close after A and B. 
+
+White came back to attack this group again. 
+
+It was a good time to cut here.]
+;W[ck]
+;B[bj]
+(;W[bi]C[It was the right move for white. ]
+;B[fe]
+;W[ip]
+;B[io]
+;W[ho]
+;B[jq]
+;W[ir]
+(;B[jr]C[It's not easy for white to continue attacking the black group, so Gu played here as a probe. 
+
+Atari back here was the correct answer. ]
+;W[qe]
+;B[qf]
+;W[oc]
+;B[pc]
+;W[hb]
+;B[ih]
+;W[ii]
+(;B[bk]TR[mb][nc][oc]C[120 was a big endgame move, and white aims at saving the marked stones later. ]
+;W[ah]
+;B[ij]
+;W[gp]
+;B[is]
+;W[en]
+;B[cl]
+;W[dk]
+;B[ik]
+(;W[gn]LB[hh:A]C[Black captured the stone A, and the game's still very close.
+
+It was a nice jump, and the left side territory has become quite big.  e6
+
+This move was a bit too greedy. ]
+;B[fm]
+(;W[fl]C[Peeping here was very sharp.
+
+Even if white answered here, ]
+;B[ch]
+;W[ag]
+;B[em]
+;W[gm]
+;B[cm]
+(;W[aj]C[There was still a bad aji here. 
+
+It was the strongest move to attack this black group, but]
+;B[fn]
+;W[fo]
+;B[ak]
+;W[ai]
+(;B[dn]LB[aj:A]C[This atari was a good idea, since white played at A. ]
+;W[eo]
+;B[co]
+(;W[bl]C[It's hard for white to capture this black group, and white's in big trouble. ]
+;B[bm]
+;W[al]
+;B[bq]
+;W[br]
+;B[cp]
+;W[dr]
+;B[ap]C[It was a nice attachment  b3, and 
+
+Black lives. As a result, white's big territory has destroyed, and it's very hard for white to get compensation. ]
+;W[nb]
+;B[pb]
+;W[kb]
+(;B[kc]LB[hb:A]C[White was aiming at this jump since white played at A. 
+
+It was the right answer, and ]
+;W[jb]
+;B[ib]
+;W[ia]
+;B[lb]
+;W[la]
+;B[lc]
+;W[hg]
+(;B[gg]LB[ma:A]TR[mb][nb][nc][oc]C[White connected in sente. White needs to connect at A to save the extra 4 stones though. 
+
+It was the correct answer. ]
+;W[op]
+;B[lp]
+;W[oq]
+;B[pr]
+(;W[ma]LB[pp:A]C[Connecting here was good. Black can poke at A later. 
+
+This move was bigger than it looks.]
+;B[le]
+;W[lf]
+;B[pp]
+;W[oo]
+;B[qo]
+;W[gh]
+;B[fg]
+;W[jh]
+;B[hp]C[This move 180 was miai with 181.
+
+It was a big endgame move, and black's winning around 10 points on the board. ]
+;W[mr]
+;B[go]
+;W[dm]
+;B[dl]
+;W[el]
+;B[dm]
+;W[gp]
+;B[ha]
+;W[gd]
+;B[ee]
+;W[bn]C[White went all out here. ]
+;B[do]
+;W[bo]
+;B[ep]
+;W[go]
+;B[dq]
+;W[fh]
+(;B[cr]C[It's a ko, but Mi already expected this variation. 197
+
+It was the right decision, and ]
+;W[eh]
+;B[ja]
+;W[jm]LB[ja:B][cr:A]TR[gj][hj][ij][ik]C[White captured black's center group. 
+
+While white captured the center group, black got A and B, so white should capture the marked stones as well to catch up. ]
+;B[om]
+;W[pm]
+;B[gb]
+(;W[fb]C[This hane was sente. ]
+;B[jl]
+(;W[jn]TR[gj][hj][ij][ik]C[Mi already figured out that he can save the marked stones. ]
+;B[in]
+;W[im]
+;B[ll]
+;W[mm]
+;B[lm]
+;W[ln]C[It looks as if black's in trouble, but ]
+(;B[hm]C[This wedge was an excellent move. ]
+(;W[il]C[This move was a bit more tricky, but ]
+;B[kn]C[It was a good move to manage the situation. ]
+(;W[km]
+;B[kl]
+;W[ko]
+;B[mn]
+;W[hl]C[It was necessary for white to come back, and ]
+(;B[fc]C[It was a brilliant move! ]
+(;W[ec]C[It was inevitable, but ]
+;B[ji]C[Black can cut here now. ]
+(;W[hi]C[It was inevitable, and ]
+;B[nk]TR[gj][hj][ij][ik]C[Black could even save the marked stones. ]
+;W[gi]
+;B[kj]C[The game was actually finished here. ]
+;W[lq]
+;B[mp]
+;W[lr]
+;B[am]
+;W[ki]
+;B[ml]
+;W[lk]
+;B[jk]LB[mb:2][fc:J][qc:1][ce:F][me:E][hh:4][di:G][lj:A][pk:C][rm:D][gn:I][kp:B][nq:H][ir:3]C[White resigned here. 
+
+A and B are miai for black to live, and white's far behind now.  
+
+Mi Yuting won the game 2, and the series had become a tie with 1-1. 
+
+The game started with a new variation. C was unusual, and D was a bit questionable. E wasn't good, and the result up to F was even. Black had a better result up to G, but H was Gu Li's brilliant move, and the game became even again. I was a mistake, and when black lived on the left side, black took the lead of the game. White tried very hard to catch up after that, but J was the finishing blow, and Mi Yuting didn't give white any chances until the end of the game. 
+
+Mi Yuting showed his strongness at the close combat, especially on the left hand side. Gu Li tried very hard to make the game complicated through the whole game, but Mi didn't make any mistakes against Gu Li's tricky moves, and clearly finished the game. 
+
+On the other hand, it wasn't very impressive game by Gu Li. The game was his style, but he didn't show the power and sharpness against a new teenage challenger. Normally, his opponents easily get trapped against his tricky probes like 1-4. However, Mi still kept his calmness, and Gu couldn't grasp any good chance to win. 
+
+I hope that you'll understand and enjoy this exciting game more with the commentary, and please feel free to leave a comment if you have any questions or opinions about the game.
+
+Thanks, 
+
+Commented by Younggil An 8p
+
+http://gogameguru.com/])
+(;W[nl]C[If white still plays here to disconnect black, ]
+;B[ge]LB[ec:B][fc:A]C[This connection is sente, because of the exchange of A for B.]
+;W[ed]
+;B[hi]TR[hg][eh][fh][gh][hh]C[Black can live with capturing the 5 stones. ]))
+(;W[ed]C[If white answers here, ]
+;B[eb]C[Black's happy enough with this. ]))
+(;B[ji]C[If black cuts here, ]
+;W[nl]C[The game will suddenly be reversed. ]
+;B[hi]
+;W[ge]
+;B[gf]
+;W[eg]C[Black can't live in the center. ])
+(;B[nk]C[Anybody can think of playing here, and ]
+;W[jk]TR[gj][hj][ij][ik]C[White can cut here to capture the 4 stones. ]))
+(;W[kl]C[If white ataris here, ]
+;B[km]
+;W[jk]
+;B[lk]
+;W[jj]
+;B[am]C[Black's still winning by a big margin. ]))
+(;W[hl]C[If white ataris here, ]
+;B[mn]
+;W[km]
+;B[ml]
+;W[kl]
+;B[kk]
+;W[lk]
+;B[mk]
+;W[lj]
+;B[hn]
+;W[il]
+;B[gl]C[Black's winning a lot. ]))
+(;B[mn]C[If black cuts here, ]
+;W[km]
+(;B[ml]
+;W[kl]
+;B[kk]
+;W[lk]
+;B[hm]
+;W[il]TR[gj][hj][ij][ik][kk][jl]C[Black can't save the marked stones. ])
+(;B[kl]
+;W[nl]
+;B[hm]
+;W[hl]
+;B[hn]
+;W[il]TR[gj][hj][ij][ik][jl][kl][ll][gm][lm][en][gn][eo][fo][go][ho][gp]C[Even if black can capture the 8 stones, black's marked stones are far bigger. ])))
+(;W[im]
+;B[kl]
+;W[km]
+;B[ml]
+;W[lm]
+;B[nk]C[If white extends, 
+
+Black can connect like this. ])
+(;W[km]
+;B[im]
+;W[in]
+;B[jn]
+;W[hm]
+;B[hn]C[If white extends here, 
+
+It's a ko, but there's no good ko threat for white. ]))
+(;W[kl]
+;B[ed]
+;W[ec]
+;B[fc]
+;W[fb]
+;B[ge]TR[hb][hc][fd][gd][hd]C[If white doesn't answer, 
+
+Black can capture the five stones by a snapback.]))
+(;B[eh]
+;W[dp]C[If black answers here,
+
+There's no good ko threats for black. ]))
+(;W[le]
+;B[ma]
+;W[na]
+;B[pp]TR[na][mb][nb][nc][oc]C[If white ataris here, 
+
+Black will throw in here.
+
+If white takes it, 
+
+The marked stones are already captured. ]))
+(;B[hi]
+;W[gg]
+;B[ff]
+;W[fg]
+;B[eg]
+;W[ji]TR[ig][ih]C[If black carelessly cuts here, 
+
+White can extend here, and 
+
+White can rather capture the marked stones. ])
+(;B[ji]
+;W[fg]
+(;B[eg]
+;W[ff]
+;B[ee]
+;W[ge]TR[he][hf]C[If black ataris here, 
+
+White will jump here. 
+
+White's happy to capture the two stones. ])
+(;B[ff]
+;W[eg]LB[ff:A][fg:B]C[Black will lose the capturing race between A and B. ])))
+(;B[jb]
+;W[kc]
+;B[kd]
+;W[ja]
+;B[ia]
+;W[ka]
+;B[ib]
+;W[ha]
+;B[jd]
+;W[ld]TR[ia][ib][jb][ic][jc][id][jd][kd][je][ke]C[If black tries to disconnect white, 
+
+This hane is good, and  k19
+
+The marked stones will be captured like this. ]))
+(;W[bp]
+;B[do]
+;W[ep]
+;B[bm]
+;W[am]
+;B[an]C[If white plays here to attack, 
+
+Black can live like this. 
+
+Black's alive. ])
+(;W[bn]
+;B[do]
+;W[ep]
+;B[bo]
+;W[bl]
+;B[bm]
+;W[al]
+;B[bq]
+;W[br]
+;B[aq]C[If white extends here, 
+
+Black can still live. ]))
+(;B[eo]
+;W[dn]
+;B[go]
+(;W[dm]LB[aj:A][bn:B]TR[bj][cj][ak][bk][cl][cm]C[If black still cuts, 
+
+White will connect here. 
+
+White has more options now, because white played at A instead of B. 
+
+White can still capture the marked stones. ])
+(;W[op]
+;B[fo]
+;W[no]
+(;B[el]
+;W[bl]LB[dm:A]C[This could be a good ko threat. 
+
+White's marked stones are still safe because A and 8 are miai for white. ])
+(;B[bl]
+;W[dm]
+;B[dl]
+;W[el]
+;B[bn]
+;W[am]
+;B[do]
+;W[co]
+;B[bo]
+;W[cp]
+;B[an]
+;W[ap]C[Black can't live on the left side. ]))))
+(;W[bn]
+;B[fn]
+;W[fo]
+;B[eo]
+;W[go]
+;B[dn]
+;W[ep]
+;B[do]
+;W[dl]
+;B[dm]
+;W[bm]
+;B[bl]
+;W[aj]C[White should play here to capture black, but ]
+;B[co]
+;W[bo]
+;B[hl]
+;W[gl]
+;B[el]
+;W[fk]
+;B[in]TR[dj][ej][fj][ck][dk][fk][gk][hk][dl][fl][gl][gm][gn][fo][go][ho][gp][ip][hq][iq][ir]C[If white answers here, 
+
+White's stones will rather be captured. ])
+(;W[dn]
+;B[aj]
+;W[ai]
+;B[al]C[If white connects, 
+
+Black can still live like this. 
+]))
+(;W[fn]
+;B[cm]
+(;W[fl]
+;B[bh]
+;W[ag]
+;B[aj]
+;W[ai]
+;B[al]
+;W[bm]
+;B[bn]LB[bm:A]C[If white connects, 
+
+Black will play here, and
+
+Black can live like this. 
+
+White can't save the stone A.])
+(;W[bn]
+;B[fk]TR[dj][ej][fj][ck][dk]C[If white answers here,
+
+Black will cut here, and white can't save the marked stones.])))
+(;W[fl]C[Reinforcing here was right, and the game would still be even.]))
+(;B[hi]
+;W[ij]C[If black cuts here, 
+
+White can atari here in sente. ]))
+(;B[gp]
+;W[lp]
+(;B[nr]
+;W[jo]
+;B[in]
+;W[jr]
+(;B[ko]
+;W[lq]
+;B[mr]
+;W[jn]
+;B[kp]
+;W[jm]
+;B[im]
+;W[gh]
+;B[ih]
+;W[ii]
+;B[hi]
+;W[gi]
+;B[ij]
+;W[ji]TR[hi][gj][hj][ij][im][in][io]C[If black connects here, 
+
+White will extend here. m4
+
+White can come back here to attack this group, and 
+
+Black's in deep trouble. Black can't save both of the marked stones. ])
+(;B[kq]
+;W[lq]LB[kr:A][mr:B]C[If black extends, 
+
+White can atari here, and A and B are miai. ]))
+(;B[lq]
+;W[op]
+;B[no]
+;W[oq]
+;B[pr]
+;W[ko]TR[lp][mp]C[If black answers here, 
+
+It's good for white, because white can utilize the marked stones later. 
+
+White can move the marked stones, and it's troublesome for black. ])))
+(;W[bk]
+;B[bi]C[Answering here's wrong, because
+
+It's too easy for black. ]))
+(;B[ih]
+;W[hg]LB[gf:A][ii:B]C[If black blocks here, 
+
+White will cut here. A and B are miai for white. ]))
+(;W[op]
+;B[lp]
+;W[oq]
+;B[pr]
+;W[pp]
+;B[mr]LB[sq:B][or:A]C[a]))
+(;B[oq]LB[no:B][lq:A]C[If black ataris here, white can choose either the atari at A or B later. ]))
+(;B[oq]
+;W[mp]
+;B[mo]
+;W[op]
+;B[no]
+;W[ip]
+(;B[io]
+;W[iq]
+;B[gp]
+;W[jq]
+;B[kp]
+;W[mr]LB[ho:B][or:A]C[If black answers here, 
+
+White can come back here, and 
+
+White can play here. A and B are miai for white. ])
+(;B[iq]
+;W[io]
+;B[jq]
+(;W[gq]
+;B[gp]
+;W[fr]
+(;B[fp]
+;W[er]TR[io][ip]C[If black cuts, 
+
+Playing here is a better idea for white. 
+
+It's hard to capture the marked stones. ])
+(;B[ep]
+;W[dr]TR[io][ip]C[It's still hard for black to capture the marked stones. ]))
+(;W[gp]
+;B[hr]
+;W[ho]
+;B[gq]TR[mo][no][mp][op][nq]C[If white ataris here, 
+
+The result is favorable for black, because the exchanges help black. ]))))
+(;W[iq]
+;B[ip]
+;W[jq]
+;B[kq]
+;W[kr]
+;B[lq]
+;W[lr]
+;B[mr]
+;W[gq]
+;B[gp]
+;W[fr]
+;B[er]
+;W[fp]
+;B[eq]
+;W[gs]
+;B[ep]
+;W[do]
+;B[fn]C[If white just extends here, 
+
+White can live, but 
+
+The game is still better for black. Gu might have thought it's too easy for black. ])
+(;W[ip]
+(;B[io]
+;W[iq]
+;B[gp]
+;W[jq]
+;B[kp]
+;W[mr]
+;B[mq]
+;W[lr]
+;B[nr]
+;W[gr]
+;B[hn]C[If white wedges here, 
+
+Black will answer like this, and 
+
+Up to here, the game's still slightly favorable for black. ])
+(;B[iq]
+;W[io]
+(;B[jq]
+;W[gp]
+;B[hr]
+;W[ho]
+;B[gq]C[Cutting here isn't good.
+
+Even if black can connect under, the game's become even. ])
+(;B[ho]
+;W[gq]
+(;B[fp]
+;W[jq]
+;B[ir]
+;W[jr]TR[iq][ir]C[If black pushes up here, 
+
+This move is annoying for black. 
+
+If black extends here, 
+
+White can capture the marked stones. ])
+(;B[gp]
+;W[fr]
+;B[ep]
+;W[ir]
+;B[jq]
+;W[jr]C[If black blocks here, 
+
+White can play like this, and the game becomes more complicated. ])))))
+(;W[pb]
+;B[oc]
+(;W[rb]
+;B[rd]
+;W[qa]
+;B[rc]C[If white attaches here, 
+
+Black can simply answer here, and white can't live in the corner. 
+
+White dies. ])
+(;W[rd]
+;B[rb]C[White can't live in the corner. ])))
+(;B[nb]
+;W[ld]
+(;B[le]
+;W[lf]
+;B[kd]
+;W[qf]
+(;B[rg]
+;W[oe]
+;B[pe]
+;W[lc]
+;B[oc]
+;W[kc]TR[kd][je][ke][le]C[If black cuts here, 
+
+White can hane here. 
+
+This cut doesn't work, because Black's in trouble. 
+
+If black answers here, s13
+
+White can capture the marked stones. ])
+(;B[pe]
+;W[qh]
+;B[rg]
+;W[rh]C[If black answers here, 
+
+It's also a big problem for black. ]))
+(;B[lc]LB[kd:A]C[Answering here is right, but white can come back at A later. ])))
+(;W[hg]
+;B[gg]
+;W[hh]
+;B[fe]
+;W[fd]
+;B[gh]
+;W[hi]
+;B[di]C[If white hanes here, 
+
+Black can live like this. ]))
+(;B[gi]
+;W[if]
+;B[gj]
+;W[gk]
+;B[hk]
+;W[hj]C[a]))
+(;W[ef]
+;B[cj]
+;W[ci]
+;B[di]C[a]))
+(;W[ic]
+;B[ie]
+;W[hc]
+;B[ef]
+;W[de]
+;B[gf]C[If white answers back, 
+
+It's easy for black to run away towards the center. ]))
+(;W[ef]
+;B[ck]C[If white answers here, 
+
+It's too easy for black to settle. White didn't want this variation. ]))
+(;B[di]
+;W[ck]C[If black splits here, 
+
+White will extend here. ])
+(;B[dj]
+;W[ch]LB[cf:A]C[If black splits here, 
+
+White can come here, so black attached at A instead. ]))
+(;W[je]
+;B[lf]TR[me][mf][nf]C[If white answers here, 
+
+Black can captures the three stones. ]))
+(;W[kg]
+;B[cf]C[If white reinforces here, 
+
+Black can approach here first. ]))
+(;B[oh]
+;W[ph]
+;B[mi]
+;W[ni]
+;B[ki]
+;W[mj]
+;B[kg]
+;W[jg]
+;B[jh]
+;W[lf]
+;B[kh]
+;W[ig]
+;B[kj]
+;W[qh]C[If black tries to save the four stones, 
+
+Black can come out like this, but 
+
+It's troublesome here. ]))
+(;W[nd]
+;B[le]
+;W[oe]
+;B[lf]
+;W[ne]
+;B[qf]
+;W[kc]
+;B[mi]C[If white cuts here, 
+
+It's necessary to connect under here, and 
+
+Black can cut here now. It's not easy for white to fight properly. ]))
+(;B[mi]C[If black cuts here, ]
+;W[ni]
+;B[mj]
+;W[qh]
+;B[rh]
+;W[ph]
+;B[qf]
+;W[lj]
+;B[mk]
+;W[lk]
+;B[ml]
+;W[kh]
+;B[kg]
+;W[jg]TR[kg][lg][mg][ng][lh]C[If black cuts here, 
+
+It's sente, and 
+
+Black's marked stones will be captured. ]))
+(;W[qf]
+;B[qh]
+;W[li]
+;B[mi]TR[qf][qh]C[If white cuts here, 
+
+The exchange becomes bad for white when black cuts here. ]))
+(;W[lh]
+;B[kg]
+;W[me]TR[og][pg][lh][mh][nh]C[White should have pushed once more. 
+
+White's marked stones are stronger than in the game. ]))
+(;B[lg]
+;W[ne]LB[qe:B][qf:A][qh:C]C[If black extends here, 
+
+White will extend here. Black needs to worry of A to C later. ]))
+(;W[qi]
+;B[pi]C[If white hanes here, 
+
+Black will cut, and it's hard for white to fight properly here. ]))
+(;B[pi]
+;W[qi]
+;B[qh]
+;W[ri]
+;B[rh]
+;W[oi]
+;B[ph]
+;W[ql]
+;B[rj]
+;W[rk]
+;B[si]
+;W[ce]C[If black hanes here, 
+
+Cutting here is good, and 
+
+White can take sente, and 
+
+White can enclose here. It's a good result for white. ])
+(;B[qi]
+;W[pi]
+;B[qh]
+;W[om]LB[pk:A]C[If black extends here again, 
+
+White will jump here to make a good shape. White's position here is more active than the other joseki I showed instead of A. ]))
+(;B[pj]
+;W[pl]
+;B[qj]
+;W[nk]
+;B[nj]
+;W[mj]
+;B[ni]C[In the game 4 of this final, the opening was the same up to here, and Mi haned here. 
+
+It's another game, and Mi may have thought this result is better than the present game. ]))
+(;W[om]
+;B[on]
+;W[pn]
+;B[pl]
+;W[rk]
+;B[rj]
+;W[rl]
+;B[qj]
+;W[pm]LB[dc:A]C[This is common, and 
+
+This is a joseki, and black has sente to approach to A. ]))
