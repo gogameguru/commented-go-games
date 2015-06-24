@@ -1,76 +1,78 @@
 (;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
 RU[Japanese]SZ[19]KM[6.50]TM[1800]OT[5x40 byo-yomi]
-GN[An-Jungki-vs-Chen-Yaoye-20150608]PW[Chen Yaoye]PB[An Jungki]WR[9p]BR[5d]DT[2015-06-08]EV[20th LG Cup]RO[Round of 32]PC[Kangwon, Korea]SO[https://gogameguru.com/]C[An Jungki plays Black.]RE[B+Resign]
-;B[pd]
+GN[An-Jungki-vs-Chen-Yaoye-20150608]PW[Chen Yaoye]PB[An Jungki]WR[9p]BR[5d]DT[2015-06-08]EV[20th LG Cup]RO[Round of 32]PC[Kangwon, Korea]SO[https://gogameguru.com/]RE[B+Resign]
+;B[pd]C[An Jungki plays Black.]
 ;W[dd]
 ;B[qp]
 ;W[dq]
 ;B[oq]
-(;W[cl]C[a]
-(;B[nc]C[a]
+(;W[cl]LB[dd:2][pd:1][ck:A][cl:6][qp:3][dq:4][oq:5]C[White 6 is a kind of Chinese opening. This is more concerned about the corner compared to the original Chinese opening at A.]
+(;B[nc]LB[nc:7][qj:A]C[The enclosure at Black 7 is quite common in this opening. Black used to play on the right side first at A, but opening theory's been changed.]
 ;W[qj]
 ;B[qh]
-(;W[fc]C[a]
+(;W[fc]LB[fc:10][qh:9][qj:8]C[White 8 is necessary now, and enclosing the corner with White 10 is Chen's style of play.]
 ;B[ql]
-(;W[jp]C[a]
+(;W[jp]LB[ql:11][jp:12]C[Black 11 was natural, since White didn't play, but enclosed the top left corner.
+
+White 12 was a miai with Black 11, and the opening up to here was well balanced.]
 ;B[nj]
-(;W[mq]C[a]
+(;W[mq]LB[nj:13][oj:A][qj:B][mq:14]C[Black 13 was more flexible than tight cap at A. That's hard for White to move out the stone B, so White played 14 to limit Black's influence from the right side.]
 ;B[jd]
-;W[ce]
-(;B[ho]C[a]
-(;W[in]C[a]
+(;W[ce]LB[jd:15][ce:16][mq:14]C[Black 15 was miai with White 14, and White 16 was Chen's style of play. However, White would have been better played in the bottom left.]
+(;B[ho]LB[ho:17]C[Black showed a very good sense of the opening with Black 17.]
+(;W[in]LB[in:18]C[White 18 was a usual response, but Black had a nice plan...]
 ;B[do]
-(;W[fq]C[a]
+(;W[fq]LB[do:19][fq:20]C[White 20 was the right response. White didn't want to give Black a nice rhythm.]
 ;B[fo]
 ;W[hq]
 ;B[cq]
 ;W[cr]
-(;B[ek]C[a]
-(;W[en]C[a]
+(;B[ek]LB[ek:25][fo:21][cq:23][hq:22][cr:24]C[Black 21 to White 24 were expected, and the long fly at Black 25 was bold and refreshing.]
+(;W[en]LB[en:26]C[a]
 ;B[dp]
 ;W[eq]
 ;B[bp]
 ;W[el]
-(;B[dl]C[a]
+(;B[dl]LB[dl:31][el:30][bp:29][dp:27][eq:28]C[a]
 ;W[dm]
 ;B[dk]
-(;W[fl]C[a]
+(;W[fl]LB[dk:33][fl:34][dm:32]C[a]
 ;B[cm]
 ;W[ck]
-(;B[bm]C[a]
+(;B[bm]LB[ck:36][bm:37][cm:35]C[a]
 ;W[ci]
 ;B[di]
-(;W[ch]C[a]
+(;W[ch]LB[ch:40][ci:38][di:39]C[a]
 ;B[br]
 ;W[gj]
 ;B[gh]
-(;W[ii]C[a]
+(;W[ii]LB[gh:43][ii:44][gj:42][br:41]C[a]
 ;B[gd]
 ;W[gc]
 ;B[hd]
-(;W[qg]C[a]
-(;B[pg]C[a]
+(;W[qg]LB[gc:46][gd:45][hd:47][qg:48]C[a]
+(;B[pg]LB[pg:49]C[a]
 ;W[qf]
 ;B[ph]
-(;W[rd]C[a]
+(;W[rd]LB[rd:52][qf:50][ph:51]C[a]
 ;B[qc]
 ;W[rh]
 ;B[ri]
 ;W[sg]
 ;B[qi]
 ;W[rc]
-(;B[fk]C[a]
+(;B[fk]LB[qc:53][rc:58][sg:56][rh:54][qi:57][ri:55][fk:59]C[a]
 ;W[gk]
 ;B[gl]
-(;W[gm]C[a]
+(;W[gm]LB[gk:60][gl:61][gm:62]C[a]
 ;B[hl]
 ;W[fn]
 ;B[ik]
-(;W[gi]C[a]
+(;W[gi]LB[gi:66][ik:65][hl:63][fn:64]C[a]
 ;B[hh]
 ;W[ij]
 ;B[hn]
-(;W[dj]C[a]
+(;W[dj]LB[hh:67][dj:70][ij:68][hn:69]C[a]
 ;B[ej]
 ;W[ei]
 ;B[cj]
@@ -78,7 +80,7 @@ GN[An-Jungki-vs-Chen-Yaoye-20150608]PW[Chen Yaoye]PB[An Jungki]WR[9p]BR[5d]DT[20
 ;B[dn]
 ;W[em]
 ;B[eh]
-(;W[hm]C[a]
+(;W[hm]LB[eh:77][ei:72][bj:74][cj:73][ej:71][em:76][hm:78][dn:75]C[a]
 ;B[im]
 ;W[jm]
 ;B[il]
@@ -86,18 +88,18 @@ GN[An-Jungki-vs-Chen-Yaoye-20150608]PW[Chen Yaoye]PB[An Jungki]WR[9p]BR[5d]DT[20
 ;B[dh]
 ;W[dj]
 ;B[re]
-(;W[fj]C[a]
+(;W[fj]LB[re:85][dh:83][fi:82][dj:84][fj:86][il:81][im:79][jm:80]C[a]
 ;B[qe]
 ;W[ib]
 ;B[kc]
 ;W[qo]
 ;B[po]
-(;W[pp]C[a]
+(;W[pp]LB[ib:88][kc:89][qe:87][po:91][qo:90][pp:92]C[a]
 ;B[op]
 ;W[pn]
 ;B[pq]
 ;W[qm]
-(;B[rn]C[a]
+(;B[rn]LB[qm:96][pn:94][rn:97][op:93][pq:95]C[a]
 ;W[pl]
 ;B[rm]
 ;W[rl]
@@ -107,8 +109,8 @@ GN[An-Jungki-vs-Chen-Yaoye-20150608]PW[Chen Yaoye]PB[An Jungki]WR[9p]BR[5d]DT[20
 ;W[qk]
 ;B[nn]
 ;W[ml]
-(;B[jn]C[a]
-(;W[nh]C[a]
+(;B[jn]LB[qk:4][ml:6][pl:98][rl:100][om:2][rm:99][jn:7][nn:5][on:1][qn:3]C[a]
+(;W[nh]LB[nh:8]C[a]
 ;B[lj]
 ;W[oi]
 ;B[oj]
@@ -116,24 +118,24 @@ GN[An-Jungki-vs-Chen-Yaoye-20150608]PW[Chen Yaoye]PB[An Jungki]WR[9p]BR[5d]DT[20
 ;B[pi]
 ;W[qb]
 ;B[pb]
-(;W[lh]C[a]
+(;W[lh]LB[pb:15][qb:14][lh:16][oi:10][pi:13][lj:9][oj:11][pj:12]C[a]
 ;B[mg]
 ;W[mh]
 ;B[kk]
-(;W[ki]C[a]
+(;W[ki]LB[mg:17][mh:18][ki:20][kk:19]C[a]
 ;B[nm]
 ;W[rf]
-(;B[se]C[a]
+(;B[se]LB[se:23][rf:22][nm:21]C[a]
 ;W[pf]
 ;B[of]
 ;W[pe]
-(;B[qd]C[a]
+(;B[qd]LB[qd:27][pe:26][of:25][pf:24]C[a]
 ;W[si]
 ;B[oe]
 ;W[sf]
 ;B[rj]
-(;W[og]C[a]
-(;B[oh]C[a]
+(;W[og]LB[oe:29][sf:30][og:32][si:28][rj:31]C[a]
+(;B[oh]LB[oh:33]C[a]
 ;W[rk]
 ;B[ng]
 ;W[sj]
@@ -141,8 +143,8 @@ GN[An-Jungki-vs-Chen-Yaoye-20150608]PW[Chen Yaoye]PB[An Jungki]WR[9p]BR[5d]DT[20
 ;W[pm]
 ;B[ok]
 ;W[pk]
-;B[lq]C[a]
-(;W[kq]C[a]
+;B[lq]LB[ng:35][ni:37][sj:36][ok:39][pk:40][rk:34][pm:38][lq:41]C[a]
+(;W[kq]LB[kq:42]C[a]
 ;B[lr]
 ;W[lp]
 ;B[mr]
@@ -150,7 +152,7 @@ GN[An-Jungki-vs-Chen-Yaoye-20150608]PW[Chen Yaoye]PB[An Jungki]WR[9p]BR[5d]DT[20
 ;B[kr]
 ;W[jr]
 ;B[ko]
-(;W[kp]C[a]
+(;W[kp]LB[io:46][ko:49][kp:50][lp:44][jr:48][kr:47][lr:43][mr:45]C[a]
 ;B[fp]
 ;W[ln]
 ;B[hp]
@@ -164,7 +166,7 @@ GN[An-Jungki-vs-Chen-Yaoye-20150608]PW[Chen Yaoye]PB[An Jungki]WR[9p]BR[5d]DT[20
 ;B[de]
 ;W[cd]
 ;B[cg]
-(;W[fh]C[a]
+(;W[fh]LB[ec:58][cd:62][ed:57][de:61][ee:55][bf:60][cf:59][kf:56][cg:63][fh:64][ln:52][fp:51][hp:53][iq:54]C[a]
 ;B[bg]
 ;W[eg]
 ;B[dg]
@@ -172,14 +174,14 @@ GN[An-Jungki-vs-Chen-Yaoye-20150608]PW[Chen Yaoye]PB[An Jungki]WR[9p]BR[5d]DT[20
 ;B[gf]
 ;W[le]
 ;B[hg]
-(;W[ff]C[a]
+(;W[ff]LB[le:70][ff:72][gf:69][bg:65][dg:67][eg:66][gg:68][hg:71]C[a]
 ;B[fg]
 ;W[sb]
 ;B[ra]
 ;W[gg]
 ;B[hf]
 ;W[od]
-(;B[pc]C[a]
+(;B[pc]LB[ra:75][sb:74][pc:79][od:78][hf:77][fg:73][gg:76]C[a]
 ;W[kj]
 ;B[ll]
 ;W[md]
@@ -187,13 +189,13 @@ GN[An-Jungki-vs-Chen-Yaoye-20150608]PW[Chen Yaoye]PB[An Jungki]WR[9p]BR[5d]DT[20
 ;W[be]
 ;B[ld]
 ;W[dr]
-;B[km]C[a]
+;B[km]LB[mc:83][ld:85][md:82][be:84][kj:80][ll:81][km:87][dr:86]C[a]
 ;W[ic]
 ;B[fg]
 ;W[ro]
 ;B[rp]
 ;W[gg]
-(;B[jg]C[a]
+(;B[jg]LB[ic:88][fg:89][gg:92][jg:93][ro:90][rp:91]C[a]
 ;W[je]
 ;B[id]
 ;W[me]
@@ -201,7 +203,7 @@ GN[An-Jungki-vs-Chen-Yaoye-20150608]PW[Chen Yaoye]PB[An Jungki]WR[9p]BR[5d]DT[20
 ;W[kb]
 ;B[lb]
 ;W[bs]
-;B[jb]C[a]
+;B[jb]LB[jb:1][kb:98][lb:99][id:95][nd:97][je:94][me:96][bs:200]C[a]
 ;W[ar]
 ;B[bq]
 ;W[kn]
@@ -233,9 +235,9 @@ GN[An-Jungki-vs-Chen-Yaoye-20150608]PW[Chen Yaoye]PB[An Jungki]WR[9p]BR[5d]DT[20
 ;W[sm]
 ;B[so]
 ;W[gg]
-;B[bh]C[a]
+;B[bh]LB[ia:15][hb:16][kd:20][fg:9][gg:29][lg:21][bh:30][hi:25][hj:26][jl:5][sm:27][kn:4][mn:7][bo:17][co:18][lo:8][no:22][oo:23][so:28][mp:6][bq:3][nq:11][ar:2][nr:10][or:13][ks:12]C[a]
 ;W[lm]
-;B[mm]C[https://gogameguru.com/])
+;B[mm]LB[lm:34][mm:35]C[https://gogameguru.com/])
 (;B[jb]
 ;W[id]
 ;B[je]
@@ -243,21 +245,21 @@ GN[An-Jungki-vs-Chen-Yaoye-20150608]PW[Chen Yaoye]PB[An Jungki]WR[9p]BR[5d]DT[20
 ;B[jf]
 ;W[if]
 ;B[jg]
-;W[ig]C[a]))
+;W[ig]LB[jb:1][id:2][ie:4][je:3][if:6][jf:5][ig:8][jg:7]C[a]))
 (;B[nd]
 ;W[sd]
 ;B[oc]
-;W[qa]C[a]))
+;W[qa]LB[qa:4][oc:3][nd:1][sd:2]C[a]))
 (;W[fg]
-;B[if]C[a]))
+;B[if]LB[if:2][fg:1]C[a]))
 (;W[bg]
-;B[fh]C[a]))
+;B[fh]LB[bg:1][fh:2]C[a]))
 (;W[eo]
 ;B[kp]
 ;W[jq]
 ;B[jo]
 ;W[ip]
-;B[lo]C[a]))
+;B[lo]LB[eo:1][jo:4][lo:6][ip:5][kp:2][jq:3]C[a]))
 (;W[lr]
 ;B[kq]
 ;W[mp]
@@ -269,38 +271,38 @@ GN[An-Jungki-vs-Chen-Yaoye-20150608]PW[Chen Yaoye]PB[An Jungki]WR[9p]BR[5d]DT[20
 ;W[kp]
 ;B[lp]
 ;W[lo]
-;B[jq]C[a])
+;B[jq]LB[ko:8][lo:11][ip:6][kp:9][lp:10][mp:3][iq:7][jq:12][kq:2][kr:4][lr:1][mr:5]C[a])
 (;W[jq]
 ;B[iq]
 ;W[jr]
-;B[ir]C[a])))
+;B[ir]LB[ip:6][mp:3][iq:8][jq:7][kq:2][ir:10][jr:9][kr:4][lr:1][mr:5]C[a])))
 (;B[sj]
 ;W[oh]
-;B[sh]C[a]))
+;B[sh]LB[oh:2][sh:3][sj:1]C[a]))
 (;W[rk]
 ;B[og]
 ;W[sj]
-;B[pm]C[a]))
+;B[pm]LB[og:2][sj:3][rk:1][pm:4]C[a]))
 (;B[oe]
-;W[qd]C[a]))
+;W[qd]LB[qd:2][oe:1]C[a]))
 (;B[pf]
 ;W[se]
 ;B[rb]
 ;W[qd]
 ;B[pe]
-;W[qa]C[a]))
+;W[qa]LB[qa:6][rb:3][qd:4][pe:5][se:2][pf:1]C[a]))
 (;W[lm]
 ;B[kh]
 ;W[kg]
-;B[jh]C[a]))
+;B[jh]LB[kg:3][jh:4][kh:2][lm:1]C[a]))
 (;W[qd]
 ;B[pe]
 ;W[pc]
-;B[ob]C[a]))
+;B[ob]LB[ob:4][pc:3][qd:1][pe:2]C[a]))
 (;W[lk]
 ;B[li]
 ;W[kj]
-;B[io]C[a])
+;B[io]LB[li:2][kj:3][lk:1][io:4]C[a])
 (;W[io]
 ;B[km]
 ;W[jl]
@@ -310,33 +312,33 @@ GN[An-Jungki-vs-Chen-Yaoye-20150608]PW[Chen Yaoye]PB[An Jungki]WR[9p]BR[5d]DT[20
 ;W[kk]
 ;B[lk]
 ;W[kj]
-;B[mm]TR[qj][qk][pl][rl][om][qm][pn]C[a]))
+;B[mm]LB[kj:9][jk:4][kk:7][lk:8][jl:3][kl:5][ll:6][km:2][mm:10][io:1]TR[qj][qk][pl][rl][om][qm][pn]C[a]))
 (;B[lj]
 ;W[kk]
 ;B[jn]
 ;W[kn]
 ;B[io]
-;W[jo]C[a]))
+;W[jo]LB[lj:1][kk:2][jn:3][kn:4][io:5][jo:6]C[a]))
 (;B[pl]
 ;W[rl]
 ;B[rk]
 ;W[rp]
 ;B[rq]
-;W[rn]C[a]))
+;W[rn]LB[rk:3][pl:1][rl:2][rn:6][rp:4][rq:5]C[a]))
 (;W[qn]
 ;B[pp]
 ;W[rl]
-;B[qk]C[a]))
+;B[qk]LB[qk:4][rl:3][qn:1][pp:2]C[a]))
 (;W[qe]
 ;B[cj]
 ;W[jk]
 ;B[gn]
 ;W[dj]
-;B[rf]C[a]))
+;B[rf]LB[qe:1][rf:6][cj:2][dj:5][jk:3][gn:4]C[a]))
 (;W[fi]
 ;B[dh]
 ;W[dj]
-;B[re]LB[il:D][hm:A][im:B][jm:C]C[a]))
+;B[re]LB[re:4][dh:2][fi:1][dj:3][il:D][hm:A][im:B][jm:C]C[a]))
 (;W[hm]
 ;B[im]
 ;W[jm]
@@ -344,9 +346,9 @@ GN[An-Jungki-vs-Chen-Yaoye-20150608]PW[Chen Yaoye]PB[An Jungki]WR[9p]BR[5d]DT[20
 ;W[jk]
 ;B[jn]
 ;W[io]
-;B[jl]C[a]))
+;B[jl]LB[jk:5][il:4][jl:8][hm:1][im:2][jm:3][jn:6][io:7]C[a]))
 (;W[hm]
-;B[hi]LB[ii:A]C[a]))
+;B[hi]LB[hi:2][ii:A][hm:1]C[a]))
 (;W[dj]
 ;B[ej]
 ;W[ei]
@@ -354,15 +356,15 @@ GN[An-Jungki-vs-Chen-Yaoye-20150608]PW[Chen Yaoye]PB[An Jungki]WR[9p]BR[5d]DT[20
 (;W[fj]
 ;B[dj]
 ;W[bj]
-;B[dh]C[a])
+;B[dh]LB[dh:8][ei:3][bj:7][cj:4][dj:6][ej:2][fj:5]C[a])
 (;W[bj]
 ;B[fi]
 ;W[eh]
-;B[fj]C[a])))
+;B[fj]LB[eh:7][ei:3][fi:6][bj:5][cj:4][dj:1][ej:2][fj:8]C[a])))
 (;B[rb]
 ;W[qd]
 ;B[pc]
-;W[pf]LB[pe:A][re:C][rf:B]C[a]))
+;W[pf]LB[rb:1][pc:3][qd:2][pe:A][re:C][pf:4][rf:B]C[a]))
 (;W[qd]
 ;B[qc]
 ;W[rc]
@@ -374,7 +376,7 @@ GN[An-Jungki-vs-Chen-Yaoye-20150608]PW[Chen Yaoye]PB[An Jungki]WR[9p]BR[5d]DT[20
 ;W[od]
 ;B[nd]
 ;W[ne]
-;B[oe]C[a]))
+;B[oe]LB[qb:8][rb:6][pc:7][qc:2][rc:3][nd:10][od:9][qd:1][rd:4][ne:11][oe:12][qe:5]C[a]))
 (;B[rg]
 ;W[rf]
 ;B[qf]
@@ -384,7 +386,7 @@ GN[An-Jungki-vs-Chen-Yaoye-20150608]PW[Chen Yaoye]PB[An Jungki]WR[9p]BR[5d]DT[20
 ;B[pf]
 ;W[pe]
 ;B[of]
-;W[oe]C[a]))
+;W[oe]LB[oe:10][pe:8][qe:6][of:9][pf:7][qf:3][rf:2][pg:4][rg:1][rh:5]C[a]))
 (;W[qd]
 ;B[qe]
 ;W[pc]
@@ -396,17 +398,17 @@ GN[An-Jungki-vs-Chen-Yaoye-20150608]PW[Chen Yaoye]PB[An Jungki]WR[9p]BR[5d]DT[20
 ;W[qb]
 ;B[mp]
 ;W[lp]
-;B[mo]C[a])
+;B[mo]LB[nb:8][ob:7][qb:9][pc:3][rc:5][od:4][qd:1][qe:2][re:6][mo:12][lp:11][mp:10]C[a])
 (;W[qf]
 ;B[qe]
 ;W[pf]
-;B[pi]C[a]))
+;B[pi]LB[qe:2][pf:3][qf:1][pi:4]C[a]))
 (;W[fh]
 ;B[fg]
 ;W[fi]
 ;B[eg]
 ;W[dh]
-;B[qe]C[a]))
+;B[qe]LB[qe:6][eg:4][fg:2][dh:5][fh:1][fi:3]C[a]))
 (;W[dj]
 ;B[ej]
 ;W[cj]
@@ -418,11 +420,11 @@ GN[An-Jungki-vs-Chen-Yaoye-20150608]PW[Chen Yaoye]PB[An Jungki]WR[9p]BR[5d]DT[20
 ;W[eh]
 ;B[fh]
 ;W[dg]
-;B[gk]C[a]))
+;B[gk]LB[dg:11][ch:5][dh:4][eh:9][fh:10][ei:7][fi:8][cj:3][dj:1][ej:2][gk:12][br:6]C[a]))
 (;B[cj]
 ;W[bj]
 ;B[bi]
-;W[bk]LB[ci:A][bm:C][bn:D][cn:B]C[a]))
+;W[bk]LB[bi:3][ci:A][bj:2][cj:1][bk:4][bm:C][bn:D][cn:B]C[a]))
 (;W[cm]
 ;B[fl]
 ;W[em]
@@ -430,7 +432,7 @@ GN[An-Jungki-vs-Chen-Yaoye-20150608]PW[Chen Yaoye]PB[An Jungki]WR[9p]BR[5d]DT[20
 ;W[fk]
 ;B[fj]
 ;W[gk]
-;B[ei]C[a]))
+;B[ei]LB[ei:8][fj:6][fk:5][gk:7][fl:2][cm:1][em:3][br:4]C[a]))
 (;B[fl]
 ;W[fm]
 ;B[dl]
@@ -442,7 +444,7 @@ GN[An-Jungki-vs-Chen-Yaoye-20150608]PW[Chen Yaoye]PB[An Jungki]WR[9p]BR[5d]DT[20
 ;B[dk]
 ;W[gl]
 ;B[em]
-;W[dn]C[a]))
+;W[dn]LB[dk:9][dl:3][el:8][fl:1][gl:10][dm:4][em:5][fm:2][dn:11][pp:7][pq:6]C[a]))
 (;W[dj]
 ;B[ej]
 ;W[di]
@@ -450,17 +452,17 @@ GN[An-Jungki-vs-Chen-Yaoye-20150608]PW[Chen Yaoye]PB[An Jungki]WR[9p]BR[5d]DT[20
 ;W[jo]
 ;B[jn]
 ;W[im]
-;B[kn]C[a]))
+;B[kn]LB[di:3][dj:1][ej:2][im:7][jn:6][kn:8][io:4][jo:5]C[a]))
 (;B[el]
 ;W[dj]
 ;B[ej]
 ;W[ei]
 ;B[fj]
-;W[dk]C[a]))
+;W[dk]LB[ei:4][dj:2][ej:3][fj:5][dk:6][el:1]C[a]))
 (;W[fp]
 ;B[fo]
 ;W[gp]
-;B[go]C[a]))
+;B[go]LB[do:A][fo:2][go:4][ho:B][fp:1][gp:3]C[If White still plays the knight's move at 1, Black will play 2 to 4, and that's better for Black compared to the previous variation with approaching at A instead of playing at B.]))
 (;W[do]
 ;B[hq]
 ;W[iq]
@@ -470,7 +472,9 @@ GN[An-Jungki-vs-Chen-Yaoye-20150608]PW[Chen Yaoye]PB[An Jungki]WR[9p]BR[5d]DT[20
 ;W[ko]
 ;B[ip]
 ;W[jq]
-;B[jn]C[a]))
+;B[jn]LB[jn:10][do:1][jo:6][ko:7][ip:8][hq:2][iq:3][jq:9][ir:4][jr:5]C[If White encloses the corner with 1, Black will play like this to reduce White's bottom area.
+
+The result up to Black 10 is satisfactory for Black.]))
 (;B[do]
 ;W[fp]
 ;B[cq]
@@ -484,11 +488,18 @@ GN[An-Jungki-vs-Chen-Yaoye-20150608]PW[Chen Yaoye]PB[An Jungki]WR[9p]BR[5d]DT[20
 ;B[fn]
 ;W[ho]
 ;B[cp]
-;W[br]C[a]))
+;W[br]LB[fn:11][do:1][fo:5][go:6][ho:12][cp:13][ep:7][fp:2][gp:9][cq:3][eq:8][fq:10][br:14][cr:4]C[Approaching at Black 1 is common, and White will respond at 2.
+
+This is one of possible variations, but that wouldn't be as good as the actual game for Black.]))
+(;W[ep]LB[bd:B][cd:D][be:A][ce:C][ci:E][ep:1]C[Enclosing the bottom left at around White 1 would be better in this opening.
+
+Black might play A to E to settle on the left side, and the game will still be well belanced.]))
 (;W[jd]
-;B[lp]C[a]))
+;B[lp]LB[jd:1][lp:2]C[If White plays 1, which is big, Black will take the bottom at 2. This will be another game.]))
 (;W[oj]
-;B[jp]LB[mj:A]C[a]))
+;B[jp]LB[mj:A][oj:1][jp:2]C[Jumping at White 1 is slack. Black will take a big place at the bottom, and the right side stones are still floating.
+
+Black will cap at A to attack the stones later, so jumping at White 1 is slack and heavy.]))
 (;W[qo]
 ;B[qm]
 ;W[pp]
@@ -503,7 +514,11 @@ GN[An-Jungki-vs-Chen-Yaoye-20150608]PW[Chen Yaoye]PB[An Jungki]WR[9p]BR[5d]DT[20
 ;B[fc]
 ;W[df]
 ;B[id]
-;W[pk]C[a]))
+;W[pk]LB[fc:12][id:14][df:13][pk:15][pl:6][ql:11][om:8][pm:5][qm:2][pn:9][qn:7][qo:1][pp:3][rp:10][pq:4]C[Attaching at White 1 is also conceivable. 
+
+Black 2 is the most common response, and this is one of the main variations.
+
+The opening up to White 15 is playable for both.]))
 (;B[qj]
 ;W[nc]
 ;B[pf]
@@ -513,7 +528,7 @@ GN[An-Jungki-vs-Chen-Yaoye-20150608]PW[Chen Yaoye]PB[An Jungki]WR[9p]BR[5d]DT[20
 ;B[ob]
 ;W[qb]
 ;B[oc]
-;W[re]C[a]))
+;W[re]LB[ob:7][pb:6][qb:8][nc:2][oc:9][pc:5][qc:4][re:10][pf:3][pj:A][qj:1]C[If Black extends at 1 or A, White will play like this. Jumping into 3-3 at White 4 is annoying for Black, so Black didn't play on the right side in the actual game.]))
 (;W[qf]
 ;B[nc]
 ;W[rd]
@@ -527,4 +542,4 @@ GN[An-Jungki-vs-Chen-Yaoye-20150608]PW[Chen Yaoye]PB[An Jungki]WR[9p]BR[5d]DT[20
 ;W[pg]
 ;B[qg]
 ;W[rf]
-;B[og]C[a]))
+;B[og]LB[fc:4][nc:2][qc:7][rd:3][qe:8][re:9][cf:5][pf:10][qf:1][rf:13][og:14][pg:11][qg:12][qh:6]C[This opening is very popular these days, but Chen chose Chinese style opening in this game.]))
