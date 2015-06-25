@@ -27,52 +27,60 @@ White 12 was a miai with Black 11, and the opening up to here was well balanced.
 ;W[hq]
 ;B[cq]
 ;W[cr]
-(;B[ek]LB[ek:25][fo:21][cq:23][hq:22][cr:24]C[Black 21 to White 24 were expected, and the long fly at Black 25 was bold and refreshing.]
-(;W[en]LB[en:26]C[a]
-;B[dp]
+(;B[ek]LB[ek:25][fo:21][cq:23][hq:22][cr:24]C[Black 21 to White 24 were expected, and the long fly at Black 25 was bold and challenging.]
+(;W[en]LB[en:26]C[White 26 was a good time to peep, but Black prepared a good response.]
+(;B[dp]LB[dp:27]C[Black 27 was the right response in this case. Since this is originally White's area, so Black should be careful not to make heavy shapes.]
 ;W[eq]
 ;B[bp]
 ;W[el]
-(;B[dl]LB[dl:31][el:30][bp:29][dp:27][eq:28]C[a]
+(;B[dl]LB[dl:31][el:30][bp:29][eq:28]C[Black 29 was flexible, and the wedge at Black 31 was a brilliant move.]
 ;W[dm]
 ;B[dk]
-(;W[fl]LB[dk:33][fl:34][dm:32]C[a]
+(;W[fl]LB[dk:33][fl:34][dm:32]C[White 32 and 34 were normal, but Black prepared a strong counter.]
 ;B[cm]
-;W[ck]
-(;B[bm]LB[ck:36][bm:37][cm:35]C[a]
+(;W[ck]LB[ck:36][cm:35]C[Cutting at Black 35 was a good followup.
+
+Pushing underneath at White 36 looks strong, but it was wrong.]
+(;B[bm]LB[ck:36][bm:37][cm:35]C[Descending at Black 37 was the right move, and Black got a good shape in the bottom left.]
 ;W[ci]
 ;B[di]
-(;W[ch]LB[ch:40][ci:38][di:39]C[a]
+(;W[ch]LB[ch:40][ci:38][di:39]TR[ck][cl]C[White 38 was necessary to save the marked stones, and Black 39 was an useful exchange. 
+
+White 40 was the correct response.]
 ;B[br]
 ;W[gj]
 ;B[gh]
-(;W[ii]LB[gh:43][ii:44][gj:42][br:41]C[a]
+(;W[ii]LB[gh:43][ii:44][gj:42][br:41]C[Black 41 was necessary, and White 42 and 44 were in natural flow to control the center area.]
 ;B[gd]
 ;W[gc]
 ;B[hd]
-(;W[qg]LB[gc:46][gd:45][hd:47][qg:48]C[a]
-(;B[pg]LB[pg:49]C[a]
+(;W[qg]LB[gc:46][gd:45][hd:47][qg:48][ck:A]C[Black 45 and 47 were also good to manage this area with a good shape, and Black is also aiming for White's weakness in the center area.
+
+The result up to Black 47 was favorable for Black, because of White 36 (A).
+
+The attachment at White 48 was very nice to invade.]
+(;B[pg]LB[pg:49]C[The hane over at Black 49 was the correct response.]
 ;W[qf]
 ;B[ph]
-(;W[rd]LB[rd:52][qf:50][ph:51]C[a]
+(;W[rd]LB[rd:52][qf:50][ph:51]C[Sliding at White 52 was the proper move.]
 ;B[qc]
 ;W[rh]
 ;B[ri]
 ;W[sg]
 ;B[qi]
 ;W[rc]
-(;B[fk]LB[qc:53][rc:58][sg:56][rh:54][qi:57][ri:55][fk:59]C[a]
+(;B[fk]LB[qc:53][rc:58][sg:56][rh:54][qi:57][ri:55][fk:59]TR[gd][hd]C[White was happy to settle down easily up to 58, but Black didn't care. That's because he was aiming for Black 59 since he played the marked stones at the top.]
 ;W[gk]
 ;B[gl]
-(;W[gm]LB[gk:60][gl:61][gm:62]C[a]
+(;W[gm]LB[gk:60][gl:61][gm:62]C[Cutting at Black 61 was very severe, and there'aren't many options for White.]
 ;B[hl]
 ;W[fn]
 ;B[ik]
-(;W[gi]LB[gi:66][ik:65][hl:63][fn:64]C[a]
+(;W[gi]LB[gi:66][ii:A][ik:65][hl:63][fn:64]TR[dk][ek][fk][dl]C[White 66 was necessary to connect A, and also aiming to attack Black's marked stones later.]
 ;B[hh]
 ;W[ij]
 ;B[hn]
-(;W[dj]LB[hh:67][dj:70][ij:68][hn:69]C[a]
+(;W[dj]LB[hh:67][gi:66][dj:70][ij:68][hn:69]C[Black 69 was strong, and White 70 was what White was planning to do when White played at 66.]
 ;B[ej]
 ;W[ei]
 ;B[cj]
@@ -80,7 +88,9 @@ White 12 was a miai with Black 11, and the opening up to here was well balanced.
 ;B[dn]
 ;W[em]
 ;B[eh]
-(;W[hm]LB[eh:77][ei:72][bj:74][cj:73][ej:71][em:76][hm:78][dn:75]C[a]
+(;W[hm]LB[eh:77][ei:72][bj:74][cj:73][ej:71][em:76][hm:78][dn:75]C[White 72 was a nice tesuji, and a big ko was created.
+
+White 78 was a good sequence for useful exchanges.]
 ;B[im]
 ;W[jm]
 ;B[il]
@@ -338,7 +348,7 @@ White 12 was a miai with Black 11, and the opening up to here was well balanced.
 (;W[fi]
 ;B[dh]
 ;W[dj]
-;B[re]LB[re:4][dh:2][fi:1][dj:3][il:D][hm:A][im:B][jm:C]C[a]))
+;B[re]LB[re:4][dh:2][fi:1][dj:3][il:D][hm:A][im:B][jm:C]C[Chen thought the exchanges from A to D are benefitial for White, so he exchanged before starting the ko.]))
 (;W[hm]
 ;B[im]
 ;W[jm]
@@ -346,9 +356,9 @@ White 12 was a miai with Black 11, and the opening up to here was well balanced.
 ;W[jk]
 ;B[jn]
 ;W[io]
-;B[jl]LB[jk:5][il:4][jl:8][hm:1][im:2][jm:3][jn:6][io:7]C[a]))
+;B[jl]LB[jk:5][il:4][jl:8][hm:1][im:2][jm:3][jn:6][io:7]C[Fighting directly from White 1 doesn't work well. White's outside is weaker than it looks.]))
 (;W[hm]
-;B[hi]LB[hi:2][ii:A][hm:1]C[a]))
+;B[hi]LB[hi:2][ii:A][hm:1]C[If White pushes at 1, Black will attach at 2 to cut off White A. ]))
 (;W[dj]
 ;B[ej]
 ;W[ei]
@@ -356,15 +366,17 @@ White 12 was a miai with Black 11, and the opening up to here was well balanced.
 (;W[fj]
 ;B[dj]
 ;W[bj]
-;B[dh]LB[dh:8][ei:3][bj:7][cj:4][dj:6][ej:2][fj:5]C[a])
+;B[dh]LB[dh:8][ei:3][bj:7][cj:4][dj:6][ej:2][fj:5]TR[dk][ek][fk][dl]C[White can't capture the marked stones like this.])
 (;W[bj]
 ;B[fi]
 ;W[eh]
-;B[fj]LB[eh:7][ei:3][fi:6][bj:5][cj:4][dj:1][ej:2][fj:8]C[a])))
+;B[fj]LB[eh:7][ei:3][fi:6][bj:5][cj:4][dj:1][ej:2][fj:8]C[If White ataris at 5 instead, Black can still connect with 6 and 8.])))
 (;B[rb]
 ;W[qd]
 ;B[pc]
-;W[pf]LB[rb:1][pc:3][qd:2][pe:A][re:C][pf:4][rf:B]C[a]))
+;W[pf]LB[rb:1][pc:3][qd:2][pe:A][re:C][pf:4][rf:B]C[If Black blocks at 1, White will live with 2 to 4. 
+
+If Black plays A next, White will respond at B to live. If Black attaches at B instead, White will answer at C.]))
 (;W[qd]
 ;B[qc]
 ;W[rc]
@@ -376,17 +388,29 @@ White 12 was a miai with Black 11, and the opening up to here was well balanced.
 ;W[od]
 ;B[nd]
 ;W[ne]
-;B[oe]LB[qb:8][rb:6][pc:7][qc:2][rc:3][nd:10][od:9][qd:1][rd:4][ne:11][oe:12][qe:5]C[a]))
+;B[oe]LB[qb:8][rb:6][pc:7][qc:2][rc:3][nd:10][od:9][qd:1][rd:4][ne:11][oe:12][qe:5]C[White 1 and 3 are a common tesuji, but they're not working very well in this situation.
+
+Black will play like this, and White's whole group will be in great danger. That's because Black's outside is stronger than other normal situations.]))
 (;B[rg]
 ;W[rf]
 ;B[qf]
 ;W[pg]
-;B[rh]
+(;B[rh]
 ;W[qe]
 ;B[pf]
 ;W[pe]
 ;B[of]
-;W[oe]LB[oe:10][pe:8][qe:6][of:9][pf:7][qf:3][rf:2][pg:4][rg:1][rh:5]C[a]))
+;W[oe]LB[oe:10][pe:8][qe:6][of:9][pf:7][qf:3][rf:2][pg:4][rg:1][rh:5]C[If Black hanes and cut with 1 and 3, White will play like this, and Black's corner will be damaged.])
+(;B[re]
+;W[rh]
+;B[sf]
+;W[ph]
+;B[qi]
+;W[pi]
+;B[ri]
+;W[rj]
+;B[sh]
+;W[pk]LB[re:5][qf:3][rf:2][sf:7][pg:4][rg:1][ph:8][rh:6][sh:13][pi:10][qi:9][ri:11][nj:A][rj:12][pk:14]C[If Black ataris at 5, White will play like this to sabaki. Black A isn't well placed anymore.])))
 (;W[qd]
 ;B[qe]
 ;W[pc]
@@ -398,17 +422,19 @@ White 12 was a miai with Black 11, and the opening up to here was well balanced.
 ;W[qb]
 ;B[mp]
 ;W[lp]
-;B[mo]LB[nb:8][ob:7][qb:9][pc:3][rc:5][od:4][qd:1][qe:2][re:6][mo:12][lp:11][mp:10]C[a])
+;B[mo]LB[nb:8][ob:7][qb:9][pc:3][rc:5][od:4][qd:1][qe:2][re:6][mo:12][lp:11][mp:10]C[Attaching at White 1 is a common move to invade, but that's not good enough in this situation. 
+
+Black will let White live in the corner, and will encrease the right side up to 12.])
 (;W[qf]
 ;B[qe]
 ;W[pf]
-;B[pi]LB[qe:2][pf:3][qf:1][pi:4]C[a]))
+;B[pi]LB[qe:2][pf:3][qf:1][pi:4]C[Invading at White 1 isn't good either. Black will play 2 to 4, and that's difficult for White to settle the stones.]))
 (;W[fh]
 ;B[fg]
 ;W[fi]
 ;B[eg]
 ;W[dh]
-;B[qe]LB[qe:6][eg:4][fg:2][dh:5][fh:1][fi:3]C[a]))
+;B[qe]LB[qe:6][eg:4][fg:2][dh:5][fh:1][fi:3]TR[di][dk][ek][dl]C[Attaching at White 1 to capture the marked stones is too passive. Black will be happy to take sente with sacrificing used stones.]))
 (;W[dj]
 ;B[ej]
 ;W[cj]
@@ -420,11 +446,36 @@ White 12 was a miai with Black 11, and the opening up to here was well balanced.
 ;W[eh]
 ;B[fh]
 ;W[dg]
-;B[gk]LB[dg:11][ch:5][dh:4][eh:9][fh:10][ei:7][fi:8][cj:3][dj:1][ej:2][gk:12][br:6]C[a]))
+;B[gk]LB[dg:11][ch:5][dh:4][eh:9][fh:10][ei:7][fi:8][cj:3][dj:1][ej:2][gk:12][br:6]C[Wedging at White 1 isn't a good idea. Cutting at White 7 looks severe, but Black will simply give up the stones, and build a nice shape in the center up to 12.]))
 (;B[cj]
 ;W[bj]
 ;B[bi]
-;W[bk]LB[bi:3][ci:A][bj:2][cj:1][bk:4][bm:C][bn:D][cn:B]C[a]))
+;W[bk]LB[bi:3][ci:A][bj:2][cj:1][bk:4][bm:C][bn:D][cn:B]C[The hane at Black 1 and 3 look strong, but they're overplays.
+
+If Black connects at A next, White will play B to D to capture the cutting stone.]))
+(;W[cn]
+;B[bm]
+;W[dn]
+;B[bn]
+;W[co]
+(;B[cp]
+;W[bo]
+;B[ao]
+;W[bl]
+;B[ap]
+;W[cj]
+;B[di]
+;W[ci]
+;B[br]
+;W[dh]LB[dh:15][ci:13][di:12][cj:11][bl:9][bm:2][bn:4][cn:1][dn:3][ao:8][bo:7][co:5][ap:10][cp:6][br:14]C[White should have played 1 to 3. If Black connects at 6, White will cut off Black's left side, and the result up to White 15 was still playable for both.])
+(;B[bo]
+;W[cp]
+;B[fk]
+;W[gl]
+;B[ch]
+;W[qg]LB[qg:11][ch:10][fk:8][gl:9][bm:2][bn:4][cn:1][dn:3][bo:6][co:5][cp:7]C[If Black connects at 6 instead, White will cut at 7.
+
+White 11 is a nice attachment to invade on the right side, and the game is still even.])))
 (;W[cm]
 ;B[fl]
 ;W[em]
@@ -432,7 +483,9 @@ White 12 was a miai with Black 11, and the opening up to here was well balanced.
 ;W[fk]
 ;B[fj]
 ;W[gk]
-;B[ei]LB[ei:8][fj:6][fk:5][gk:7][fl:2][cm:1][em:3][br:4]C[a]))
+;B[ei]LB[ei:8][fj:6][fk:5][gk:7][fl:2][cm:1][em:3][br:4]C[If White connects at 1, Black will play 2 and 4 to settle down the bottom left.
+
+Even if White cuts at 5 next, Black will play 6 to 8, and they're not easy to attack.]))
 (;B[fl]
 ;W[fm]
 ;B[dl]
@@ -444,7 +497,9 @@ White 12 was a miai with Black 11, and the opening up to here was well balanced.
 ;B[dk]
 ;W[gl]
 ;B[em]
-;W[dn]LB[dk:9][dl:3][el:8][fl:1][gl:10][dm:4][em:5][fm:2][dn:11][pp:7][pq:6]C[a]))
+;W[dn]LB[dk:9][dl:3][el:8][fl:1][gl:10][dm:4][em:5][fm:2][dn:12][pp:7][pq:6]C[The hane at Black 1 is normal, but then White will play 2 and 4 to make a ko. The variation up to White 12 is good for White, because Black has two weak groups, and the left side group is going to be heavy.]))
+(;B[eo]
+;W[el]LB[el:2][eo:1]C[Connecting at Black 1 is lack of strategy. Black shouldn't avoid playing like this, because that's what White wants.]))
 (;W[dj]
 ;B[ej]
 ;W[di]
@@ -452,13 +507,15 @@ White 12 was a miai with Black 11, and the opening up to here was well balanced.
 ;W[jo]
 ;B[jn]
 ;W[im]
-;B[kn]LB[di:3][dj:1][ej:2][im:7][jn:6][kn:8][io:4][jo:5]C[a]))
+;B[kn]LB[di:3][dj:1][ej:2][im:7][jn:6][kn:8][io:4][jo:5]C[Responding at White 1 is a bit passive. Black will push at 2 in sente, and come through and cut with 4 to 6.
+
+The fighting in the center would be favorable for Black, because Black will easily develop the right side while they're fighting in the center.]))
 (;B[el]
 ;W[dj]
 ;B[ej]
 ;W[ei]
 ;B[fj]
-;W[dk]LB[ei:4][dj:2][ej:3][fj:5][dk:6][el:1]C[a]))
+;W[dk]LB[ei:4][dj:2][ej:3][fj:5][dk:6][el:1]C[Playing Black 1 is usual, but then White will build the territory up to 6. This isn't satisfactory for Black.]))
 (;W[fp]
 ;B[fo]
 ;W[gp]
