@@ -1,6 +1,61 @@
 (;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
 RU[Japanese]SZ[19]KM[6.50]TM[1800]OT[3x40 byo-yomi]
-GN[Cho-Chikun-vs-Cho-Hunhyun-20150726]PW[Cho Hunhyun]PB[Cho Chikun]WR[9p]BR[9p]DT[2015-07-26]EV[70th Anniversary Exhibition Match in Korea]PC[Seoul, Korea]SO[https://gogameguru.com/]RE[W+Time]
+GN[Cho-Chikun-vs-Cho-Hunhyun-20150726]PW[Cho Hunhyun]PB[Cho Chikun]WR[9p]BR[9p]DT[2015-07-26]EV[70th Anniversary Exhibition Match in Korea]PC[Seoul, Korea]SO[https://gogameguru.com/]C[This game is from the 70th Anniversary exhibition match of modern Korean Baduk.
+
+It was played between Cho Chikun 9p and Cho hunhyun 9p on July 11, 2015, in Seoul, Korea.
+
+Both Cho Hunhyun and Cho Chikun  are two of the greatest players born in Korea along with Lee Changho 9p and Lee Sedol 9p.
+
+Korean Baduk fans wish to watch these two players' match for the 70th Anniversary exhibition match, and the game was played as their wish.
+
+Cho Hunhyun has been the most popular and strongest Go figure in Korea for a long time, and he was regarded to lift the level of modern Korean Baduk to compete against Chinese and Japanese top players.
+
+Cho Chikun started and played all of his professional career in Japan, but he was born in Korea, and most of his Korean fans are very proud of him. That's not only because what he achieved, but the way of his playing, thinking, and the passion towards Go.
+
+The head to head record between Cho Hunhyun and Cho Chikun before this game was 8-5 for Cho Hunhyun's favor (including unofficial matches).
+
+
+Cho Hunhyun 9p was born in 1953, in Korea. He became a pro when he was 9 years old, and that's still the youngest record in Korea.
+
+Cho Hunhyun 
+
+When he was 10, he went to Japan to learn and play Go in better circumstance, and he became a pupil of Segoe Kensaku 9p, who was famous as the teacher of Go Seigen 9p and Hashimoto Utaro 9p.
+
+In 1967, when he was 14, he became a pro in Japan, and that's because the level of Korea was far below compared to Japan at the time, and Japan didn't accept Korean's pro qualifier.
+
+In 1972, he had to go back to Korea to do his compulsory military service for two and a half years, and after that, he won the 14th Choigowi (the top place) defeating Kim In 9p in 1974, and it was his first career title.
+
+For three times, Cho won all the titles in a year in his career. In 1980, he won 9 titles out of 9, and he did that in 1982 (10 titles) and 1986 (12 titles) as well, and he also became the first 9p in history of Korean Baduk in 1982.
+
+In 1989, he won the 1st Ing Cup against Nie Weiping 9p in the final, and that was very sensational in Korea. There was the second big booming of learning Go in Korea afterwards.
+
+At the 1st Ing Cup, he was the only participant from Korea, because Korean Baduk was regarded much lower level than Japan and China. However, Cho defeated all strong players by the time, and he became the world champion.
+
+That Ing Cup was the restarting point of modern Korean Baduk, and Yu Changhyuk 9p, Lee Changho 9p were followed to compete against strong Chinese and Japanese players in the international scene soon afterwards.
+
+Cho won the 7th Fujitsu Cup defeating Yu Changhyuk 9p and the 5th Tongyang Cup defeating Yoda Norimoto 9p in 1994.
+
+He won the 8th Tongyang Cup defeating Kobayashi Satoru 9p in 1997, and he won the 1st Chunlan Cup defeating Lee Changho 9p in 1999.
+
+Cho won the Fujitsu Cup twice more in 2000 and 2001, and he also won the Samsung Cup twice in 2001 and 2002. He won the Asian TV Cup in 2000 and 2001 as well.
+He's won 159 titles in his career, which is absolutely the #1, and he's won 10 international titles as well.
+
+Cho Hunhyun only had one pupil in his lifetime, and that's Lee Changho 9p.
+
+Cho Chikun
+
+Cho Chikun 9p was born in 1956, in Korea, and he went to Japan to study Go when he was 6 years old.
+
+He promised to himself that he wouldn't come back to Korea until he wins the 5th Meijin title, and he made it happen with defeating Odake Hideo 9p in 1980. 
+
+He’s won 74 titles in his career, and that’s the record in Japan. He recently added one more title; the 5th Igo Masters Cup, defeating Takemiya Masaki 9p in the final.
+
+Cho was regarded as the national hero in Korea after he won the Meijin title in Japan. There was the first big booming of Go in Korea after that, and Lee Changho was one of the students who started to play Go around that time.
+
+
+Let’s have a look at the 70th Anniversary exhibition match of modern Korean Baduk.
+
+Unfortunately this game ended abruptly, because of a shortage of time, but the game was still interesting so we're going to review it together anyway.]RE[W+Time]
 ;B[pd]LB[pd:1]C[Cho Chikun plays Black.]
 ;W[dp]
 ;B[pp]
@@ -9,7 +64,7 @@ GN[Cho-Chikun-vs-Cho-Hunhyun-20150726]PW[Cho Hunhyun]PB[Cho Chikun]WR[9p]BR[9p]D
 ;W[hq]
 (;B[mq]LB[dd:4][dp:2][pp:3][fq:5][hq:6][mq:7]C[Black 7 is unusual, but it looks as if Cho Chikun just tried to play differently in this game.]
 (;W[qj]
-(;B[hp]LB[hp:9][mq:7]C[Spliting the right side with White 8 was Cho Hunhyun's style of play, and Black 9 was to utilize Black 7 in the following battle.]
+(;B[hp]LB[qj:8][hp:9][mq:7]C[Spliting the right side with White 8 was Cho Hunhyun's style of play, and the attachment at Black 9 was to utilize Black 7 in the following battle.]
 ;W[ip]
 ;B[ho]
 ;W[gq]
@@ -21,30 +76,30 @@ GN[Cho-Chikun-vs-Cho-Hunhyun-20150726]PW[Cho Hunhyun]PB[Cho Chikun]WR[9p]BR[9p]D
 ;W[cq]
 ;B[ep]
 ;W[cp]
-(;B[io]LB[co:16][io:21][cp:20][ep:19][cq:18][dq:17]C[Black 17 and 19 were also sente, and Black turned from from the center at 21.]
+(;B[io]LB[co:16][io:21][cp:20][ep:19][cq:18][dq:17]C[Black 17 and 19 were also sente, and Black turned from the center at 21.]
 (;W[jp]LB[jp:22][kp:A]C[Extending at White 22 looks fine, but that was a mistake. White should have jumped at A instead.]
 ;B[jr]
 ;W[ir]
-(;B[kq]LB[kq:25][ir:24][jr:23]C[Black 23 hit White's vital point, and Black 25 was calm and nice.]
+(;B[kq]LB[kq:25][ir:24][jr:23]C[Black 23 hit White's vital point, and Black 25 was calm and solid.]
 ;W[jo]
 ;B[jn]
-(;W[lo]LB[jn:27][jo:26][lo:28]C[Jumping at White 28 was inevitable. The flow of the opening so far is smooth for Black.]
+(;W[lo]LB[jn:27][jo:26][lo:28]C[Jumping at White 28 was inevitable, and the flow of the opening so far is smooth for Black.]
 ;B[kn]
 ;W[lp]
-(;B[pk]LB[pk:31][kn:29][lp:30]C[Black extended at 29 in sente, and hitting the shoulder hit at Black 31 was a brilliant idea.]
-(;W[ln]LB[pk:31][ln:32]C[White 32 was flexible. That's hard not to respond against Black's shoulder hit at 31, but that was the right decision.]
+(;B[pk]LB[pk:31][kn:29][lp:30]C[Black extended at 29 in sente, and placing the shoulder hit at Black 31 was brilliant.]
+(;W[ln]LB[pk:31][ln:32]C[White 32 was flexible. That's hard not to respond against Black's shoulder hit at 31, but that was the right decision for White.]
 ;B[qk]
 ;W[ll]
-(;B[np]LB[qk:33][ll:34][np:35]C[Black 33 was very nice, and reinforcing the corner at Black 35 was solid and calm.
+(;B[np]LB[qk:33][ll:34][np:35]C[Black 33 was painful for White, but White looked after his main group with 34. 
 
-Cho Chikun was satisfied with the opening, so he chose Black 35 to simplify the game.]
+Cho Chikun was satisfied with the opening, so he chose Black 35, which is solid and calm, to simplify the game.]
 ;W[fn]
-(;B[er]LB[fn:36][gp:A][er:37]C[White hit Black's vital point with 36, and Black 37 was a subtle response. However, connecting at A would have been slightly better.]
+(;B[er]LB[fn:36][gp:A][er:37]C[White hit Black's vital point with 36, and Black 37 was a subtle response. However, connecting at A would have been better.]
 (;W[gp]LB[ho:B][fp:A][gp:38]C[White 38 was the right move, and that's hard for Black to manage both groups A and B.]
 ;B[cr]
 (;W[go]LB[go:40][gp:38][cr:39][er:37]C[Black 39 was necessary to save this group, and White 40 was also necessary to complete this area.
 
-All of sudden, White's stones become solid and strong with White 40, and the game becae . That's why Black should have connected at 38 instead of Black 37.]
+All of sudden, all of White's stones become solid and strong with White 40, and the game become even . That's why Black should have connected at 38 instead of Black 37.]
 (;B[cf]LB[cf:41][ci:A]C[Approaching at Black 41 was more active than spliting at A, but that doesn't necessarily mean better.]
 (;W[dh]LB[dh:42]C[White chose the tight high pincer at 42, and that was proper in that situation.]
 (;B[eg]LB[eg:43]C[The knight's fly with Black 43 was a good sense.]
@@ -58,11 +113,11 @@ All of sudden, White's stones become solid and strong with White 40, and the gam
 ;B[df]
 (;W[id]LB[id:52][ce:50][df:51][gh:49]C[Turning at Black 49 was the pivot point, and White 50 and 52 were another speedy moves from Cho Hunhyun, but White 52 was questionable.]
 ;B[cc]
-(;W[be]LB[cc:53][be:54]C[Entering the corner at Black 53 was an excellent time, and White 54 was the strongest response for White.]
+(;W[be]LB[cc:53][be:54]C[Entering the corner at Black 53 was excellent, and White 54 was the strongest response for White.]
 ;B[fd]
-(;W[dc]LB[cc:A][dc:56][fd:55]C[Attaching at Black 55 was a nice combination along with A, and White 56 was inevitable.]
+(;W[dc]LB[cc:A][dc:56][fd:55]C[Attaching at Black 55 was a nice combination along with A, and White 56 was necessary.]
 ;B[fc]
-(;W[mc]LB[fc:57][lc:A][mc:58]C[White 58 looks nice, but it was a mistake. Extending at A would be better.]
+(;W[mc]LB[fc:57][lc:A][mc:58]C[White 58 looks nice, but it was wrong. Extending at A would be right.]
 ;B[kc]
 (;W[kd]LB[kc:59][mc:58][kd:60]C[Black invaded the top immediately with 59, and that was sharp to punish White's mistake at 58.]
 ;B[jc]
@@ -72,11 +127,11 @@ All of sudden, White's stones become solid and strong with White 40, and the gam
 ;B[bs]
 ;W[qf]
 ;B[oc]
-(;W[pj]LB[hb:63][oc:67][jd:A][of:B][qf:66][pj:68][br:64][bs:65]C[Black was happy to connect with 63. 
+(;W[pj]LB[hb:63][oc:67][jd:A][of:B][qf:66][pj:68][br:64][bs:65]C[Black was happy to connect with 63, and his group from the left side was settled at the same time.
 
-There's still White's weakness at A, but there's no time for White to fix, because he's too busy to play elsewhere.
+There's still a weakness at A, but there's no time for White to fix, because he's too busy to play elsewhere.
 
-White 66 was the right direction, but White should jump at B first before White 68.]
+White 66 was the right direction, but White should have continued with B for White 68.]
 ;B[pf]
 ;W[pg]
 ;B[of]
@@ -88,11 +143,11 @@ White 66 was the right direction, but White should jump at B first before White 
 ;B[rj]
 ;W[ri]
 ;B[qi]
-(;W[rk]LB[qi:79][ri:78][rj:77][rk:80]TR[pg][ph]C[The hane at Black 77 was the correct sequence, and White 78 and 80 were flexible moves to sacrifice the marked stones.]
+(;W[rk]LB[qi:79][ri:78][rj:77][rk:80]TR[pg][ph]C[The hane at Black 77 was the correct sequence, and White 78 and 80 were nice and flexible to sacrifice the marked stones.]
 ;B[pi]
 ;W[oj]
 ;B[oi]
-(;W[sj]LB[oi:83][pi:81][oj:82][sj:84]TR[pg][ph]C[Black captured White's marked stones with 81 and 83, and White 84 was a nice move to support the corner stones.]
+(;W[sj]LB[oi:83][pi:81][oj:82][sj:84]TR[re][qf][pg][ph]C[Black captured White's marked stones with 81 and 83, and White 84 was a nice move to support the two corner stones.]
 ;B[ki]
 ;W[ih]
 ;B[ii]
@@ -101,6 +156,8 @@ White 66 was the right direction, but White should jump at B first before White 
 ;W[jg]
 ;B[nj]
 (;W[ok]LB[jg:90][ih:86][jh:89][hi:88][ii:87][ki:85][nj:91][ok:92]C[Black started to attack White's stones from the top with Black 85, and White tried to fight back with 86 to 88.
+
+That's going to be an important fighting in the game.
 
 The hane at Black 91 was sente, and that exchange was for the future fighting in the center area.]
 ;B[ig]
@@ -114,11 +171,11 @@ The hane at Black 91 was sente, and that exchange was for the future fighting in
 ;B[mj]
 (;W[ni]LB[hg:95][ig:93][hh:94][kh:98][ji:99][li:96][mi:100][ni:2][lj:97][mj:1]C[Cutting at Black 93 was strong, and White made a counter attack from 96 to 102.
 
-All of sudden, the game became tense in this fighting. Both Black and White's groups are not yet settled, so it'd be a serious fighting.]
+All of sudden, the game became tense in this fighting. Both Black and White's groups are not yet settled, so it'd be a crucial fighting of the game.]
 ;B[gi]
 ;W[hj]
 ;B[jk]
-(;W[gj]LB[gi:3][gj:6][hj:4][jk:5]C[Black 103 and 105 were the right sequence, and White 106 was questionable.]
+(;W[gj]LB[gi:3][gj:6][hj:4][jk:5]C[Black 103 and 105 were the right sequence, and turning at White 106 was questionable.]
 ;B[ml]
 ;W[he]
 ;B[fi]
@@ -138,9 +195,9 @@ The attachment at White 112 was what White was aiming at, but the hane at Black 
 
 That's not easy for White to connect underneath at A, so White played elsewhere at 120.]
 ;B[qd]
-(;W[qp]LB[qd:21][qp:22]C[Attaching at White 122 was a kind of probe. White hoped to have some stones around here, so that they can help him to attack Black's center group later.
+(;W[qp]LB[qd:21][qp:22]C[Attaching at White 122 was a kind of probe. White hoped to have some stones around here in sente, so that they can help to attack Black's center group later.
 
-However, Cho Chikun knew that White's plan better than anybody else.]
+However, Cho Chikun knew White's plan better than anybody else.]
 ;B[qq]
 ;W[mm]
 ;B[nl]
@@ -160,9 +217,9 @@ However, Cho Chikun knew that White's plan better than anybody else.]
 ;B[qm]
 ;W[rg]
 ;B[oh]
-(;W[rh]LB[rg:40][oh:41][rh:42][om:35][pm:37][qm:39][on:36][pn:38]C[Black extended towards the right side, and White looked after his right side group up to 142.
+(;W[rh]LB[rg:40][oh:41][rh:42][om:35][pm:37][qm:39][on:36][pn:38]C[Black extended towards the right side up to 139, and White looked after his right side group with 142.
 
-There's going to be a real life and death problem in the center.]
+There's going to be a real 'life and death problem' in the center.]
 ;B[hl]
 (;W[fj]LB[fj:44][hl:43]C[The knight's move at Black 143 was nice, and reinforcing at White 144 was unavoidable.]
 ;B[fl]
@@ -172,17 +229,29 @@ There's going to be a real life and death problem in the center.]
 ;B[rp]
 ;W[rn]
 ;B[kl]
-(;W[il]LB[ej:46][fl:45][il:52][kl:51][qn:48][rn:50][qo:47][rp:49]C[Cho Chikun was quite sure about the life and death in the center, so he cut at 147 to get some more points before saving his group in the center.
+(;W[il]LB[ej:46][fl:45][il:52][kl:51][qn:48][rn:50][qo:47][rp:49]C[Cho Chikun was quite sure about the life and death in the center, so he even cut at 147 to get some more points before saving his group in the center.
 
 Black 151 was the vital point of the shape, and that group was practically alive.]
 ;B[ik]
 ;W[hm]LB[ik:53][hm:54]C[White won by time.
 
-When Cho Chikun played his next move, the lady who was calling the byo-yomi called 10, and the game was suddenly over.
+Cho Chikun played his next move, but at the same time, the byo-yomi lady called 10, and the game was stopped.
 
-Actually, Black could save the center group without any trouble, and Black was still in the lead.
+Kim In 9p, the umpire of the game, came and judged that it was time over, so the game was suddenly ended here.
 
+If the game was continued, Black could save the center group without any trouble, and Black was still in the lead, but Cho Chikun's hand wasn't fast enough, and he lost the game by the time. 
 
+However, there're still some unfinished parts on the board, so the result wouldn't be sure. (You can have a look at the further variations)
+
+Even though the game was ended with such a happening, they both seemed to be happy with the game. They didn't seem to care about the result that much, partly because this was an exhibition match.
+
+They both joined the review and talked about the game and the feeling of this match etc. They also had post game interviews with smiling faces in front of many of their fans and media, and the fans over there seemed to have a great time too.
+
+I hope you enjoy watching this special game more with this commentary, and if you have any questions or opinions, please feel free to leave a comment.
+
+Thanks,
+
+Commented by An Younggil 8p
 
 https://gogameguru.com/]
 ;B[im]
@@ -190,13 +259,15 @@ https://gogameguru.com/]
 ;B[hk]
 ;W[gk]
 ;B[gm]
-;W[hn]
+(;W[hn]
 ;B[in]
 ;W[gn]
 ;B[bh]
 ;W[bi]
 ;B[cg]
-(;W[rc]LB[rc:66][cg:65][bh:63][bi:64][gk:58][hk:57][gl:56][gm:59][im:55][gn:62][hn:60][in:61]C[If Black didn't over the byo-yomi, Black would save the center group in sente, and would come back to the left side with 163.]
+(;W[rc]LB[rc:66][cg:65][bh:63][bi:64][gk:58][hk:57][gl:56][gm:59][im:55][gn:62][hn:60][in:61]C[If Black didn't over the time, Black would save the center group in sente, and he would come back to the left side with 163. (White 160 needs to be at 163.)
+
+White 166 is also big, but there's a bad aji inside of White's left side territory]
 ;B[bj]
 (;W[ai]LB[ai:68][bj:67]C[The attachment at Black 167 is very sharp. and Black can make something happen here.]
 ;B[ci]
@@ -205,7 +276,7 @@ https://gogameguru.com/]
 ;W[ah]
 ;B[ei]
 ;W[di]
-;B[dj]LB[ah:72][ch:70][ai:68][ci:69][di:74][ei:73][cj:71][dj:75]C[Black 169 and 171 were nice, and White's stones will be captured up to Black 175.])
+;B[dj]LB[ah:72][ch:70][ai:68][ci:69][di:74][ei:73][cj:71][dj:75]C[If White descends at 168, Black will play 169 to 171, and White's stones will be captured up to Black 175.])
 (;W[ch]
 ;B[ag]
 ;W[ai]
@@ -213,7 +284,9 @@ https://gogameguru.com/]
 (;W[di]
 ;B[cj]
 ;W[ci]
-;B[dj]LB[ag:2][ch:1][ai:3][ci:7][di:5][ei:4][cj:6][dj:8]C[If White disconnect Black with 1 to 3, Black will push at 4 attack White's weaknesses.])
+;B[dj]LB[ag:2][ch:1][ai:3][ci:7][di:5][ei:4][cj:6][dj:8]C[If White disconnect Black with 1 to 3, Black will push at 4 to aim White's weaknesses.
+
+White will be in deep trouble up to 8.])
 (;W[dj]
 ;B[ci]LB[ag:2][ch:1][ai:3][ci:6][di:B][ei:4][cj:A][dj:5]C[If White extends at 5 instead, Black will cut at 6, and A and B are miai for him next.])
 (;W[cj]
@@ -242,16 +315,25 @@ Black can capture the marked stones up to 14 in a snap-back. If White ataris at 
 ;B[jm]
 ;W[lm]
 ;B[mk]LB[lk:2][mk:6][nk:3][jm:4][km:1][lm:5]C[If White pokes at 3 first, Black will atari at 4, and that's still alive.])))
+(;W[bh]
+;B[ei]
+;W[dj]
+;B[ag]
+;W[hn]
+;B[in]
+;W[gn]LB[ag:4][bh:1][ei:2][dj:3][gn:7][hn:5][in:6]C[Actually, White would play like this, and the game will be closer compared to the other variations.]))
 (;W[lk]
 ;B[em]
 ;W[en]
 ;B[dk]
 ;W[dj]
-;B[ck]LB[dj:5][ck:6][dk:4][lk:1][em:2][en:3]C[If White plays 1 instead of White 152, Black wiill play 2 to 6, and White's center group will be rather in trouble.]))
+;B[ck]LB[dj:5][ck:6][dk:4][lk:1][em:2][en:3]C[If White plays 1 instead of White 152, Black wiill play 2 to 6, and White's center group towards the left side will be in trouble.]))
 (;W[jl]
 ;B[kk]
 ;W[kl]
-;B[fk]LB[fk:4][kk:2][jl:1][kl:3]TR[hh][ih][hi][gj][hj]C[If White attaches at 1 to destroy Black's eye space, Black will cap at 4 to capture the marked stones.]))
+;B[fk]LB[fk:4][kk:2][jl:1][kl:3]TR[hh][ih][hi][gj][hj]C[If White attaches at 1 to destroy Black's eye space, Black will cap at 4 to capture the marked stones.
+
+Unfortunately, there's no way out for the marked stones.]))
 (;W[il]
 ;B[rh]
 ;W[sh]
@@ -265,7 +347,7 @@ Black can capture the marked stones up to 14 in a snap-back. If White ataris at 
 ;W[rp]
 ;B[or]
 ;W[rr]
-;B[dj]LB[dj:8][pn:2][qo:4][ro:1][rp:5][or:6][pr:3][rr:7]C[If White plays 1 to 3, Black won't care to sacrifice the two stones in the corner. Black will come back to the left side, and that's not good enough for White to catch up.]))
+;B[dj]LB[dj:8][pn:2][qo:4][ro:1][rp:5][or:6][pr:3][rr:7]C[If White plays 1 to 3, Black won't care to sacrifice the two stones in the corner. Black will come back to the left side, and that's still good enough for Black.]))
 (;B[op]
 ;W[nn]
 ;B[om]
@@ -356,7 +438,9 @@ The result up to White 22 is still better for White.])))
 ;B[cb]
 ;W[qp]
 ;B[qq]
-;W[po]LB[cb:10][db:6][eb:7][fb:8][ib:5][ic:9][fe:4][he:3][hl:1][ml:2][mm:A][po:13][qp:11][qq:12]C[White should have jumped at 1. Black will attach at 2, and the game will be similar to the actual game. However, White 1 is much better to attack Black's center group, and the game will still be quite complicated up to White 13.]))
+;W[po]LB[cb:10][db:6][eb:7][fb:8][ib:5][ic:9][fe:4][he:3][hl:1][ml:2][mm:A][po:13][qp:11][qq:12]C[White should have jumped at 1. Black will attach at 2, and the game will be similar to the actual game after White 3. 
+
+However, White 1 is much better to attack Black's center group, and the game will still be quite complicated up to White 13.]))
 (;W[kj]
 ;B[kk]
 ;W[jj]
@@ -384,7 +468,7 @@ Connecting at Black 6 is sente, and A and B are miai for Black after 10.])
 ;W[rj]
 ;B[qm]LB[ij:1][rj:3][ok:2][qm:4]C[If White ataris at 1 for White 92, Black will continue the right side with 2 to 4, and that White group will be in trouble.
 
-The atari at Black 2 is unbearable for White.]))
+The atari at Black 2 is unbearable for White, so White 92 was necessary.]))
 (;W[nj]
 ;B[rc]LB[rc:2][nj:1]C[Extending at White 1 is also conceivable, but then Black will secure the corner with 2.]))
 (;W[pi]
@@ -412,7 +496,7 @@ The atari at Black 2 is unbearable for White.]))
 ;W[oh]
 ;B[lh]
 ;W[mg]
-;B[lg]LB[qb:6][rb:7][pc:8][qc:3][rc:9][qd:4][rd:5][kf:11][lf:10][lg:26][mg:25][ng:22][og:21][lh:24][mh:19][nh:17][oh:23][rh:2][mi:18][ni:14][oi:13][pi:1][nj:15][oj:12][ok:16]C[Connecting at White 1 would be too much for White. Black 10 is a nice exchange, and Black can eventually capture White's key stones from 12 to 26.])
+;B[lg]LB[qb:6][rb:7][pc:8][qc:3][rc:9][qd:4][rd:5][kf:11][lf:10][lg:26][mg:25][ng:22][og:21][lh:24][mh:19][nh:17][oh:23][rh:2][mi:18][ni:14][oi:13][pi:1][nj:15][oj:12][ok:16]C[Connecting at White 1 would be too heavy for White. Black 10 is a nice exchange, and Black can eventually capture White's key stones from 12 to 26.])
 (;W[nh]
 ;B[oh]LB[qb:6][rb:7][pc:8][qc:3][rc:9][qd:4][rd:5][kf:11][lf:10][nh:13][oh:14][rh:2][pi:1][oj:12]C[If White jumps at 13 during the sequence, Black will wedge at 14 to capture the five stones.])))
 (;W[qc]
@@ -426,7 +510,7 @@ The atari at Black 2 is unbearable for White.]))
 (;B[rd]
 ;W[qh]
 ;B[rg]
-;W[rh]LB[rd:1][rg:3][qh:2][rh:4]C[If Black responds at 1 to secure the corner territory, White will capture the cutting stone with 2 to 4.]))
+;W[rh]LB[rd:1][qg:A][rg:3][qh:2][rh:4]C[If Black responds at 1 to secure the corner territory, White will capture Black A with 2 to 4.]))
 (;W[qh]
 ;B[rg]
 ;W[rf]
@@ -448,7 +532,7 @@ The atari at Black 2 is unbearable for White.]))
 ;W[ke]
 ;B[if]LB[qd:A][ke:11][qe:1][if:12][jf:10][kf:3][lf:2][mf:6][jg:7][kg:4][lg:5][jh:9][kh:8]TR[mc][gd][id][kd][ld]C[If White extends at 1 as usual, Black won't answer at A, but cap at 2 to attack White's stones at the top.
 
-Black will continue with 4 to 12, and White's marked stones are in great danger.]))
+Black will continue with 4 to 12, and White's marked stones will be in great danger.]))
 (;W[of]
 ;B[rd]
 ;W[pj]LB[rd:2][of:1][pj:3]C[White should have jumped at 1 first. This would be better than in the actual game for White.]))
@@ -468,7 +552,7 @@ Black will continue with 4 to 12, and White's marked stones are in great danger.
 ;W[ec]
 ;B[dc]LB[dc:4][ec:3][fc:1][gc:A][ed:2]TR[dd][be][ce]C[Answering with White 1 to 3 still doesn't work. Black will cut at 4, and the marked stones will be in trouble.
 
-White should worry about the cutting point at A as well.]))
+White should worry about the cutting point at A in some cases as well.]))
 (;W[dc]
 ;B[be]
 ;W[cd]
@@ -483,7 +567,7 @@ White should worry about the cutting point at A as well.]))
 ;B[gj]
 ;W[id]LB[id:3][be:1][gj:2]C[White should have played at 1 to reinforce the corner, and that can also support the left side.
 
-The game will still be even up to White 3.]))
+The game will still be even with White 3.]))
 (;W[hi]
 ;B[fd]
 ;W[fc]
@@ -498,9 +582,9 @@ Black will play A or B next, and that'll be another game.]))
 ;W[ef]
 ;B[de]
 ;W[ff]
-;B[cd]LB[cd:6][de:4][ee:2][ef:3][ff:5][dg:1]C[If White tries to cut with 1, Black will jump at 2 to manage the situation.
+;B[cd]LB[cd:6][de:4][ee:2][ef:3][ff:5][dg:1]C[If White tries to cut from 1, Black will jump at 2 to manage the situation.
 
-The trade up to Black 6 is better for Black, because White's center area is hard to enclose.]))
+The trade up to Black 6 is better for Black, because White's center is hard to enclose.]))
 (;B[cc]
 ;W[cd]
 ;B[dc]
@@ -551,11 +635,9 @@ White can also think about cutting at A to fight instead of 7, but the following
 ;W[hk]
 ;B[fm]
 ;W[en]
-;B[ik]LB[cg:1][hk:5][ik:8][fm:6][hm:4][en:7][ln:A][fo:3][go:2]C[If White doesn't reinforce at 40, Black will move the center stones out immediately.
+;B[ik]LB[cg:1][hk:5][ik:8][fm:6][hm:4][en:7][fo:3][go:2]C[If White doesn't reinforce at 40, Black will move the center stones out immediately.
 
-Black 6 and 8 are a good combination, and that's difficult for White to attack these Black stones. 
-
-We should also consider that White's group A is cut off, so not strong.]))
+Black 6 and 8 are a good combination, and that's difficult for White to attack these stones.]))
 (;W[cr]
 ;B[gp]LB[gp:2][cr:1][dr:D][gr:A][hr:B][gs:C][is:E]C[If White extends at 1, Black will connect at 2, and this Black group is quite safe.
 
@@ -566,7 +648,7 @@ That's why White didn't play 1 in the actual game.]))
 ;W[im]
 ;B[hm]
 ;W[hl]
-;B[gm]LB[hl:4][gm:5][hm:3][im:2][gp:1]C[Connecting at Black 1 would be also possible. If White threatens to cut with 2, Black will attach at 3 to come out towards the center.
+;B[gm]LB[hl:4][gm:5][hm:3][im:2][gp:1][er:A]C[Connecting at Black 1 would be better. If White threatens to cut with 2, Black will attach at 3 to come out towards the center. Black can play A later whenever he wants.
 
 This way of play is more natural, but Cho Chikun chose safer way again in the actual game.]))
 (;B[fm]
@@ -578,9 +660,9 @@ This way of play is more natural, but Cho Chikun chose safer way again in the ac
 ;B[qq]
 ;W[op]
 ;B[pr]
-;W[or]LB[em:A][fm:1][mp:5][op:8][lq:2][nq:4][pq:6][qq:7][lr:3][or:10][pr:9]C[Reinforcing the bottom left group with Black 1 or at A is also possible, but then White will invade the bottom with 2 to 10.
+;W[or]LB[em:A][fm:1][mp:5][op:8][lq:2][nq:4][pq:6][qq:7][lr:3][or:10][pr:9]TR[pk][qk]C[Reinforcing the bottom left group with Black 1 or at A is also possible, but then White will invade the bottom with 2 to 10.
 
-The game will become more complex, but Black can fight. Cho Chikun chose the simpler way in the actual game, because he was satisfied with the opening.]))
+The game will become more complex, though there's no problem for Black. Cho Chikun chose the simpler way in the actual game, because he was satisfied with the result on the right side.]))
 (;W[qk]
 ;B[pm]
 ;W[ln]
@@ -592,9 +674,9 @@ The game will become more complex, but Black can fight. Cho Chikun chose the sim
 ;B[qo]
 ;W[pn]
 ;B[qn]
-;W[pm]LB[qj:A][mm:1][pm:8][pn:6][qn:7][no:2][po:4][qo:5][oq:3]C[The knight's fly at Black 1 is good to attack, but that's lack of strategy. White will attach at 4 to connect the bottom group to A, and that's easy for White.
+;W[pm]LB[qj:A][mm:1][pm:8][pn:6][qn:7][no:2][po:4][qo:5][oq:3]C[The knight's fly at Black 1 is generally good, but that's lack of strategy. White will attach at 4 to connect the bottom group to A, and that's easy for White.
 
-Actually, Black is still fine, because he got the big corner territory with 3 to 7, but the actual game was more strategic for Black.]))
+Actually, Black is still fine with the big corner territory from 3 to 7, but the actual game was more strategic for Black.]))
 (;W[kn]
 ;B[ko]
 ;W[kp]
@@ -659,11 +741,11 @@ Black's outside isn't complete (e.g: weaknesses at A and B), so Black won't be h
 ;B[nq]
 ;W[nr]
 ;B[oq]
-;W[qm]LB[qm:17][jo:12][ko:4][lo:10][jp:2][kp:1][lp:8][mp:5][iq:11][jq:6][kq:3][lq:9][nq:14][oq:16][jr:7][mr:13][nr:15]C[White should have jumped at 1. If Black ataris at 2, extending at White 3 is a nice response.
+;W[qm]LB[qm:17][jo:12][ko:4][lo:10][jp:2][kp:1][lp:8][mp:5][iq:11][jq:6][kq:3][lq:9][nq:14][oq:16][jr:7][mr:13][nr:15]C[White should have jumped at 1. If Black ataris at 2, extending at White 3 is the nice response.
 
 If Black tries to cut with 8, White can quickly live at the bottom up to 16 in sente.
 
-As we can see, Black's influence isn't working very well, because White 17 reduces the scale of the thickness.])
+As we can see, Black's influence isn't working very well, because White 17 reduces the scale of Black's influence.])
 (;B[lp]
 ;W[lq]
 ;B[lo]
@@ -677,7 +759,7 @@ As we can see, Black's influence isn't working very well, because White 17 reduc
 ;B[kr]
 ;W[ms]LB[ko:4][lo:8][mo:12][jp:2][kp:1][lp:6][mp:5][np:13][pp:A][jq:14][kq:3][lq:7][nq:9][kr:16][lr:15][mr:10][nr:11][ms:17]C[Wedging at Black 6 isn't a good idea either. 
 
-White is happy with the result, because Black A is damaged, and Black's potential is reduced a lot.]))
+White is happy with the result, because Black A is damaged, and Black's potential is reduced also.]))
 (;B[kr]
 ;W[jr]
 ;B[jq]
@@ -685,7 +767,7 @@ White is happy with the result, because Black A is damaged, and Black's potentia
 ;B[ir]
 ;W[iq]
 ;B[js]
-;W[jp]LB[kn:B][jp:9][kp:1][iq:7][jq:4][kq:5][ir:6][jr:3][kr:2][lr:A][js:8]C[Sliding at Black 2 is also possible, and White will respond up to 9. A and B are miai for White next, and that's also much better for White compared to the actual game.])))
+;W[jp]LB[kn:B][jp:9][kp:1][iq:7][jq:4][kq:5][ir:6][jr:3][kr:2][lr:A][js:8]C[Sliding at Black 2 is also possible, and White will respond up to 9. A and B are miai for White next, and that's also  better for White compared to the actual game.])))
 (;B[kp]
 ;W[jp]
 (;B[ko]
@@ -707,14 +789,12 @@ White 2 is a practical response, and White will make a living shape easily up to
 ;B[cr]
 ;W[ck]LB[ck:10][cp:6][bq:8][cq:3][dq:4][kq:2][br:7][cr:9][dr:5][fr:1]C[Descending at Black 1 is also conceivable.
 
-If White extends at 2, Black will enter the corner with 3. That's another game up to White 10.
-
-This is another peaceful game.])
+If White extends at 2, Black will enter the corner with 3. That's another game up to White 10.])
 (;W[dr]
 ;B[iq]
 ;W[qm]LB[qm:4][iq:3][dr:2][fr:1]TR[gq][hq]C[White can also consider to secure the corner with 2, and Black will cut at 3 to capture the marked stones.
 
-This is another peaceful game.])))
+This is another peaceful game with White 4.])))
 (;W[dr]
 ;B[do]
 ;W[cp]
@@ -738,15 +818,15 @@ The fighting up to Black 12 is more active for Black.]))
 ;B[cr]
 ;W[eq]
 ;B[cn]
-;W[kq]LB[cn:9][do:4][cp:3][cq:1][dq:2][eq:8][kq:10][cr:7][dr:5][er:6]C[Entering the corner is still possible, but Cho Chikun didn't seem to like to see White extending at 10.]))
+;W[kq]LB[cn:9][do:4][cp:3][cq:1][dq:2][eq:8][kq:10][cr:7][dr:5][er:6]C[Entering the corner at Black 1 is still possible, but Cho Chikun didn't seem to like White extension at 10.]))
 (;W[fp]
 ;B[pj]
 ;W[eq]
 ;B[fc]
 ;W[cf]
-;B[mc]LB[fc:4][mc:6][cf:5][pj:2][fp:1][eq:3]C[White can consider of White 1 to 3, then Black will develop the other side of the board rapidly with Black 2 to 6.
+;B[mc]LB[fc:4][mc:6][cf:5][pj:2][fp:1][eq:3]C[White can consider of dominating the bottom left with 1 to 3, but then Black will develop the other side of the board rapidly with Black 2 to 6.
 
-Cho Hunhyun's style of play is light and speedy in the opening, and he doesn't like his opponent's large scale like this.]))
+Cho Hunhyun's style of play is light and speedy in the opening, and he doesn't like his opponent's large scale moyo like this.]))
 (;B[cq]
 ;W[dq]
 ;B[cp]
@@ -755,4 +835,4 @@ Cho Hunhyun's style of play is light and speedy in the opening, and he doesn't l
 ;W[er]
 ;B[cr]
 ;W[eq]
-;B[cn]LB[cn:9][qn:B][do:4][cp:3][cq:1][dq:2][eq:8][kq:C][nq:A][cr:7][dr:5][er:6]C[Entering at 3-3 at Black 1 is common, and A to C are all good options next for White.]))
+;B[cn]LB[cn:9][qn:B][do:4][cp:3][cq:1][dq:2][eq:8][kq:C][nq:A][cr:7][dr:5][er:6]C[Entering at 3-3 at Black 1 is common, and A to C are possible options next for White.]))
