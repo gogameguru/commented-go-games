@@ -104,7 +104,7 @@ Let's have a look at the final of the 5th Igo Masters Cup.]RE[W+5.50]
 (;W[ir]LB[om:40][no:41][oo:A][mp:39][ir:42]C[Black 39 was necessary to reinforce his weakness at A, and White 42 was also necessary to live.]
 ;B[jd]
 ;W[qf]
-;B[re]
+(;B[re]LB[qe:A]C[The attachment at A is common, but Takemiya wanted to get more with the lower knight's move.]
 (;W[nd]LB[jd:43][nd:46][re:45][qf:44]C[Black 43 was big, and the approach at White 44 was in natural flow.
 
 Black 45 was the right direction, because the right side is open and not valuable in this game.]
@@ -352,7 +352,9 @@ By the way, the ko fight last nearly 80 moves.]
 ;W[hb]
 ;B[hr]
 ;W[js]
-;B[gr]LB[hb:68][oc:59][de:56][ee:55][se:53][sf:57][sg:58][rh:60][ai:50][nj:63][oj:62][pk:61][qk:51][sk:52][gr:71][hr:69][pr:65][sr:66][es:67][js:70][ns:54][os:64]C[There were only small endgame moves left.]
+;B[gr]LB[hb:68][oc:59][de:56][ee:55][se:53][sf:57][sg:58][rh:60][ai:50][nj:63][oj:62][pk:61][qk:51][sk:52][gr:71][hr:69][pr:65][sr:66][es:67][js:70][ns:54][os:64]C[The game was finished.
+
+White's bottom was already alive without White 270, but prpbably Cho wanted to be extra careful.]
 ;W[gb]LB[gb:72][ic:B][lf:A]C[White won by 5.5 points at the end of move 272.
 
 Cho Chikun won the 5th Igo Masters Cup, and that was his 3rd time victory in this tournament. That was his 74th title of his career at the same time, and he broke his own record of the most number of titles in Japan again.
@@ -486,7 +488,9 @@ This variation is better for Black than in the actual game, and the game will be
 
 Black can live in the corner easily up to 5, and the game would have been more complex than in the actual game.])
 (;W[cp]
-;B[dq]LB[cp:2][cq:1][dq:3]C[a])))
+;B[dq]LB[cp:2][cq:1][dq:3]C[Answering at White 2 isn't good either.
+
+Black is happy to connect with a nice shape with Black 3.])))
 (;W[fl]
 ;B[cm]
 ;W[dm]
@@ -615,6 +619,24 @@ Black's center is still quite nice with big potential, and the game will still b
 ;B[dm]
 ;W[cm]
 ;B[dl]LB[fc:6][nd:4][qe:2][cf:7][of:3][rf:1][qj:5][dl:10][cm:9][dm:8]C[Playing on the right up to 5 isn't a good idea for White. That's because Black can develop other parts of the board rapidly, and the right side isn't that valuable.]))
+(;B[qe]
+;W[pf]
+;B[nd]
+;W[pi]LB[qc:A][nd:3][qe:1][re:B][pf:2][pi:4]C[Attaching at Black 1 is also conceivable, but then White will settle on the right side up to White 4.
+
+In that case, White can invade at A anytime later, so Takemiya chose to play at B in the actual game.])
+(;B[qh]
+;W[qc]
+;B[pc]
+;W[qd]
+;B[pe]
+;W[rf]
+;B[og]
+;W[gd]LB[pc:3][qc:2][gd:8][qd:4][pe:5][rf:6][og:7][qh:1]C[The pincer at Black 1 is also possible, but that's not suitable in this situation.
+
+White will take sente up to Black 7, and extend at the top at around 8.
+
+That's not easy for Black to enclose the center, because the game becomes very simple, and White doesn't have any weak stones on the board.]))
 (;W[jd]
 ;B[ir]
 ;W[jr]
