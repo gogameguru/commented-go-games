@@ -6,9 +6,11 @@ GN[Yamashita-Keigo-vs-Iyama-Yuta-20150629]PW[Iyama Yuta]PB[Yamashita Keigo]WR[9p
 ;B[qp]
 ;W[dd]
 ;B[nq]
-(;W[qf]LB[dd:4][qf:6][dp:2][qp:3][nq:5]C[a]
+(;W[qf]LB[dd:4][qf:6][qj:A][dp:2][qp:3][nq:5]C[Approaching at White 6 is the most common in this opening these days.
+
+Apliting at A is getting less popular, but that's still playable especially for amateur players.]
 ;B[pi]
-(;W[qc]LB[qc:8][pi:7]C[a]
+(;W[qc]LB[nc:A][qc:8][nd:B][pi:7]C[Approaching at A or B is also possible, but Iyama chose a basic joseki in the game.]
 ;B[qd]
 ;W[pc]
 ;B[od]
@@ -18,13 +20,15 @@ GN[Yamashita-Keigo-vs-Iyama-Yuta-20150629]PW[Iyama Yuta]PB[Yamashita Keigo]WR[9p
 ;B[qe]
 ;W[nc]
 ;B[cf]
-(;W[di]LB[nc:16][pc:10][rc:14][od:11][qd:9][rd:12][qe:15][re:13][cf:17][di:18]C[a]
-(;B[cn]LB[cn:19]C[a]
-(;W[fq]LB[fq:20]C[a]
+(;W[di]LB[fc:B][nc:16][pc:10][rc:14][fd:A][od:11][qd:9][rd:12][qe:15][re:13][cf:17][di:18]C[Responding at A or B is also possible, but Iyama chose to pincer to develop quickly in the game.]
+(;B[cn]LB[cn:19]C[Approaching at Black 19 was strategic. Black wants to see where White would respond, and he'll choose next move by then.]
+(;W[fq]LB[fq:20]C[Responding at White 20 was right in this opening.
+
+White shouldn't spend too much on the left side, because Black's right side formation has more potential in this game.]
 ;B[dk]
 ;W[fd]
-(;B[eh]LB[fd:22][eh:23][dk:21]C[a]
-;W[ei]
+(;B[eh]LB[fd:22][eh:23][dk:21]C[Black 21 was normal, but the elephant jump at Black 23 was bold and creative.]
+(;W[ei]
 ;B[fi]
 (;W[fh]LB[fh:26][ei:24][fi:25]C[a]
 (;B[fj]LB[fj:27]C[a]
@@ -513,9 +517,23 @@ GN[Yamashita-Keigo-vs-Iyama-Yuta-20150629]PW[Iyama Yuta]PB[Yamashita Keigo]WR[9p
 ;B[fh]
 ;W[ek]
 ;B[dl]LB[fh:2][ej:1][ek:3][dl:4]C[a]))
+(;W[dg]
+;B[dh]
+;W[cg]
+;B[ch]
+;W[bh]
+;B[bi]
+;W[bf]
+;B[eg]
+;W[df]
+;B[ah]
+;W[bg]
+;B[ei]LB[bf:7][df:9][bg:11][cg:3][dg:1][eg:8][ah:10][bh:5][ch:4][dh:2][bi:6][ei:12]))
 (;B[hq]
 ;W[bp]
-;B[ho]LB[ho:3][bp:2][hq:1]C[a]))
+;B[ho]LB[ho:3][bp:2][hq:1]C[Approaching at Black 1 is also conceivable.
+
+Black's lower right area becomes larger and deeper, and that'd be another game.]))
 (;W[cl]
 ;B[fp]
 ;W[dn]
@@ -523,7 +541,9 @@ GN[Yamashita-Keigo-vs-Iyama-Yuta-20150629]PW[Iyama Yuta]PB[Yamashita Keigo]WR[9p
 ;W[cm]
 ;B[dq]
 ;W[co]
-;B[cq]LB[cl:1][cm:5][dm:4][dn:3][co:7][fp:2][cq:8][dq:6]C[a]))
+;B[cq]LB[cc:C][cf:A][di:B][cl:1][cm:5][dm:4][dn:3][co:7][fp:2][cq:8][dq:6]C[If White pincers at 1, Black will make a double approach at 2, and the result up to Black 8 is what Black wants.
+
+White's left side is kind of overconcentrated formation, and the exchange of Black A for White B was also benefitial for Black, because Black can easily enter the corner at C whenever he wants.]))
 (;B[cc]
 ;W[cd]
 ;B[dc]
@@ -533,11 +553,15 @@ GN[Yamashita-Keigo-vs-Iyama-Yuta-20150629]PW[Iyama Yuta]PB[Yamashita Keigo]WR[9p
 ;B[bc]
 ;W[ce]
 ;B[fc]
-;W[fq]LB[bc:7][cc:1][dc:3][fc:9][bd:5][cd:2][ed:4][be:6][ce:8][fq:10]C[a]))
+;W[fq]LB[bc:7][cc:1][dc:3][fc:9][bd:5][cd:2][ed:4][be:6][ce:8][fq:10]C[Entering the corner with Black 1 is also possible, but White will enclose the corner with 10, and that's too plain for Black.
+
+Pros say this kind of opening is boring, so they don't like to play.]))
 (;W[fd]
 ;B[cn]
 ;W[fq]
-;B[dj]LB[fd:1][dj:4][cn:2][fq:3]C[a]))
+;B[dj]LB[fc:A][fd:1][dj:4][cn:2][fq:3]C[If White responds gently with 1 or at A instead, Black will approach at 2 again to make a nice fomation with 4.
+
+Actually, that Black's fomation has mane weaknesses, so that's still playable for both.]))
 (;W[nc]
 ;B[pf]
 ;W[pg]
@@ -547,10 +571,12 @@ GN[Yamashita-Keigo-vs-Iyama-Yuta-20150629]PW[Iyama Yuta]PB[Yamashita Keigo]WR[9p
 ;W[qe]
 ;B[pc]
 ;W[og]
-;B[md]LB[nc:1][pc:8][qc:6][md:10][qd:5][qe:7][of:4][pf:2][og:9][pg:3]C[a]))
+;B[md]LB[nc:1][pc:8][qc:6][md:10][nd:A][qd:5][qe:7][of:4][pf:2][og:9][pg:3]C[The double approach at White 1 or at A is also possible.
+
+This is another joseki and complicated fighting will be followed.]))
 (;W[qj]
 ;B[fc]
 ;W[cf]
 ;B[qg]
 ;W[qm]
-;B[jd]LB[fc:2][jd:6][cf:3][qg:4][qj:1][qm:5][oq:C][pq:B][qq:A]C[a]))
+;B[jd]LB[fc:2][jd:6][cf:3][qg:4][qj:1][qm:5][nq:A][oq:D][pq:C][qq:B]C[Spliting the right side with White 1 ia also possible when Black has the long knight's enclusure at A. That's because White will have more options to invade at A to C later. ]))
