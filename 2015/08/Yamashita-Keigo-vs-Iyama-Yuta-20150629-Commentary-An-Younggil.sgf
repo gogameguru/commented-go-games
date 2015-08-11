@@ -147,23 +147,23 @@ White 108 was correct, and Black is still in danger.]
 
 I wonder whether or not Iyama saw this move. If Iyama saw that, he might have chosen an easier way at A instead of 112.]
 (;W[dc]LB[dc:14]C[White 114 was accurate, but there's going to be bad aji in this area.]
-(;B[ee]
-(;W[bd]LB[bd:16][ee:15]C[a]
+(;B[ee]LB[ee:15]C[Going out at Black 115 was correct.]
+(;W[bd]LB[bd:16]C[White 116 looks weird, but that was the right move.]
 ;B[db]
-(;W[ea]LB[ea:18][db:17]C[a]
+(;W[ea]LB[ea:18][db:17][bd:16]C[White 118 was a good followup to White 116.]
 ;B[ia]
 ;W[jb]
 ;B[ce]
 ;W[be]
 ;B[bg]
 ;W[ag]
-(;B[cb]LB[ia:19][cb:25][jb:20][be:22][ce:21][ag:24][bg:23]C[a]
+(;B[cb]LB[ia:19][cb:25][jb:20][be:22][ce:21][ag:24][bg:23]C[Black 121 to 125 were the right order of the moves, and it's getting more difficult for White to capture them all.]
 ;W[bb]
 ;B[ba]
 ;W[ff]
 ;B[fa]
 ;W[ha]
-(;B[bc]LB[ba:27][fa:29][ha:30][bb:26][bc:31][ff:28]C[a]
+(;B[bc]LB[ba:27][fa:29][ha:30][bb:26][bc:31][ff:28]C[White 128 was calm, and it's going to be a ko in the corner.]
 ;W[ac]
 ;B[de]
 ;W[bc]
@@ -173,13 +173,15 @@ I wonder whether or not Iyama saw this move. If Iyama saw that, he might have ch
 ;W[ih]
 ;B[hi]
 ;W[aa]
-;B[si]
+(;B[si]LB[aa:40][ab:37][ac:32][bc:34][ae:35][de:33][ih:38][hi:39][si:41]C[Black 141 was a nice ko threat, and it looks like that's a Black's ko threat factory to threaten this White group.
+
+However, Go is not that simple.]
 ;W[sj]
 ;B[ab]
 ;W[lk]
 ;B[ll]
 ;W[mh]
-(;B[li]LB[aa:36][ab:37][ac:32][bc:34][ae:35][de:33][ih:38][mh:44][hi:39][li:45][si:40][sj:41][lk:42][ll:43]C[a]
+(;B[li]LB[ab:43][ih:38][mh:46][hi:39][li:47][sj:42][lk:44][ll:45]C[White 144 and 146 were a nice ko threat, and Black 147 was necessary.]
 ;W[aa]
 ;B[ri]
 ;W[sh]
@@ -188,8 +190,12 @@ I wonder whether or not Iyama saw this move. If Iyama saw that, he might have ch
 ;B[mi]
 ;W[aa]
 ;B[kj]
-;W[hh]LB[ii:A]
-(;B[qn]LB[aa:54][ab:51][hh:56][sh:50][mi:53][ri:49][kj:55][lj:52][qn:57]C[a]
+;W[hh]
+(;B[qn]LB[aa:54][ca:B][ab:51][gg:A][hh:56][sh:50][ii:C][mi:53][ri:49][kj:55][lj:52][qn:57]C[Black 155 was inevitable, because White will have so many ko threats in this area, and White eliminated the ko with 156.
+
+If Black connects at A next, White will play B. White 156 was sophisticated, because that's better when White pushes at C later.
+
+Black 157 was the only move, and capturing this group is only hope for Black.]
 (;W[mo]LB[mo:58]C[a]
 ;B[ko]
 ;W[mq]
@@ -271,12 +277,10 @@ I wonder whether or not Iyama saw this move. If Iyama saw that, he might have ch
 ;W[ks]LB[jn:5][kn:4][kp:1][iq:3][kq:2][ks:6]C[a]))
 (;W[jn]
 ;B[mn]LB[jn:1][mn:2]C[a]))
-(;B[gg]
-;W[ca])
 (;B[mn]
 ;W[qn]
 ;B[rn]
-;W[on]LB[mn:1][on:4][qn:2][rn:3]C[a]))
+;W[on]LB[mn:1][on:4][qn:2][rn:3]C[Wedging at Black 1 is clumsy, and White can live with 2 to 4.]))
 (;B[ca]
 ;W[ng]
 ;B[ni]
@@ -288,7 +292,17 @@ I wonder whether or not Iyama saw this move. If Iyama saw that, he might have ch
 ;B[kj]
 ;W[jk]
 ;B[jj]
-;W[ik]LB[ca:1][ng:2][mi:4][ni:3][jj:11][kj:9][lj:7][mj:5][ik:12][jk:10][kk:8][mk:6]C[a]))
+;W[ik]LB[ca:1][ng:2][mi:4][ni:3][jj:11][kj:9][lj:7][mj:5][ik:12][jk:10][kk:8][mk:6]C[If Black eliminates  the ko with 1, White 2 will be very severe to attack this Black group.
+
+Even if Black tries to fight back with 3 and 5, that doesn't work well up to White 12.]))
+(;B[ca]
+;W[eb]
+;B[da]
+;W[eb]LB[ca:1][da:3][ea:A][eb:4][fc:B]C[Black shouldn't connect at 1, because White will throw in at 2 to 4 to make it a false eye. 
+
+Black should take the stone with A, and White will clamp at B to make it a false eye, and it'll be 'one eye vs no eye'.
+
+]))
 (;B[de]
 ;W[bc]
 ;B[ae]
@@ -296,23 +310,25 @@ I wonder whether or not Iyama saw this move. If Iyama saw that, he might have ch
 ;B[ad]
 ;W[ih]
 ;B[hi]
-;W[ja]LB[ja:8][ab:4][bc:2][ad:5][ae:3][de:1][ih:6][hi:7]C[a]))
+;W[ja]LB[ja:8][ab:4][ac:A][bc:2][ad:5][ae:3][de:1][ih:6][hi:7]C[If Black plays 1 to 3 instead, White will win the capturing race as 'bigger eyespace vs smaller eyespace'. 
+
+White will eventually capture Black, because White has one more invisible liberty at A.]))
 (;B[bb]
 ;W[cb]
 ;B[bc]
 (;W[de]
-;B[ef]LB[bb:1][cb:2][bc:3][de:4][df:A][ef:5][ff:B]C[a])
+;B[ef]LB[bb:1][cb:2][bc:3][de:4][df:A][ef:5][ff:B]C[Jumping at Black 1 is also conceivable. White 4 is wrong, and A and B will be miai for Black after 5.])
 (;W[ba]
 ;B[de]
 ;W[ca]
 ;B[eb]
 ;W[ac]
 ;B[da]
-;W[ab]LB[ba:4][ca:6][da:9][ab:10][bb:1][cb:2][eb:7][ac:8][bc:3][de:5]C[a])))
+;W[ab]LB[ba:4][ca:6][da:9][ab:10][bb:1][cb:2][eb:7][ac:8][bc:3][de:5]C[White should just hane at 4, and Black still can't make two eyes inside.])))
 (;W[cb]
 ;B[fc]
 ;W[ef]
-;B[ea]LB[ea:4][cb:1][fc:2][ef:3]C[a]))
+;B[ea]LB[ea:4][cb:1][fc:2][ef:3]C[If White blocks at 1, Black can live because 2 is sente.]))
 (;W[de]
 ;B[ff]
 ;W[gf]
@@ -321,7 +337,7 @@ I wonder whether or not Iyama saw this move. If Iyama saw that, he might have ch
 ;B[hh]
 ;W[ge]
 ;B[df]
-(;W[be]
+;W[be]
 ;B[ce]
 ;W[bd]
 ;B[db]
@@ -330,23 +346,11 @@ I wonder whether or not Iyama saw this move. If Iyama saw that, he might have ch
 ;W[ag]
 ;B[fc]
 ;W[bg]
-;B[ea]LB[ea:17][cb:13][db:12][fc:16][bd:11][be:9][ce:10][de:1][ge:7][df:8][ef:4][ff:2][gf:3][ag:15][bg:14][gg:5][hh:6]C[a])
-(;W[ce]
-;B[bg]
-;W[ag]
-;B[fc]LB[fc:12][ce:9][de:1][ge:7][df:8][ef:4][ff:2][gf:3][ag:11][bg:10][gg:5][hh:6]C[a]))
+;B[ea]LB[ea:17][cb:13][db:12][fc:16][bd:11][be:9][ce:10][de:1][ge:7][df:8][ef:4][ff:2][gf:3][ag:15][bg:14][gg:5][hh:6]C[If White plays 1, Black will wedge at 2 to fill White's liberties. And then Black can live up to 17. That's too bad for White.])
 (;W[ff]
 ;B[de]
 ;W[be]
 ;B[bc]
-(;W[bd]
-;B[db]
-;W[cb]
-;B[bb]
-;W[ce]
-;B[ca]
-;W[cd]
-;B[ac]C[a])
 (;W[bb]
 ;B[bd]
 ;W[ce]
@@ -354,13 +358,23 @@ I wonder whether or not Iyama saw this move. If Iyama saw that, he might have ch
 ;W[db]
 ;B[ba]
 ;W[ca]
-;B[ab]C[a])))
+;B[ab]LB[ba:10][ca:11][ab:12][bb:5][cb:8][db:9][bc:4][bd:6][be:3][ce:7][de:2][ff:1]C[If White connects at 1 now, Black 4 is a nice tesuji, and it will be a ko up to Black 12. 
+
+Even if it's one step ko, that's still quite risky for White.])
+(;W[bd]
+;B[db]
+;W[cb]
+;B[bb]
+;W[ce]
+;B[ca]
+;W[cd]
+;B[ac]LB[ca:10][bb:8][cb:7][db:6][ac:12][bc:4][bd:5][cd:11][be:3][ce:9][de:2][ff:1]C[If White cuts at 5 instead, Black will play 6 to 8 to live inside. This is a disaster for White.])))
 (;B[db]
 ;W[cb]
 ;B[ee]
 ;W[ff]
 ;B[de]
-;W[be]LB[cb:2][db:1][be:6][de:5][ee:3][ff:4]))
+;W[be]LB[cb:2][db:1][be:6][de:5][ee:3][ff:4]C[If Black hanes at 1 first, White will play 4 to 6, and Black can't live.]))
 (;W[bd]
 ;B[cb]
 ;W[bb]
