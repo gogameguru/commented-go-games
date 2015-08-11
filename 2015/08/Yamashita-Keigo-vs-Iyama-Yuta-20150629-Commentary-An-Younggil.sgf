@@ -195,24 +195,26 @@ However, Go is not that simple.]
 
 If Black connects at A next, White will play B. White 156 was sophisticated, because that's better when White pushes at C later.
 
-Black 157 was the only move, and capturing this group is only hope for Black.]
-(;W[mo]LB[mo:58]C[a]
+ Capturing White's right side group is only hope for Black, so Black 157 was the only move.]
+(;W[mo]LB[mo:58]C[White 158 was necessary, and the game will be decided in this last battle.]
 ;B[ko]
 ;W[mq]
-;B[mr]
+(;B[mr]LB[ko:59][kq:A][mq:60][mr:61]C[Black 159 was the vital point to attack, and White 160 was the right direction to go.
+
+Jumping at A is also possible for Black 161, but White can still make a ko.]
 ;W[lq]
 ;B[jq]
 ;W[lr]
 ;B[nr]
 ;W[jr]
-;B[ir]
+(;B[ir]LB[jq:63][lq:62][ir:67][jr:66][lr:64][nr:65]C[White 164 and 166 were a nice combination, and Black 167 was inevitable.]
 ;W[jp]
-(;B[ip]LB[ko:59][ip:69][jp:68][jq:63][lq:62][mq:60][ir:67][jr:66][lr:64][mr:61][nr:65]C[a]
+(;B[ip]LB[ip:69][jp:68]C[White 168 was a nice followup, and Black 169 was the only move.]
 ;W[kq]
-(;B[js]LB[kq:70][js:71]C[a]
+(;B[js]LB[kq:70][js:71]C[White 170 was expected, and the atari at Black 171 was necessary.]
 ;W[iq]
 ;B[gg]
-(;W[ca]LB[ca:74][gg:73][iq:72]C[a]
+(;W[ca]LB[ca:74][gg:73][iq:72]C[White 174 was necessary, and Iyama was confident to save his right side group.]
 ;B[jq]
 ;W[ni]
 ;B[nh]
@@ -227,7 +229,7 @@ Black 157 was the only move, and capturing this group is only hope for Black.]
 ;W[mb]
 ;B[jq]
 ;W[oe]
-(;B[pe]LB[mb:86][nb:85][ob:80][oc:79][oe:87][pe:88][ng:82][nh:77][oh:83][ni:76][iq:84][jq:81]C[a]
+(;B[pe]LB[mb:86][nb:85][ob:80][oc:79][oe:88][pe:89][ng:82][nh:77][oh:83][ni:76][iq:84][jq:81]C[White has a few ko threats from the center, and that's unlucky for Black.]
 ;W[iq]
 ;B[na]
 ;W[ma]
@@ -236,9 +238,18 @@ Black 157 was the only move, and capturing this group is only hope for Black.]
 ;B[ji]
 ;W[iq]
 ;B[kg]
-(;W[kf]LB[ma:92][na:91][kf:98][kg:97][ji:95][ki:94][iq:96][jq:93]C[a]
+(;W[kf]LB[ma:92][na:91][kf:98][kg:97][ji:95][ki:94][iq:96][jq:93]C[Black 197 was a nice ko threat, and White 198 was necessary, and Black couldn't continue longer...]
 ;B[jq]
-;W[kk]LB[kk:200][jq:99]C[https://gogameguru.com/]
+;W[kk]LB[kk:200][jq:99]C[Black resigned at the move of 200.
+
+Iyama Yuta won game 5, and he defended the 70th Honinbo with 4-1 score.
+
+
+
+
+
+
+https://gogameguru.com/]
 (;B[kr]
 ;W[jj]
 ;B[lh]
@@ -246,7 +257,7 @@ Black 157 was the only move, and capturing this group is only hope for Black.]
 ;B[km]
 ;W[kn]
 ;B[jm]
-;W[jo]LB[lh:3][jj:2][jl:4][jm:7][km:5][kn:6][jo:8][kr:1]C[a])
+;W[jo]LB[lh:3][jj:2][jl:4][jm:7][km:5][kn:6][jo:8][kr:1]C[If Black doesn't respond to White 200, White will play like this to save the group.])
 (;B[kh]
 ;W[iq]
 ;B[pb]
@@ -254,7 +265,9 @@ Black 157 was the only move, and capturing this group is only hope for Black.]
 ;B[jq]
 ;W[jk]
 ;B[jl]
-;W[ik]LB[oa:4][pb:3][mg:A][kh:1][ii:C][ik:8][jk:6][jl:7][iq:2][jq:5]C[a]))
+;W[ik]LB[oa:4][pb:3][mg:A][kh:1][ii:C][ik:8][jk:6][jl:7][jo:B][iq:2][jq:5]C[If Black continues with 1, White will play 6 and 8, and Black has many problems to manage.
+
+A to C are all troublesome for Black.]))
 (;W[jq]
 ;B[je]
 ;W[jf]
@@ -262,21 +275,51 @@ Black 157 was the only move, and capturing this group is only hope for Black.]
 ;W[kf]
 ;B[le]
 ;W[lf]
-;B[ne]LB[je:2][ke:4][le:6][ne:8][jf:3][kf:5][lf:7][jq:1]C[a]))
+;B[ne]LB[je:2][ke:4][le:6][ne:8][jf:3][kf:5][lf:7][jq:1]TR[ie][if][ig][hh][ih]C[White 198 was necessary, or Black will cut at 2 to capture White's marked stones.]))
 (;B[kr]
-;W[pe]LB[pe:2][kr:1]TR[od][pd][qd][qe][re][se][sf]C[a]))
+;W[pe]LB[pe:2][kr:1]TR[oc][od][pd][qd][qe][re][se][sf]C[Black shouldn't eliminate the ko with 1, because the marked stones are connected to White's right side group.]))
 (;W[jq]
-;B[ab]LB[ab:2][jq:1]C[a]))
+;B[ab]LB[ab:2][jq:1]C[If White eliminates the ko with 1, Black will take back at 2, and it'll be another ko.
+
+Iyama was sure to save his right side group, so he eliminated the ko in the top left.]))
 (;B[jo]
-;W[iq]LB[jo:1][iq:2][ks:A]C[a]))
+;W[iq]LB[jo:1][iq:2][ks:A]C[If Black ataris at 1, White will make an eye with A anytime later.]))
 (;B[kp]
 ;W[kq]
 ;B[iq]
 ;W[kn]
 ;B[jn]
-;W[ks]LB[jn:5][kn:4][kp:1][iq:3][kq:2][ks:6]C[a]))
+;W[ks]LB[jn:5][kn:4][jp:A][kp:1][iq:3][kq:2][ks:6]C[If Black plays 1 to cut White A, White can easily live up to 6, and the game will be over.]))
+(;B[kq]
+;W[ir]
+;B[kr]
+;W[ks]
+;B[hr]
+;W[iq]
+;B[ip]
+;W[jp]
+;B[kp]
+;W[hp]
+;B[io]
+;W[js]LB[io:11][hp:10][ip:7][jp:8][kp:9][iq:6][kq:1][hr:5][ir:2][kr:3][js:12][ks:4]C[If Black plays 1, White will extend at 2. Black 3 and 5 look nice, but White can counter with 6 to 10 to cut off Black's two stones.
+
+Unfortunately, Black won't be able to save the two stones.]))
+(;B[kq]
+;W[lp]
+;B[kp]
+;W[nr]
+(;B[or]
+;W[lr]
+;B[ns]
+;W[ms]LB[kp:3][lp:2][kq:1][lr:6][nr:4][or:5][ms:8][ns:7]C[If Black jumps down at 1 instead, White will play 2 to 8 to make a ko. This variation would be similar to the actual game.])
+(;B[oq]
+;W[lr]
+;B[or]
+;W[kr]
+;B[jr]
+;W[ns]LB[kp:3][lp:2][kq:1][oq:5][jr:9][kr:8][lr:6][nr:4][or:7][ns:10]C[Extending at Black 5 is slack, and White will make an eye at the bottom.])))
 (;W[jn]
-;B[mn]LB[jn:1][mn:2]C[a]))
+;B[mn]LB[jn:1][mn:2]C[If White jumps out at 1, Black will wedge at 2 to cut off.]))
 (;B[mn]
 ;W[qn]
 ;B[rn]
