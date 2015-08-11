@@ -136,14 +136,18 @@ Black 101 was a good move, and that's quite tricky for White to respond.
 ;B[he]
 ;W[gd]
 ;B[hf]
-(;W[if]LB[cc:2][gd:6][id:3][he:5][ie:4][hf:7][if:8]C[a]
+(;W[if]LB[cc:2][gd:6][id:3][he:5][ie:4][hf:7][if:8]C[White 102 was the right answer, and Black tries to lead for a capturing race from Black 103 to 107.
+
+White 108 was correct, and Black is still in danger.]
 ;B[ed]
 ;W[fe]
 ;B[hg]
-(;W[ig]LB[ed:9][fe:10][hg:11][ig:12]C[a]
-;B[cd]
-(;W[dc]LB[dc:14][cd:13]C[a]
-;B[ee]
+(;W[ig]LB[ed:9][fe:10][je:A][kf:B][hg:11][ig:12]C[White 110 was correct, and White 112 was also safe way to prevent the cutting point at A. If Black cuts at A later, White will cap at B to capture it.]
+(;B[cd]LB[db:A][cd:13][ig:12]C[The clamp at Black 113 was brilliant, and that's not easy for White to capture all of them.
+
+I wonder whether or not Iyama saw this move. If Iyama saw that, he might have chosen an easier way at A instead of 112.]
+(;W[dc]LB[dc:14]C[White 114 was accurate, but there's going to be bad aji in this area.]
+(;B[ee]
 (;W[bd]LB[bd:16][ee:15]C[a]
 ;B[db]
 (;W[ea]LB[ea:18][db:17]C[a]
@@ -330,20 +334,64 @@ Black 101 was a good move, and that's quite tricky for White to respond.
 (;W[ce]
 ;B[bg]
 ;W[ag]
-;B[fc]LB[fc:12][ce:9][de:1][ge:7][df:8][ef:4][ff:2][gf:3][ag:11][bg:10][gg:5][hh:6]C[a])))
+;B[fc]LB[fc:12][ce:9][de:1][ge:7][df:8][ef:4][ff:2][gf:3][ag:11][bg:10][gg:5][hh:6]C[a]))
+(;W[ff]
+;B[de]
+;W[be]
+;B[bc]
+(;W[bd]
+;B[db]
+;W[cb]
+;B[bb]
+;W[ce]
+;B[ca]
+;W[cd]
+;B[ac]C[a])
+(;W[bb]
+;B[bd]
+;W[ce]
+;B[cb]
+;W[db]
+;B[ba]
+;W[ca]
+;B[ab]C[a])))
+(;B[db]
+;W[cb]
+;B[ee]
+;W[ff]
+;B[de]
+;W[be]LB[cb:2][db:1][be:6][de:5][ee:3][ff:4]))
 (;W[bd]
 ;B[cb]
 ;W[bb]
 ;B[dc]
 ;W[ce]
-;B[ea]LB[ea:6][bb:3][cb:2][dc:4][bd:1][ce:5]C[a]))
+;B[ea]LB[ea:6][bb:3][cb:2][dc:4][bd:1][ce:5]C[If White ataris at 1 or at 5, Black will attach at 2 to live. As we can see, the atari at Black 4 is sente, so he can make two eyes up to 6.]))
+(;B[cb]
+;W[db]
+;B[dc]
+;W[bb]
+;B[cd]
+;W[bc]
+;B[eb]
+;W[ca]
+(;B[de]
+;W[be]LB[ca:8][bb:4][cb:1][db:2][eb:7][bc:6][dc:3][cd:5][dd:A][be:10][de:9]C[If Black attaches at 1, White will hane at 2. Even though Black can capture White A, Black still can't make two eyes.])
+(;B[ee]
+;W[ce]
+;B[ff]
+;W[gf]
+;B[ef]
+;W[gg]LB[ca:8][bb:4][cb:1][db:2][eb:7][bc:6][dc:3][cd:5][ce:10][ee:9][ge:A][ef:13][ff:11][gf:12][gg:14]C[If Black pushes at 9, White will atari at 10. If Black continues with 11, White can connect at 14, and Black can't cut at A.])))
 (;W[db]
 ;B[je]
 ;W[ig]
 ;B[kf]
 ;W[ih]
 ;B[hi]
-;W[kh]LB[db:1][je:2][kf:4][ig:3][ih:5][kh:7][hi:6]C[a]))
+;W[kh]LB[db:1][je:2][kf:4][ig:3][ih:5][kh:7][hi:6]C[White 1 is also conceivable. If Black cuts at 2, pushing back at White 3 is nice, and it's still alright for White because Black's top group doesn't have many liberties.
+
+This way would be easier for White compared to the actual game.]))
 (;W[ed]
 ;B[db]
 ;W[ea]
@@ -357,7 +405,9 @@ Black 101 was a good move, and that's quite tricky for White to respond.
 ;W[jf]
 ;B[ke]
 ;W[jg]
-;B[hg]LB[ba:6][ea:3][bb:5][cb:4][db:2][bc:7][ed:1][je:8][ke:12][if:9][jf:11][hg:14][ig:10][jg:13]C[a]))
+;B[hg]LB[ba:6][ea:3][bb:5][cb:4][db:2][bc:7][ed:1][je:8][ke:12][if:9][jf:11][hg:14][ig:10][jg:13]C[If White connects at 1 to remove bad aji, Black will extend his liberties and cut at 8 to fight in the center.
+
+Black's top group has more liberties than it looks, so that's not good for White.]))
 (;B[cc]
 ;W[db]
 ;B[dc]
