@@ -28,11 +28,13 @@ White shouldn't spend too much on the left side, because Black's right side form
 ;B[dk]
 ;W[fd]
 (;B[eh]LB[fd:22][eh:23][dk:21]C[Black 21 was normal, but the elephant jump at Black 23 was bold and creative.]
-(;W[ei]
+(;W[ei]LB[dg:A][ei:24]C[White can also think about playing A directly, but that seems as if Black's trap, so White doesn't normally play A.]
 ;B[fi]
-(;W[fh]LB[fh:26][ei:24][fi:25]C[a]
-(;B[fj]LB[fj:27]C[a]
-(;W[eg]LB[eg:28]C[a]
+(;W[fh]LB[fh:26][fi:25]C[Cutting at White 26 was the proper move in this situation.
+
+Since there're more of Black stones in this area, White can play more flexibly in the combat.]
+(;B[fj]LB[fj:27]TR[di][ei]C[Extending at Black 27 was the right move, and White should think about how to manage the marked stones next.]
+(;W[eg]LB[eg:28]TR[di][ei]C[Iyama thought saving the mrked stones isn't a good idea, so he decided to sacrifice them from White 28.]
 ;B[dh]
 ;W[dg]
 ;B[ch]
@@ -41,25 +43,37 @@ White shouldn't spend too much on the left side, because Black's right side form
 ;W[bf]
 ;B[gh]
 ;W[fg]
-(;B[hq]LB[bf:34][cg:32][dg:30][fg:36][ch:31][dh:29][gh:35][ci:33][hq:37]C[a]
-(;W[dn]LB[dn:38]C[a]
-(;B[bp]LB[bp:39]C[a]
-;W[cq]
+(;B[hq]LB[bf:34][cg:32][dg:30][fg:36][ch:31][dh:29][gh:35][ci:33][hq:37]C[The trade up to White 36 was playable for both. White got big territory, and Black got left side territory and the thickness over the center.
+
+Approaching from the bottom at Black 37 was the right direction, and the game is still even.]
+(;W[dn]LB[dn:38]C[The attachment at White 38 was a good choice in this situation.
+
+This attachment is more concerned about Black's influence over the center.]
+(;B[bp]LB[bp:39]C[Sliding at Black 39 was very nice.
+
+]
+(;W[cq]LB[cq:40]C[Answering at White 40 was necessary. White shouldn't try to do too much, because White already got a big points from the top left.]
 ;B[dm]
 ;W[en]
-(;B[no]LB[dm:41][en:42][no:43][cq:40]C[a]
+(;B[no]LB[dm:41][en:42][no:43][hq:A]C[Black 41 and White 42 were expected, and jumping at Black 43 was a nice move to develop his formation.
+
+This jump support Black A indirectly as well.]
 ;W[rf]
-(;B[sf]LB[rf:44][sf:45]C[a]
+(;B[sf]LB[qf:A][rf:44][sf:45]C[White tried to move A out from 44, and that was a good start.]
 ;W[rh]
-(;B[pf]LB[pf:47][rh:46]C[a]
-;W[qj]
+(;B[pf]LB[pf:47][rh:46]C[White 46 was a nice followup, and Black 47 was unavoidable.]
+(;W[qj]LB[rf:44][qj:48]C[White 48 was the right move, and the flow of the stones is smooth for White from 44.
+
+However, there weren't any mistakes from Black, and the game is still playable for both.]
 ;B[ql]
 ;W[pj]
 ;B[qh]
 ;W[pl]
 ;B[pm]
 ;W[ol]
-(;B[rk]LB[qh:51][pj:50][qj:48][rk:55][ol:54][pl:52][ql:49][pm:53]C[a]
+(;B[rk]LB[qh:51][pj:50][rk:55][ol:54][pl:52][ql:49][pm:53]C[Black 49 was nice, and Black 51 was necessary to take care of his shape.
+
+White 52 to 54 were nice moves to strengthen his group, and Black 55 was severe not to let White live on the right side easily.]
 ;W[qi]
 ;B[ph]
 ;W[sg]
@@ -407,6 +421,12 @@ White shouldn't spend too much on the left side, because Black's right side form
 ;B[nj]
 ;W[ml]
 ;B[hc]LB[hc:4][nj:2][ok:1][ml:3]C[a]))
+(;B[qm]
+;W[qi]
+;B[ph]
+;W[sg]
+;B[se]
+;W[si]LB[se:5][sg:4][ph:3][qi:2][si:6][qm:1]C[Connecting at Black 1 is slack. That's because White can easily make two eyes on the right side from 2 to 6 whenever he wants.])
 (;B[rg]
 ;W[qm]
 ;B[rl]
@@ -414,13 +434,39 @@ White shouldn't spend too much on the left side, because Black's right side form
 ;B[pn]
 ;W[po]
 ;B[nm]
-;W[qo]LB[rg:1][rl:3][nm:7][qm:2][rm:B][pn:5][qn:4][po:6][qo:8][qq:A]C[a]))
+;W[qo]LB[rg:1][rl:3][nm:7][qm:2][rm:B][pn:5][qn:4][po:6][qo:8][qq:A]C[Capturing at Black 1 is wrong.
+
+White will cut at 2, and if Black tries to save the cut stone with 3, White will play 4 to 8, and Black will be in big trouble.
+
+A and B are miai for White next.]))
+(;W[pg]
+;B[og]
+;W[of]
+;B[qg]
+;W[pe]
+;B[rg]
+;W[qh]
+;B[pf]
+(;W[ph]
+;B[oe]
+;W[oh]
+;B[pk]LB[oe:10][pe:5][of:3][pf:8][ng:A][og:2][pg:1][qg:4][rg:6][oh:11][ph:9][qh:7][pk:12]C[The hane at White 1 is also conceivable, but Black's double hane at 2 is the nice response.
+
+If White continues with 3 to 5, Black will cut the other side with 4 to 6. White 9 is necessary, and the result up to Black 12 is good for Black.
+
+Capturing at A isn't worthwhile for White, because Black's right side group is already alive, and that doesn't affect any.
+
+That's why White doesn't normally hane at 1 to fight in that variation.])
+(;W[qf]
+;B[ph]LB[pe:5][of:3][pf:8][qf:9][og:2][pg:1][qg:4][rg:6][ph:10][qh:7]C[Taking a stone back with White 9 is even worse.
+
+Black will cut at 10, and White can't fight any longer.])))
 (;B[qj]
 ;W[of]
 ;B[nd]
 ;W[mc]
 ;B[md]
-;W[mf]LB[mc:4][md:5][nd:3][mf:6][of:2][qj:1]C[a]))
+;W[mf]LB[mc:4][md:5][nd:3][mf:6][of:2][qj:1]TR[od][pd][qd][qe][re][sf]C[If Black responds at 1, White will jump out towards the center. At the same time, Black's marked group is being chased, and he won't be happy to be attacked like that.]))
 (;B[pf]
 ;W[rh]
 ;B[qg]
@@ -436,15 +482,19 @@ White shouldn't spend too much on the left side, because Black's right side form
 (;B[rk]
 ;W[oi]
 ;B[ng]
-;W[pj]LB[of:11][pf:1][ng:15][og:8][pg:9][qg:3][rg:4][oh:7][ph:6][qh:10][rh:2][oi:14][pj:16][qj:5][rj:12][rk:13]C[a])
+;W[pj]LB[of:11][pf:1][ng:15][og:8][pg:9][qg:3][rg:4][oh:7][ph:6][qh:10][rh:2][oi:14][pi:A][pj:16][qj:5][rj:12][rk:13]C[If Black hanes over at 1, White will still jump at 2 to reduce more of Black's right side area.
+
+If Black continues with 3 to 5, White will jump attach at 6 to fight back. The attachment at White 12 is annoying, and if Black blocks at 13, White can capture Black A with White 14 to 16.])
 (;B[qk]
-;W[ng]LB[of:11][pf:1][ng:14][og:8][pg:9][qg:3][rg:4][oh:7][ph:6][qh:10][rh:2][qj:5][rj:12][qk:13]C[a]))
+;W[ng]LB[of:11][pf:1][ng:14][og:8][pg:9][qg:3][rg:4][oh:7][ph:6][qh:10][rh:2][qj:5][rj:12][qk:13]C[During the sequence, if Black gently extends at 13, White will extend at 14, and that will be playable for White.]))
 (;B[qh]
 ;W[pg]
 ;B[qi]
 ;W[of]
 ;B[pe]
-;W[se]LB[pe:11][se:12][of:10][pf:1][pg:8][qg:3][rg:4][ph:6][qh:7][rh:2][qi:9][qj:5]C[a])))
+;W[se]LB[pe:11][se:12][of:10][pf:1][pg:8][qg:3][rg:4][ph:6][qh:7][rh:2][qi:9][qj:5]TR[od][pd][qd][qe][re]C[If Black plays 7 to cut immediately, White will atari at 10 and connect under with 12.
+
+Black's marked stones become too heavy, so Black shouldn't play like that.])))
 (;B[pk]
 ;W[no]
 ;B[po]
@@ -458,19 +508,37 @@ White shouldn't spend too much on the left side, because Black's right side form
 ;B[oq]
 ;W[lr]
 ;B[ns]
-;W[lq]LB[pk:1][no:2][po:3][np:10][hq:A][lq:14][mq:6][oq:11][pq:4][qq:5][lr:12][mr:7][nr:8][or:9][ns:13]C[a]))
+;W[lq]LB[pk:1][no:2][po:3][np:10][hq:A][lq:14][mq:6][oq:11][pq:4][qq:5][lr:12][mr:7][nr:8][or:9][ns:13]C[Reinforcing the right side at Black 1 is also conceivable.
+
+White will cap at 2 next, and White 4 to 8 is a nice sequence to manage to reduce Black's area.
+
+The result up to White 14 is slightly better for White, because Black A is isolated, and he has to run away.
+
+That's why Yamashita chose to jump at O5 in the actual game, and that was a good balanced move.]))
+(;W[co]
+;B[bo]
+;W[cm]
+;B[bn]
+;W[em]
+;B[cq]LB[cm:3][em:5][bn:4][bo:2][co:1][cq:6]C[Black doesn't have to worry about White's resistance from 1 to 5, because Black's left side group is already safe and strong.
+
+White's thickness isn't useful in this game, so White shouldn't play like this in this case.]))
 (;B[dm]
 ;W[co]
 ;B[en]
-;W[do]LB[dm:1][en:3][co:2][do:4]C[a]))
+;W[do]LB[cm:A][dm:1][en:3][co:2][do:4][bp:B]C[If Black hanes at 1, White will block at 2 to save the corner territory.
+
+This is satisfactory for White, because there's cutting point at A, and that's still better for White compared to the saving the corner with B in the previous variation.]))
 (;W[bp]
 ;B[fr]
 ;W[er]
 ;B[fp]
 ;W[eq]
-;B[pk]LB[pk:6][bp:1][fp:4][eq:5][er:3][fr:2]C[a]))
+;B[pk]LB[pk:6][bp:1][fp:4][eq:5][er:3][fr:2]C[If White jumps at 1 to secure the corner territory, Black will solidify his right side with 6 after exchanging Black 2 to White 5.
+
+Iyama might have thought White 1 isn't active enough, so he chose more active way in the actual game.]))
 (;B[bp]
-;W[iq]LB[bp:1][iq:2]C[a]))
+;W[iq]LB[bp:1][iq:2]C[Sliding at Black 1 is wrong direction. White will be happy to extend at 2 to limit Black's bottom right area.]))
 (;W[dg]
 ;B[fg]
 ;W[gh]
@@ -482,7 +550,11 @@ White shouldn't spend too much on the left side, because Black's right side form
 ;W[hh]
 ;B[hg]
 ;W[ih]
-;B[ig]LB[ee:A][df:6][ef:7][dg:1][eg:4][fg:2][gg:8][hg:10][ig:12][dh:5][gh:3][hh:9][ih:11][jh:B]C[a]))
+;B[ig]LB[bd:D][ee:B][df:6][ef:7][dg:1][eg:4][fg:2][gg:8][hg:10][ig:12][bh:E][dh:5][fh:A][gh:3][hh:9][ih:11][jh:C]TR[di][ei]C[If White tries to save the marked stones with 1, Black will atari at 2 first to make White A heavy. Black 6 and 8 were a good sequence, and B and C will be miai for Black next.
+
+Even if White extends at B, Black's two cutting stones aren't captured, and Black can still move with D or E later.
+
+White can't fight properly in this variation.]))
 (;B[dh]
 ;W[ch]
 ;B[ci]
@@ -492,7 +564,9 @@ White shouldn't spend too much on the left side, because Black's right side form
 ;B[bi]
 ;W[cg]
 (;B[df]
-;W[bj]LB[df:9][cg:8][ch:2][dh:1][bi:7][ci:3][gi:5][bj:10][cj:6][fj:4]C[a])
+;W[bj]LB[df:9][cg:8][ch:2][dh:1][bi:7][ci:3][gi:5][bj:10][cj:6][fj:4]C[If Black pushes down at 1, White will hane at 2. If Black cuts at 3 next, White will play 4 to 10 to capture the two stones.
+
+Black is in trouble in this variation.])
 (;B[dg]
 ;W[df]
 ;B[eg]
@@ -504,7 +578,9 @@ White shouldn't spend too much on the left side, because Black's right side form
 ;B[de]
 ;W[fe]
 ;B[df]
-;W[bf]LB[de:17][ee:14][fe:18][bf:19][df:10][ef:13][ff:15][gf:16][cg:8][dg:9][eg:11][fg:12][ch:2][dh:1][bi:7][ci:3][gi:5][cj:6][fj:4]C[a])))
+;W[bf]LB[de:17][ee:14][fe:18][bf:20][df:10][ef:13][ff:15][gf:16][cg:8][dg:9][eg:11][fg:12][ch:2][dh:1][bi:7][ci:3][gi:5][cj:6][fj:4]C[If Black blocks at 9 to fill White's liberties, White can cut at 10 to capture Black in a ladder.
+
+That's why Black didn't play at 1 in the actual game.])))
 (;W[fj]
 ;B[ej]
 ;W[ck]
@@ -512,11 +588,11 @@ White shouldn't spend too much on the left side, because Black's right side form
 ;W[cj]
 ;B[fk]
 ;W[gj]
-;B[fh]LB[fh:8][cj:5][ej:2][fj:1][gj:7][ck:3][fk:6][cl:4]C[a])
+;B[fh]LB[fh:8][cj:5][ej:2][fj:1][gj:7][ck:3][fk:6][cl:4]C[If White hanes at 1, Black will cut at 2 to fight. If White continues with 3 to 5, Black will play 6 to 8, and this will be favorable battle for Black.])
 (;W[ej]
 ;B[fh]
 ;W[ek]
-;B[dl]LB[fh:2][ej:1][ek:3][dl:4]C[a]))
+;B[dl]LB[fh:2][ej:1][ek:3][dl:4]C[Extending at White 1 isn't good. White's stones are slow and heavy, so White can't expect a good result with this shape.]))
 (;W[dg]
 ;B[dh]
 ;W[cg]
@@ -528,7 +604,11 @@ White shouldn't spend too much on the left side, because Black's right side form
 ;W[df]
 ;B[ah]
 ;W[bg]
-;B[ei]LB[bf:7][df:9][bg:11][cg:3][dg:1][eg:8][ah:10][bh:5][ch:4][dh:2][bi:6][ei:12]))
+;B[ei]LB[bf:7][cf:A][df:9][bg:11][cg:3][dg:1][eg:8][ah:10][bh:5][ch:4][dh:2][bi:6][ei:12]C[White can also think about playing 1 to separate Black A, and then Black will play 2 to 4 to sacrifice Black A.
+
+The result up to Black 12 is still playable for both. Compared to the actual game, Black's outside is better and White's corner territory is smaller, but White has sente in this variation.
+
+Iyama might have thought the actual game was better for him, so he played differently in the actual game.]))
 (;B[hq]
 ;W[bp]
 ;B[ho]LB[ho:3][bp:2][hq:1]C[Approaching at Black 1 is also conceivable.
