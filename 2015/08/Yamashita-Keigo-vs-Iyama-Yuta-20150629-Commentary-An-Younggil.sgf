@@ -84,7 +84,7 @@ White 52 to 54 were nice moves to strengthen his group, and Black 55 was severe 
 ;B[pg]
 ;W[rg]
 ;B[oj]
-(;W[qm]LB[se:59][pg:63][qg:62][rg:61][sg:58][ph:57][qi:56][oj:64][rj:60][qm:65]C[a]
+(;W[qm]LB[se:59][pg:63][qg:62][rg:64][sg:58][ph:57][qi:56][oj:65][rj:60][qm:66]C[White made an eye from 56 to 60, but Black kept chasing with 65.]
 ;B[rm]
 ;W[nj]
 ;B[ok]
@@ -93,23 +93,27 @@ White 52 to 54 were nice moves to strengthen his group, and Black 55 was severe 
 ;W[pk]
 ;B[nl]
 ;W[om]
-(;B[ml]LB[oi:71][nj:68][nk:70][ok:69][pk:72][ml:75][nl:73][om:74][rm:67]C[a]
+(;B[ml]LB[oi:71][nj:68][nk:70][ok:69][pk:72][ml:75][nl:73][om:74][rm:67]C[White 68 was a nice tesuji, and Black 69 to 73 were strong responses.
+
+Black 75 was the right move, and the game is still alright for both.]
 ;W[pn]
 ;B[qo]
 ;W[nn]
 ;B[oo]
 ;W[ln]
-(;B[kl]LB[kl:81][ln:80][nn:78][pn:76][oo:79][qo:77]C[a]
+(;B[kl]LB[kl:81][ln:80][nn:78][pn:76][oo:79][qo:77]C[White 76 to 80 were expected, but jumping at Black 81 was a serious mistake.]
 ;W[nd]
 ;B[mf]
-;W[jd]LB[jd:84][nd:82][mf:83]C[a]
+;W[jd]LB[jd:84][nd:82][mf:83]C[White 82 and 84 were a nice combination to enclose the top area, and all of sudden, the balance of the territory was collapsed.]
 ;B[hc]
 ;W[hd]
 ;B[ic]
 ;W[jc]
-(;B[fb]LB[fb:89][hc:85][ic:87][jc:88][hd:86]C[a]
+(;B[fb]LB[fb:89][hc:85][ic:87][jc:88][hd:86]C[Invading the top with Black 85 was inevitable. That's risky to invade that deeply, but otherwise, Black will be short of territory.
+
+White 86 and 88 were strong, and sliding at Black 89 was the only move.]
 ;W[bh]
-(;B[bi]LB[bh:90][bi:91]C[a]
+(;B[bi]LB[bh:90][bi:91]C[White 90 was to prepare something before going to hunt the Black group at the top.]
 ;W[ai]
 ;B[aj]
 ;W[ah]
@@ -119,7 +123,13 @@ White 52 to 54 were nice moves to strengthen his group, and Black 55 was severe 
 ;W[ib]
 ;B[hb]
 ;W[kb]
-(;B[ec]LB[gb:97][hb:99][ib:98][kb:100][ec:1][gc:96][ah:94][ai:92][aj:93][bk:95]C[a]
+(;B[ec]LB[gb:97][hb:99][ib:98][kb:100][ec:1][gc:96][ah:94][ai:92][aj:93][bk:95]TR[bf][cg][dg][eg][fg][fh]C[White started to capture all of Black stones with 96, 98 and 100. They're very fierce, and that's not easy to see in pros' games.
+
+White could play like this, because he has a strong wall (marked stones).
+
+Black 101 was a good move, and that's quite tricky for White to respond.
+
+]
 ;W[cc]
 ;B[id]
 ;W[ie]
@@ -365,7 +375,7 @@ White 52 to 54 were nice moves to strengthen his group, and Black 55 was severe 
 ;B[ge]
 ;W[gf]
 ;B[fe]
-;W[de]LB[bb:10][cb:6][db:2][eb:5][bc:8][cc:1][dc:3][ec:4][fc:11][bd:9][cd:7][ed:12][gd:13][de:18][fe:17][ge:15][he:14][gf:16]C[a])
+;W[de]LB[bb:10][cb:6][db:2][eb:5][bc:8][cc:1][dc:3][ec:4][fc:11][bd:9][cd:7][ed:12][gd:13][de:18][fe:17][ge:15][he:14][gf:16]C[If Black enters the corner at 1, White will cut off with 2 to 6. Even though Black tries to escape very hard, there's no route to rescue the group.])
 (;B[id]
 ;W[ie]
 ;B[fc]
@@ -373,15 +383,15 @@ White 52 to 54 were nice moves to strengthen his group, and Black 55 was severe 
 ;B[gd]
 ;W[he]
 ;B[ge]
-;W[gf]LB[cb:6][db:2][eb:5][cc:1][dc:3][ec:4][fc:9][ed:10][gd:11][id:7][ge:13][he:12][ie:8][gf:14]C[a]))
+;W[gf]LB[cb:6][db:2][eb:5][cc:1][dc:3][ec:4][fc:9][ed:10][gd:11][id:7][ge:13][he:12][ie:8][gf:14]C[There's no way out.]))
 (;B[db]
 ;W[cc]
 ;B[cb]
 ;W[bb]
 ;B[ec]
-;W[ea]LB[ea:6][bb:4][cb:3][db:1][cc:2][ec:5]C[a]))
+;W[ea]LB[ea:6][bb:4][cb:3][db:1][cc:2][ec:5]C[If Black just jumps at 1, White will respond normally with 2, and the space is not enough to live.]))
 (;B[db]
-;W[cj]LB[db:1][cj:2]C[a]))
+;W[cj]LB[db:1][cj:2]TR[ch][dh][eh][ci]C[If Black takes care of his upper side group with 1, White will capture the marked stones with 2, and that's still good enough for White.]))
 (;B[id]
 ;W[ie]
 ;B[gd]
@@ -389,12 +399,12 @@ White 52 to 54 were nice moves to strengthen his group, and Black 55 was severe 
 ;B[fc]
 ;W[ec]
 ;B[ge]
-;W[gf]LB[ec:6][fc:5][gd:3][id:1][ge:7][he:4][ie:2][gf:8]C[a]))
+;W[gf]LB[ec:6][fc:5][gd:3][id:1][ge:7][he:4][ie:2][gf:8]TR[bf][cg][dg][eg][fg][fh]C[Black 1 and 3 are conceivable, but they don't work very well, because White's marked stones are quite strong and powerful.]))
 (;B[me]
 (;W[nd]
 ;B[ne]
 ;W[ld]
-;B[hc]LB[hc:5][ld:4][nd:2][me:1][ne:3]C[a])
+;B[hc]LB[hc:5][ld:4][nd:2][me:1][ne:3]C[Black should have played at 1. If White tries to develop the top with 2 to 4, Black can invade at 5, and that'll be difficult for White to capture.])
 (;W[lj]
 ;B[lk]
 ;W[ni]
@@ -402,7 +412,7 @@ White 52 to 54 were nice moves to strengthen his group, and Black 55 was severe 
 ;W[li]
 ;B[mc]
 ;W[nb]
-;B[ke]LB[nb:8][mc:7][ke:9][me:1][li:6][ni:4][kj:5][lj:2][lk:3]C[a])))
+;B[ke]LB[nb:8][mc:7][ke:9][me:1][li:6][ni:4][kj:5][lj:2][lk:3][om:A]TR[nj][nk]C[If White tries to move the marked stones out, there won't be any problem for Black to fight. White A group isn't yet completely alive, so that sort of fighting will be welcome for Black.])))
 (;B[qn]
 ;W[ml]
 ;B[nm]
@@ -414,13 +424,15 @@ White 52 to 54 were nice moves to strengthen his group, and Black 55 was severe 
 (;B[np]
 ;W[ln]
 ;B[km]
-;W[lp]LB[pq:A])
+;W[lp]LB[ml:2][km:11][lm:7][mm:5][nm:3][ln:10][mn:6][nn:4][qn:1][oo:8][lp:12][np:9][pq:A]C[If Black takes a stone with 1, White will play 2 to 12 to reduce Black's bottom area.
+
+There's a bad aji at A later as well, so Black didn't play 1 in the actual game.])
 (;B[op]
-;W[mo]LB[ml:2][lm:7][mm:5][nm:3][mn:6][nn:4][qn:1][mo:10][oo:8][op:9]C[a])))
+;W[mo]LB[ml:2][lm:7][mm:5][nm:3][mn:6][nn:4][qn:1][mo:10][oo:8][op:9]C[If Black blocks at 9, White will atari at 10, and that'll be easy for White to settle.])))
 (;W[ok]
 ;B[nj]
 ;W[ml]
-;B[hc]LB[hc:4][nj:2][ok:1][ml:3]C[a]))
+;B[hc]LB[hc:4][nj:2][ok:1][ml:3]C[White 1 isn't good enough, because Black will make a good shape with 2, and take sente to invade the top at 4.]))
 (;B[qm]
 ;W[qi]
 ;B[ph]
