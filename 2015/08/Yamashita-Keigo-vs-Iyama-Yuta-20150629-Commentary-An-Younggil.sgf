@@ -117,7 +117,7 @@ Yamashita might have thought that Black 81 was sente, but Iyama didn't continue,
 
 White 86 and 88 were strong, and sliding at Black 89 was the only move.]
 ;W[bh]
-(;B[bi]LB[bh:90][bi:91]C[White 90 was to prepare something before going to hunt the Black group at the top.]
+(;B[bi]LB[bh:90][bi:91]C[White 90 was to make his own stones stronger before going to attack Black's top group.]
 ;W[ai]
 ;B[aj]
 ;W[ah]
@@ -127,9 +127,9 @@ White 86 and 88 were strong, and sliding at Black 89 was the only move.]
 ;W[ib]
 ;B[hb]
 ;W[kb]
-(;B[ec]LB[gb:97][hb:99][ib:98][kb:100][ec:1][gc:96][ah:94][ai:92][aj:93][bk:95]TR[bf][cg][dg][eg][fg][fh]C[White started to capture all of Black stones with 96, 98 and 100. They're very fierce, and that's not easy to see in pros' games.
+(;B[ec]LB[gb:97][hb:99][ib:98][kb:100][ec:1][gc:96][ah:94][ai:92][aj:93][bk:95]TR[bf][cg][dg][eg][fg][fh]C[White started to capture all of Black stones with 96, 98 and 100. They're very fierce, and that's not easy to see these sort of moves in pros' games.
 
-White could play like this, because he has a strong wall (marked stones).
+Iyama played like this, because he had a strong wall (marked stones).
 
 Black 101 was a good move, and that's quite tricky for White to respond.
 
@@ -146,10 +146,12 @@ White 108 was correct, and Black is still in danger.]
 ;B[ed]
 ;W[fe]
 ;B[hg]
-(;W[ig]LB[ed:9][fe:10][je:A][kf:B][hg:11][ig:12]C[White 110 was correct, and White 112 was also safe way to prevent the cutting point at A. If Black cuts at A later, White will cap at B to capture it.]
-(;B[cd]LB[db:A][cd:13][ig:12]C[The clamp at Black 113 was brilliant, and that's not easy for White to capture all of them.
+(;W[ig]LB[db:C][ed:9][fe:10][je:A][kf:B][hg:11][ig:12]C[White 110 was correct, and White 112 was safe way to prevent the cutting point at A. If Black cuts at A later, White will cap at B to capture.
 
-I wonder whether or not Iyama saw this move. If Iyama saw that, he might have chosen an easier way at A instead of 112.]
+However, playing at C instead of White 112 would have been easier for White.]
+(;B[cd]LB[db:A][cd:13][ig:12]C[The clamp at Black 113 was brilliant, and that made things complicated for White to capture all of them.
+
+I wonder if Iyama expected this move or not. If Iyama saw that, he might have chosen an easier way at A instead of 112.]
 (;W[dc]LB[dc:14]C[White 114 was accurate, but there's going to be bad aji in this area.]
 (;B[ee]LB[ee:15]C[Going out at Black 115 was correct.]
 (;W[bd]LB[bd:16]C[White 116 looks weird, but that was the right move.]
@@ -177,7 +179,9 @@ I wonder whether or not Iyama saw this move. If Iyama saw that, he might have ch
 ;W[ih]
 ;B[hi]
 ;W[aa]
-(;B[si]LB[aa:40][ab:37][ac:32][bc:34][ae:35][de:33][ih:38][hi:39][si:41]C[Black 141 was a nice ko threat, and it looks like that's a Black's ko threat factory to threaten this White group.
+(;B[si]LB[aa:40][ab:37][ac:32][bc:34][ae:35][de:33][ih:38][hi:39][si:41]C[Black 131 was the correct move, and the ko was started with White 136.
+
+Black 141 was a nice ko threat, and it looks like that's a Black's ko threat factory to threaten this White group.
 
 However, Go is not that simple.]
 ;W[sj]
@@ -185,7 +189,7 @@ However, Go is not that simple.]
 ;W[lk]
 ;B[ll]
 ;W[mh]
-(;B[li]LB[ab:43][ih:38][mh:46][hi:39][li:47][sj:42][lk:44][ll:45]C[White 144 and 146 were a nice ko threat, and Black 147 was necessary.]
+(;B[li]LB[ab:43][ih:38][mh:46][hi:39][li:47][sj:42][lk:44][ll:45]C[White 144 and 146 were a nice ko threat, and Black 147 was necessary to answer.]
 ;W[aa]
 ;B[ri]
 ;W[sh]
@@ -197,9 +201,9 @@ However, Go is not that simple.]
 ;W[hh]
 (;B[qn]LB[aa:54][ca:B][ab:51][gg:A][hh:56][sh:50][ii:C][mi:53][ri:49][kj:55][lj:52][qn:57]C[Black 155 was inevitable, because White will have so many ko threats in this area, and White eliminated the ko with 156.
 
-If Black connects at A next, White will play B. White 156 was sophisticated, because that's better when White pushes at C later.
+If Black connects at A next, White will play B. White 156 was sophisticated, because that's better than just eliminating the ko with B when White pushes at C later.
 
- Capturing White's right side group is only hope for Black, so Black 157 was the only move.]
+Capturing White's right side group is only hope for Black now, so Black 157 was the only move.]
 (;W[mo]LB[mo:58]C[White 158 was necessary, and the game will be decided in this last battle.]
 ;B[ko]
 ;W[mq]
@@ -233,7 +237,7 @@ Jumping at A is also possible for Black 161, but White can still make a ko.]
 ;W[mb]
 ;B[jq]
 ;W[oe]
-(;B[pe]LB[mb:86][nb:85][ob:80][oc:79][oe:88][pe:89][ng:82][nh:77][oh:83][ni:76][iq:84][jq:81]C[White has a few ko threats from the center, and that's unlucky for Black.]
+(;B[pe]LB[mb:86][nb:85][ob:80][oc:79][oe:88][pe:89][ng:82][nh:77][oh:83][ni:76][iq:84][jq:81]C[White has quite a few ko threats in the center, and that's unlucky for Black.]
 ;W[iq]
 ;B[na]
 ;W[ma]
@@ -242,17 +246,19 @@ Jumping at A is also possible for Black 161, but White can still make a ko.]
 ;B[ji]
 ;W[iq]
 ;B[kg]
-(;W[kf]LB[ma:92][na:91][kf:98][kg:97][ji:95][ki:94][iq:96][jq:93]C[Black 197 was a nice ko threat, and White 198 was necessary, and Black couldn't continue longer...]
+(;W[kf]LB[ma:92][na:91][kf:98][kg:97][ji:95][ki:94][iq:96][jq:93]C[Black 197 was a nice ko threat, and White 198 was necessary. although Black couldn't continue longer...]
 ;B[jq]
 ;W[kk]LB[kk:200][kl:A][jq:99]C[Black resigned at the move of 200.
 
 Iyama Yuta won game 5, and he defended the 70th Honinbo with 4-1 score.
 
-Iyama showed his power at the top against Black's invasion, and that was very impressive. Yamashita's sabaki was also profound and it was the highlight of the game.
+Iyama showed his power and strength at the top against Black's invasion, and that was very fierce and impressive. Yamashita's sabaki was also profound and sharp, and that battle was the highlight of the game.
 
-Yamashita played a wonderful game, but he played one slack move in the center at A, and Iyama didn't miss out the chance.
+Yamashita played a wonderful game, but his one slack move at A was critical, and Iyama didn't miss out the chance. After the slack move, Iyama didn't give Black any chances to catch up, and that was incredible. 
 
-The style of the game was relatively straightforward, but these two players made another masterpiece together.
+The style of the game was relatively straightforward, but there were still many moves and things to read, which weren't appeared on the board.
+
+Iyama Yuta and Yamashita Keigo made another masterpiece together, but the winner was Iyama again.
 
 I hope you to understand and enjoy watching this beautiful game more with the commentary, and if you have any opinion or questions, please feel free to leave a comment.
 
@@ -288,7 +294,7 @@ A to C are all troublesome for Black.]))
 ;W[lf]
 ;B[ne]LB[je:2][ke:4][le:6][ne:8][jf:3][kf:5][lf:7][jq:1]TR[ie][if][ig][hh][ih]C[White 198 was necessary, or Black will cut at 2 to capture White's marked stones.]))
 (;B[kr]
-;W[pe]LB[pe:2][kr:1]TR[oc][od][pd][qd][qe][re][se][sf]C[Black shouldn't eliminate the ko with 1, because the marked stones are connected to White's right side group.]))
+;W[pe]LB[pe:2][kr:1]TR[oc][od][pd][qd][qe][re][se][sf]C[Black shouldn't eliminate the ko with 1, because the marked stones are related to White's right side group.]))
 (;W[jq]
 ;B[ab]LB[ab:2][jq:1]C[If White eliminates the ko with 1, Black will take back at 2, and it'll be another ko.
 
@@ -314,7 +320,7 @@ Iyama was sure to save his right side group, so he eliminated the ko in the top 
 ;B[io]
 ;W[js]LB[io:11][hp:10][ip:7][jp:8][kp:9][iq:6][kq:1][hr:5][ir:2][kr:3][js:12][ks:4]C[If Black plays 1, White will extend at 2. Black 3 and 5 look nice, but White can counter with 6 to 10 to cut off Black's two stones.
 
-Unfortunately, Black won't be able to save the two stones.]))
+Unfortunately, Black won't be able to save the two stones at the bottom.]))
 (;B[kq]
 ;W[lp]
 ;B[kp]
@@ -328,13 +334,13 @@ Unfortunately, Black won't be able to save the two stones.]))
 ;B[or]
 ;W[kr]
 ;B[jr]
-;W[ns]LB[kp:3][lp:2][kq:1][oq:5][jr:9][kr:8][lr:6][nr:4][or:7][ns:10]C[Extending at Black 5 is slack, and White will make an eye at the bottom.])))
+;W[ns]LB[kp:3][lp:2][kq:1][oq:5][jr:9][kr:8][lr:6][nr:4][or:7][ns:10]C[Extending at Black 5 is slack, and White will make an eye at the bottom up to 10.])))
 (;W[jn]
 ;B[mn]LB[jn:1][mn:2]C[If White jumps out at 1, Black will wedge at 2 to cut off.]))
 (;B[mn]
 ;W[qn]
 ;B[rn]
-;W[on]LB[mn:1][on:4][qn:2][rn:3]C[Wedging at Black 1 is clumsy, and White can live with 2 to 4.]))
+;W[on]LB[mn:1][on:4][qn:2][rn:3]C[Wedging at Black 1 is clumsy, because White can live with 2 to 4.]))
 (;B[ca]
 ;W[ng]
 ;B[ni]
@@ -346,9 +352,11 @@ Unfortunately, Black won't be able to save the two stones.]))
 ;B[kj]
 ;W[jk]
 ;B[jj]
-;W[ik]LB[ca:1][ng:2][mi:4][ni:3][jj:11][kj:9][lj:7][mj:5][ik:12][jk:10][kk:8][mk:6]C[If Black eliminates  the ko with 1, White 2 will be very severe to attack this Black group.
+;W[ik]LB[ca:1][ng:2][mi:4][ni:3][jj:11][kj:9][lj:7][mj:5][ik:12][jk:10][kk:8][mk:6]C[If Black eliminates the ko with 1, White 2 will be very severe to attack this Black group.
 
-Even if Black tries to fight back with 3 and 5, that doesn't work well up to White 12.]))
+Even if Black tries to fight back with 3 and 5, that doesn't work well up to White 12.
+
+By the way, the top left corner will be seki between Black and White.]))
 (;B[ca]
 ;W[eb]
 ;B[da]
@@ -364,9 +372,9 @@ Black should take the stone with A, and White will clamp at B to make it a false
 ;B[ad]
 ;W[ih]
 ;B[hi]
-;W[ja]LB[ja:8][ab:4][ac:A][bc:2][ad:5][ae:3][de:1][ih:6][hi:7]C[If Black plays 1 to 3 instead, White will win the capturing race as 'bigger eyespace vs smaller eyespace'. 
+;W[ja]LB[ja:8][ab:4][ac:A][bc:2][ad:5][ae:3][de:1][af:B][ih:6][hi:7]C[If Black plays 1 to 3 instead, White will win the capturing race as 'bigger eyespace vs smaller eyespace'. 
 
-White will eventually capture Black, because White has one more invisible liberty at A.]))
+White will eventually capture Black, because White has one more invisible liberty at A or B.]))
 (;B[bb]
 ;W[cb]
 ;B[bc]
@@ -450,14 +458,14 @@ Even if it's one step ko, that's still quite risky for White.])
 ;B[ff]
 ;W[gf]
 ;B[ef]
-;W[gg]LB[ca:8][bb:4][cb:1][db:2][eb:7][bc:6][dc:3][cd:5][ce:10][ee:9][ge:A][ef:13][ff:11][gf:12][gg:14]C[If Black pushes at 9, White will atari at 10. If Black continues with 11, White can connect at 14, and Black can't cut at A.])))
+;W[gg]LB[ca:8][bb:4][cb:1][db:2][eb:7][bc:6][dc:3][cd:5][ce:10][ee:9][ge:A][ef:13][ff:11][gf:12][gg:14]C[If Black pushes at 9, White will atari at 10. If Black continues with 11, White can connect with 12 and 14, and Black can't cut at A.])))
 (;W[db]
 ;B[je]
 ;W[ig]
 ;B[kf]
 ;W[ih]
 ;B[hi]
-;W[kh]LB[db:1][je:2][kf:4][ig:3][ih:5][kh:7][hi:6]C[White 1 is also conceivable. If Black cuts at 2, pushing back at White 3 is nice, and it's still alright for White because Black's top group doesn't have many liberties.
+;W[kh]LB[db:1][je:2][kf:4][ig:3][ih:5][kh:7][hi:6]C[White 1 is also conceivable. If Black cuts at 2, pushing back at White 3 is nice, and it's still alright for White because Black's top group doesn't have enough liberties.
 
 This way would be easier for White compared to the actual game.]))
 (;W[ed]
@@ -473,7 +481,7 @@ This way would be easier for White compared to the actual game.]))
 ;W[jf]
 ;B[ke]
 ;W[jg]
-;B[hg]LB[ba:6][ea:3][bb:5][cb:4][db:2][bc:7][ed:1][je:8][ke:12][if:9][jf:11][hg:14][ig:10][jg:13]C[If White connects at 1 to remove bad aji, Black will extend his liberties and cut at 8 to fight in the center.
+;B[hg]LB[ba:6][ea:3][bb:5][cb:4][db:2][bc:7][ed:1][je:8][ke:12][if:9][jf:11][hg:14][ig:10][jg:13]C[If White connects at 1 to remove bad aji, Black will extend his liberties up to White 7, and cut at 8 to fight in the center.
 
 Black's top group has more liberties than it looks, so that's not good for White.]))
 (;B[cc]
@@ -501,7 +509,7 @@ Black's top group has more liberties than it looks, so that's not good for White
 ;B[gd]
 ;W[he]
 ;B[ge]
-;W[gf]LB[cb:6][db:2][eb:5][cc:1][dc:3][ec:4][fc:9][ed:10][gd:11][id:7][ge:13][he:12][ie:8][gf:14]C[There's no way out.]))
+;W[gf]LB[cb:6][db:2][eb:5][cc:1][dc:3][ec:4][fc:9][ed:10][gd:11][id:7][ge:13][he:12][ie:8][gf:14]C[There's no way out in this variation either.]))
 (;B[db]
 ;W[cc]
 ;B[cb]
@@ -509,7 +517,7 @@ Black's top group has more liberties than it looks, so that's not good for White
 ;B[ec]
 ;W[ea]LB[ea:6][bb:4][cb:3][db:1][cc:2][ec:5]C[If Black just jumps at 1, White will respond normally with 2, and the space is not enough to live.]))
 (;B[db]
-;W[cj]LB[db:1][cj:2]TR[ch][dh][eh][ci]C[If Black takes care of his upper side group with 1, White will capture the marked stones with 2, and that's still good enough for White.]))
+;W[cj]LB[db:1][cj:2]TR[ch][dh][eh][ci]C[If Black takes care of his upper side group with 1, White will capture the marked stones with 2, and that's too big for Black to sacrifice.]))
 (;B[id]
 ;W[ie]
 ;B[gd]
@@ -517,7 +525,7 @@ Black's top group has more liberties than it looks, so that's not good for White
 ;B[fc]
 ;W[ec]
 ;B[ge]
-;W[gf]LB[ec:6][fc:5][gd:3][id:1][ge:7][he:4][ie:2][gf:8]TR[bf][cg][dg][eg][fg][fh]C[Black 1 and 3 are conceivable, but they don't work very well, because White's marked stones are quite strong and powerful.]))
+;W[gf]LB[ec:6][fc:5][gd:3][id:1][ge:7][he:4][ie:2][gf:8]TR[bf][cg][dg][eg][fg][fh]C[Black 1 and 3 are conceivable, but they don't work very well, because White's marked stones are very solid.]))
 (;B[me]
 (;W[nd]
 ;B[ne]
