@@ -49,15 +49,15 @@ Since Black chose territorial move at A instead of B, White can play more strong
 (;B[gh]LB[gh:29]C[Attaching at Black 29 was good to fight back.]
 (;W[gg]LB[gg:30]C[Hane here was the right direction.]
 (;B[fg]LB[fg:31]C[The second hane at Black 31 was a very good tesuji.]
-(;W[hg]LB[hg:32]C[This connection was inevitable. ]
+(;W[hg]LB[hg:32][fh:A]C[Connecting at White 32 was inevitable, because cutting at A doesn't work well.]
 ;B[fh]
-(;W[if]LB[if:34][fh:33]C[This atari was the right move for white. ]
-(;B[dh]LB[dh:35]TR[hd][ie]C[The marked stones are not very important at the moment.]
+(;W[if]LB[if:34][fh:33]C[The atari at White 34 was necessary to look after his center stones.]
+(;B[dh]LB[dh:35]TR[hd][ie]C[The marked stones aren't easy for Black to save at the moment, so he played on the left side with 35 first.]
 ;W[ch]
 ;B[di]
 ;W[cg]
-(;B[he]LB[he:39][cg:38][ch:36][di:37]C[Black came back here. ]
-(;W[bj]LB[bj:40]C[Sliding here was the right move. ]
+(;B[he]LB[he:39][cg:38][ch:36][di:37]C[After the exchange to White 38, Black came back to save the two stones with 39.]
+(;W[bj]LB[bj:40]C[Sliding at White 40 was the proper move in that situation.]
 ;B[cc]
 ;W[cb]
 ;B[ec]
@@ -65,18 +65,21 @@ Since Black chose territorial move at A instead of B, White can play more strong
 ;B[dd]
 ;W[db]
 ;B[eg]
-(;W[qi]LB[cb:42][db:46][eb:44][cc:41][ec:43][dd:45][ee:D][he:A][ef:B][ff:C][eg:47][qi:48]C[Answering here was necessary because black already connected at A.
+(;W[qi]LB[cb:42][db:46][eb:44][cc:41][ec:43][dd:45][ee:D][he:A][ef:B][ff:C][eg:47][qi:48]TR[hd][ie]C[Responding from White 42 to 46 were necessary for White because Black already saved the marked stones with A.
 
-This reinforcement was necessary. If black plays elsewhere, White will cut black with B to D. 
-The result so far was even. 
+Black 47 was necessary. If Black plays elsewhere, White will cut Black off with B to D. 
+
+White 48 was more concerned about the top right corner, and the game was still playable for both.
 ]
-(;B[qk]LB[qk:49]C[This was the right direction. ]
+(;B[qk]LB[qk:49]C[Black 49 was the right direction. ]
 ;W[qf]
-(;B[re]LB[re:51][qf:50]C[Lee chose this one. Maybe he wanted to secure the corner. ]
-(;W[mf]LB[qe:B][mf:52][rf:A]C[Chen didn't want to exchange of A for B, so he just jumped from the center. ]
+(;B[re]LB[re:51][qf:50]C[Black 51 was more concerned about saving the corner territory, but that looks a bit slack.]
+(;W[mf]LB[qe:B][mf:52][rf:A]C[Chen didn't want to exchange White A for Black B, so he just jumped from the center, and that was nice and flexible.]
 ;B[ok]
 ;W[kq]
-(;B[jh]LB[jh:55][ok:53][kq:54]C[It looks like Lee thought the game was good, so he played gently. This is also a vital point of the shape. ]
+(;B[jh]LB[jh:55][ok:53][kq:54]C[It looks like Lee thought the game was good for him (Black), so he played gently with 53. 
+
+White 54 was very big, and Black started to attack White's center stones with 55.]
 (;W[oe]LB[oe:56][of:A]C[This knight's move was very good. Jumping at A is normal, but this knight's move is more flexible.]
 (;B[lf]LB[lf:57]C[Lee Sedol's style of play. Lee doesn't let his opponent feel easy. ]
 (;W[qd]LB[qd:58]C[Chen's counter attack. Chen knew what Lee's plan was, so he played in the corner first. ]
@@ -718,12 +721,14 @@ White's happy with this result. ]))
 (;W[rf]
 ;B[qe]
 ;W[of]
-;B[jq]LB[qe:2][of:3][rf:1][jq:4]C[If white just answers here, Black has sente, and Black can extend here. There's no aji in the top right corner anymore. ]))
+;B[jq]LB[qe:2][of:3][rf:1][jq:4]C[If White just blocks at 1, Black will take sente to extend the bottom first. 
+
+There's no aji left in the top right corner, so White 1 isn't proper in that situation.]))
 (;B[qe]
 ;W[pf]
-;B[oj]LB[qe:1][pf:2][oj:3]C[Kicking here is more common. This is also a good attacking way for black. ]))
+;B[oj]LB[qe:1][pf:2][oj:3]C[Kicking at Black 1 is more common, and that would be easier for Black to attack.]))
 (;B[qg]
-;W[ql]LB[qg:1][ql:2]TR[qp][oq]C[If black still extends here, White's position is better because it's further away from black's enclosure.]))
+;W[ql]LB[qg:1][ql:2]TR[qp][oq]C[If Black still extends from the top right, White's position will be better because they're further away from Black's enclosure from the bottom right.]))
 (;W[qj]
 ;B[qh]
 ;W[qm]
@@ -735,9 +740,11 @@ White's happy with this result. ]))
 ;W[qk]
 ;B[pi]
 ;W[ol]
-;B[nk]LB[jh:A][qh:2][pi:10][pj:6][qj:1][nk:12][ok:8][pk:7][qk:9][ol:11][pl:4][ql:5][om:B][qm:3]TR[je][if][jf][gg][hg][hh]C[If white splits here, Black will extend here, because black's top right corner area is more promising for black.
+;B[nk]LB[jh:A][qh:2][pi:10][pj:6][qj:1][nk:12][ok:8][pk:7][qk:9][ol:11][pl:4][ql:5][om:B][qm:3]TR[je][if][jf][gg][hg][hh]C[If White splits with 1, which is normal, Black will extend at 2 to develop his top right corner area.
 
-This is a good followup. White's center stones are getting weaker, and it's good for black. A and B are miai next.])
+black 4 to 6 are good followups, and White's center stones will be getting weaker.
+
+After Black 12, A and B are miai for Black.])
 (;W[pi]
 ;B[qi]
 ;W[pk]
@@ -747,9 +754,9 @@ This is a good followup. White's center stones are getting weaker, and it's good
 ;W[nk]
 ;B[rj]
 ;W[qk]
-;B[mj]LB[qh:2][pi:7][qi:8][mj:16][nj:12][oj:10][pj:6][qj:1][rj:14][nk:13][ok:11][pk:9][qk:15][pl:4][ql:5][qm:3]C[This hane isn't a good idea. This result is very good for black. In that case, hane at A is normally bad.]))
+;B[mj]LB[qh:2][pi:7][qi:8][mj:16][nj:12][oj:10][pj:6][qj:1][rj:14][nk:13][ok:11][pk:9][qk:15][pl:4][ql:5][qm:3]C[The hane at White 7 is generally bad. This result up to Black 16 is very good for Black, because White's thickness on the right side isn't useful.]))
 (;W[kq]
-;B[pj]LB[pj:2][kq:1]C[Extending here is also big, butThen black will develop the right side. ]))
+;B[pj]LB[pj:2][kq:1]C[Extending the lower side with White 1 is also big, bu the right side is more valuable in this game.]))
 (;W[ef]
 ;B[ff]
 ;W[ee]
@@ -759,10 +766,11 @@ This is a good followup. White's center stones are getting weaker, and it's good
 ;W[dd]
 ;B[ci]
 ;W[ce]
-;B[jh]LB[fc:5][dd:7][ed:6][fd:4][ce:9][ee:3][ef:1][ff:2][jh:10][ci:8]C[If white still peeps here, The exchanges were better for black.
- Black can start to attack white's center stones, and it's not a satisfactory result for white.]))
+;B[jh]LB[fc:5][dd:7][ed:6][fd:4][ce:9][de:A][ee:3][ef:1][ff:2][jh:10][ci:8]TR[cg][ch][dh][di]C[If White still peeps at 1 to cut A off, Black will sacrifice the stone, and the exchanges of the marked stones are benefitial for Black.
+
+Black can start to attack White's center stones with 10, and that's not a satisfactory result for White.]))
 (;B[cc]
-;W[ef]LB[cc:1][ee:A][he:C][ef:2][ff:B]C[If black attaches here, White will peep here, and A and B are miai. White's corner is alright because of C. ]))
+;W[ef]LB[cc:1][ee:A][he:C][ef:2][ff:B]C[If Black attaches at 1, White will peep at 2 to threaten to cut, and A and B are miai next. White's corner is safe because of C. ]))
 (;B[he]
 ;W[ef]
 (;B[ee]
@@ -772,9 +780,9 @@ This is a good followup. White's center stones are getting weaker, and it's good
 ;B[ig]
 ;W[hi]
 ;B[jg]
-;W[le]LB[ee:3][he:1][le:10][ef:2][ff:4][gf:5][cg:6][ig:7][jg:9][hi:8]TR[hd][de][fe][ge][ie][hf][fg][fh][gh]C[If black connects here, White will peep here, and it's very hard for black to answer. If black connects here,
+;W[le]LB[ee:3][he:1][le:10][ef:2][ff:4][gf:5][cg:6][ig:7][jg:9][hi:8]TR[hd][de][fe][ge][ie][hf][fg][fh][gh]C[Saving the two stones with Black 1 is greedy. White will peep at 2, and that'll be difficult for Black to answer. 
 
-Black's in deep trouble.])
+If Black connects at 3, White 6 will be a good move to attack, and Black will be in deep trouble.])
 (;B[ff]
 ;W[ee]
 ;B[fd]
@@ -782,7 +790,7 @@ Black's in deep trouble.])
 ;B[ed]
 ;W[dd]
 ;B[dh]
-;W[ce]LB[fc:6][dd:8][ed:7][fd:5][ce:10][ee:4][he:1][ef:2][ff:3][dh:9]C[If black connects here, White's happy with the big territory in the corner.])))
+;W[ce]LB[fc:6][dd:8][ed:7][fd:5][ce:10][ee:4][he:1][ef:2][ff:3][dh:9]C[Even if Black connects at 3, White will still be happy with the big territory up to 10.])))
 (;W[di]
 ;B[if]
 ;W[jg]
@@ -798,19 +806,21 @@ Black's in deep trouble.])
 ;W[eg]
 ;B[ii]
 ;W[hi]
-;B[ij]LB[he:10][ef:12][ff:11][gf:9][if:2][eg:13][ig:4][jg:3][ih:5][jh:6][kh:8][di:1][hi:15][ii:14][ji:7][ij:16]C[If white cuts here,  Black dominates the center area, and the result is good for black.])
+;B[ij]LB[he:10][ef:12][ff:11][gf:9][if:2][eg:13][ig:4][jg:3][ih:5][jh:6][kh:8][di:1][hi:15][ii:14][ji:7][ij:16]C[If White reinforces the left side with 1, Black 2 will be a strong counter. 
+
+If White cuts with 11 to 13 next, Black will cut at 14 too, and the center will become very good for Black.])
 (;W[lf]
 ;B[kh]
 ;W[le]
-;B[ld]LB[ld:10][le:9][if:2][lf:7][ig:4][jg:3][ih:5][jh:6][kh:8][di:1]C[If white plays here, Black will play here to cut white in two. If white jumps, White has two weak groups.])))
+;B[ld]LB[ld:10][le:9][if:2][lf:7][ig:4][jg:3][ih:5][jh:6][kh:8][di:1]C[If White jumps at 7 to fight, Black will extend at 8, and White will have two weak groups.])))
 (;W[fh]
 ;B[gi]
 ;W[hg]
 ;B[eg]
 (;W[eh]
-;B[dh]LB[dg:C][eg:4][hg:3][dh:6][eh:5][fh:1][gi:2]C[If white wants to fight here, This is a good followup. Black can either capture A or B.])
+;B[dh]LB[eg:4][hg:3][dh:6][eh:5][fh:1][gi:2]C[If White wants to fight with 1 to 3, Black 4 to 6 are good followups, and White will be in trouble.])
 (;W[fi]
-;B[dh]LB[dg:A][eg:4][hg:3][dh:6][fh:1][fi:5][gi:2]C[A is damaged, and the result is good for black.])))
+;B[dh]LB[eg:4][hg:3][dh:6][fh:1][fi:5][gi:2]C[If White pushes at 5 instead, Black will hane at 6, and this is still good enough for Black.])))
 (;B[hg]
 (;W[fg]
 ;B[ih]
