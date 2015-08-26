@@ -136,14 +136,16 @@ The attachment at White 96 was a well timed probe.]
 ;B[qq]
 ;W[pn]
 ;B[cl]
-(;W[fn]LB[cl:1][fn:2][pn:100][fo:B][pp:98][qq:99][cr:C]C[This jump was a good combination with A. This invasion was what black was aiming at after B and C. 
+(;W[fn]LB[cl:1][fn:2][pn:100][fo:B][pp:98][qq:99][cr:C]C[White 98 and 100 were a nice combination to reduce the right side.
 
-It was a very good response against black's invasion at D.]
-(;B[bk]LB[bk:3]C[a]
+Black 101 was what Lee was aiming at after Black B and C, but White's attachment at 102 was very nice.]
+(;B[bk]LB[bk:3][en:A]C[Black can't fight properly with the hane at A, so Lee attached at 103 to separate White's left side groups.]
 ;W[cj]
 ;B[el]
 ;W[eo]
-(;B[gq]LB[cj:4][el:5][eo:6][gq:7]C[But, Chen seemed to be very confident about this left side group. Black tried to disconnect white to attack seriously. Lee looked after his lower side group first. ]
+(;B[gq]LB[cj:4][el:5][eo:6][gq:7]C[Chen was very confident about this left side group, so he reinforced the bottom left group with 106.
+
+That's not easy to attack White's left side group, so Lee looked after his lower group first with 107.]
 ;W[ek]
 ;B[dk]
 ;W[dj]
@@ -155,46 +157,52 @@ It was a very good response against black's invasion at D.]
 ;W[bl]
 ;B[hr]
 ;W[iq]
-(;B[lj]LB[dj:10][ej:12][lj:19][ck:14][dk:9][ek:8][fk:11][bl:16][cl:B][dl:15][gl:13][iq:18][hr:17]C[ Chen didn't want to live small inside, but fight back. 
+(;B[lj]LB[dj:10][ej:12][lj:19][bk:A][ck:14][dk:9][ek:8][fk:11][bl:16][cl:B][dl:15][gl:13][iq:18][hr:17]C[White didn't want to live small inside, so he fought back with 108. Black 111 and 113 were inevitable, and White captured Black A.
 
+The result looks good for White, but Black also hane at 117 in sente, and the center area became nicer with 111 and 113, so Black wouldn't complain.
+
+The game was still even, but Black 119 was questionable.
 White successfully managed his group, but black can hane at A in sente, and the center has become stronger. Black got some points here after invading at A, and the game's slightly better for black.
 
 This move was a mistake.]
 ;W[nk]
 ;B[nl]
 ;W[oj]
-(;B[pj]LB[oj:22][pj:23][nk:20][nl:21]C[This hane 122 was a good combination with A. 
-
-a]
+(;B[pj]LB[oj:22][pj:23][nk:20][nl:21]C[Attaching at White 120 was a good sense, and the hane at 122 was a good followup.
+]
 ;W[ol]
 ;B[pk]
 ;W[nj]
 ;B[om]
 ;W[op]
-(;B[pq]LB[lj:A][nj:26][pk:25][ol:24][om:27][op:28][pq:29]C[White was relieved to come back here. 128 
+(;B[pq]LB[lj:A][nj:26][pk:25][ol:24][om:27][op:28][pq:29]C[White was relieved to come back to 128, and the result was successful for White from Black A.
 
-Black's shape here has become bad. Black captured white's single stone, but black didn't gain much from A.]
+Even if Black captured White 124, he didn't gain much from A, and the game became slightly better for White.]
 ;W[np]
 ;B[pl]
 ;W[nq]
 ;B[nb]
-(;W[pi]LB[nb:33][pi:34][pl:31][np:30][nq:32]C[Black was aiming at a move at the top with 131, but White didn't seem to care. Chen just took a big move here, and white reversed the game at this point.
+(;W[pi]LB[nb:33][pi:34][pl:31][np:30][nq:32]C[Lee might have thought Black 131 was sente, but Chen didn't seem to care, and he played 132, which was very big.
 
-133 was what Lee's secret plan, and it looks an emergency for white. This was a brilliant move! ]
-(;B[rh]LB[rh:35]C[It was the correct response, but black's secret plan was already broken. ]
+133 was what Lee was aiming at and it looks like White is in trouble.
+
+However, White 134 was a brilliant move to manage the situation.]
+(;B[rh]LB[rh:35][pi:34]C[Black 135 was unavoidable, and Lee's secret plan was broken with the exchange of White 134 and Black 135.]
 ;W[ka]
-(;B[ja]LB[ja:37][ka:36]C[a]
+(;B[ja]LB[ja:37][ka:36]C[The hane at White 136 was expected, and Black 137 was inevitable.]
 ;W[la]
-(;B[jb]LB[la:38][jb:39]C[There wasn't any good option for Black, so just connected here.]
+;B[jb]
 ;W[me]
 ;B[pf]
 ;W[ob]
-(;B[oi]LB[ob:42][me:40][pf:41][oi:43][pi:A]C[White didn't lose anything to overcome the cricis by the brilliant move A. ]
-;W[na]
-(;B[po]LB[na:44][po:45]C[Since black didn't exchange of A for B for a ko threat, white just linked here. It was a big reverse endgame. 
+(;B[oi]LB[la:38][jb:39][ob:42][me:40][pf:41][oi:43][pi:A]C[There weren't any good alternatives for Black, so Lee patiently connected at 139.
 
-This was a nice tesuji for the endgame.]
-(;W[on]LB[on:46]C[a]
+White didn't lose anything due to the brilliant move at A. ]
+;W[na]
+(;B[po]LB[na:44][oa:A][pb:B][po:45]C[Black didn't exchange of A for B to save a ko threat, and White immediately linked with 144. It was a big reverse endgame, and the game is still favorable for White.
+
+Black 145 was a nice tesuji to connect on the right side.]
+(;W[on]LB[on:46]C[White 146 was the ]
 ;B[qn]
 ;W[hk]
 ;B[go]
@@ -416,22 +424,16 @@ Black reduces quite a lot of points in sente. White shouldn't play like this. ])
 ;W[on]
 ;B[no]
 ;W[nn]
-;B[mo]LB[nn:5][on:3][mo:6][no:4][oo:2][qo:1]C[If white cuts here, White can't manage the situation.]))
+;B[mo]LB[nn:5][on:3][mo:6][no:4][oo:2][qo:1]C[Cutting at White 1 is too greedy, and White will be in deep trouble up to Black 6.]))
 (;B[qn]
 ;W[qo]
 ;B[ro]
 ;W[po]
-;B[qm]LB[qm:5][qn:1][po:4][qo:2][ro:3]C[If black attaches here, White can reduce black's territory like this.]))
+;B[qm]LB[qm:5][qn:1][po:4][qo:2][ro:3]C[If Black attaches at 1, White will reduce Black's territory a bit more up to Black 5.]))
 (;B[oa]
 ;W[pb]
 ;B[oi]
-;W[mk]LB[oa:1][pb:2][oi:3][mk:4]C[If black ataris here now, White will go out here. ]))
-(;B[me]
-;W[jb]
-;B[oi]
-;W[mk]
-;B[ll]
-;W[ob]LB[jb:2][ob:6][me:1][oi:3][mk:4][ll:5]C[If black still cuts here, White will cut here, and A and B are still miai for white.  White will win the capturing race.]))
+;W[mk]LB[oa:1][pb:2][oi:3][mk:4]C[If Black ataris at 1 now, White will go out with 4.]))
 (;B[me]
 ;W[jb]
 ;B[oi]
@@ -439,15 +441,13 @@ Black reduces quite a lot of points in sente. White shouldn't play like this. ])
 ;B[ll]
 ;W[ob]
 ;B[lk]
-;W[na]LB[na:8][jb:2][ob:6][me:1][ni:C][oi:3][lk:7][mk:4][ll:5]C[If black still cuts here,  White will connect under here, and A and B are miai for white. 
+;W[na]LB[na:8][jb:2][ob:6][me:1][ni:C][oi:3][lk:7][mk:4][ll:5]C[If black still cuts at 1,  White will connect under with 2, and 3 and 4 are miai for White next.
 
-White has four liberties while black has three. A is sente, so white can win the race.]))
+White has four liberties while Black has three. A is sente for White, and he'll win the capturing race.]))
 (;B[oi]
 ;W[ob]
 (;B[pf]
-;W[ka]
-;B[me]
-;W[mk]LB[ka:4][ob:2][me:5][pf:3][oi:1][mk:6]C[If black cuts here, White will come back here. and this isn't working for Black.])
+;W[me]LB[ob:2][me:4][pf:3][oi:1]C[If Black cuts at 1, White will come back at 2 in sente, and there's no problem for White with 4.])
 (;B[ma]
 ;W[pg]
 ;B[ph]
@@ -455,7 +455,7 @@ White has four liberties while black has three. A is sente, so white can win the
 ;B[pf]
 ;W[ni]
 ;B[pg]
-;W[rg]LB[ma:3][ob:2][pf:7][pg:4][rg:9][ph:5][qh:6][ni:8][oi:1]C[If black connects, White can wedge here. The game's over.]))
+;W[rg]LB[ma:3][ob:2][pf:7][pg:4][rg:9][ph:5][qh:6][ni:8][oi:1]C[If Black plays 3 to connect undernearh, White can wedge at 4 to capture Black's key stones, and game will be over.]))
 (;B[pf]
 ;W[ob]
 ;B[oa]
@@ -465,21 +465,17 @@ White has four liberties while black has three. A is sente, so white can win the
 (;B[oi]
 ;W[rg]
 ;B[pg]
-;W[mk]LB[oa:3][ob:2][pb:4][me:5][pf:1][pg:9][rg:8][rh:6][oi:7][mk:10]TR[qe][re][rf][og][qg][nh][oh]C[If black cuts here, White will play here to attack black. Black's marked group will die. ])
+;W[mk]LB[oa:3][ob:2][pb:4][me:5][pf:1][pg:9][rg:8][rh:6][oi:7][mk:10]TR[qe][re][rf][og][qg][nh][oh]C[If Black cuts at 5, White will play 6 to attack, and Black's marked stones will be captured up to White 10.])
 (;B[rg]
 ;W[ph]
 ;B[pg]
-;W[oi]LB[oa:3][ob:2][pb:4][me:5][pf:1][pg:9][rg:7][ph:8][rh:6][oi:10][qi:A]TR[qe][re][rf][og][qg][nh][oh]C[Black's marked group has only one eye, and can't win the capturing race against the group A either.])))
+;W[oi]LB[oa:3][ob:2][pb:4][me:5][pf:1][pg:9][rg:7][ph:8][rh:6][oi:10][qi:A]TR[qe][re][rf][og][qg][nh][oh]C[Even if Black responds at 7, he can make only one eye, so the right side group will be captured as well.])))
 (;W[me]
-;B[na]LB[la:B][na:2][pb:A][me:1]C[If white connects here, Black will descend here, and A and B are miai. White's can't manage the situation.])
+;B[na]LB[la:B][na:2][pb:A][me:1]C[If White connects at 1, Black will descend at 2, and A and B are miai next. The game will be over here.])
 (;W[ka]
 ;B[me]
 (;W[jb]
-;B[mk]
-;W[pi]
-;B[oi]LB[ka:1][jb:3][me:2][nf:B][ng:A][oi:6][pi:5][mk:4]C[If white hanes here, Black will cut. Black will win the capturing race between the group A and B. 
-
-If white plays here now, Black can cut, and white can't do anything now. ])
+;B[mk]LB[ka:1][jb:3][me:2][mk:4]C[If White hanes at 1, Black will cut at 2. White 3 is necessary. and Black will win the capturing race with 4.])
 (;W[mk]
 ;B[ja]
 ;W[la]
@@ -487,9 +483,7 @@ If white plays here now, Black can cut, and white can't do anything now. ])
 ;W[ob]
 ;B[ma]
 ;W[oa]
-;B[lm]LB[ja:4][ka:1][la:5][ma:8][oa:9][jb:6][ob:7][me:2][mk:3][lm:10]TR[mf][mg][ng][mh][mi][nj][oj][nk]C[If white goes out here, Black can make this seki in sente, and 
-
-White's center group will be in danger. ])))
+;B[lm]LB[ja:4][ka:1][la:5][ma:8][oa:9][jb:6][ob:7][me:2][mk:3][lm:10]TR[mf][mg][ng][mh][mi][nj][oj][nk]C[If White goes out with 3, Black can make the seki in sente up to White 9, and White's center group will be in danger with 10.])))
 (;B[nq]
 ;W[pq]
 ;B[pr]
@@ -499,20 +493,22 @@ White's center group will be in danger. ])))
 ;B[qs]
 ;W[np]
 ;B[mq]
-;W[mp]LB[mp:10][np:8][mq:9][nq:1][pq:2][or:6][pr:3][qr:4][rr:5][qs:7]C[a]))
+;W[mp]LB[qo:A][mp:10][np:8][mq:9][nq:1][pq:2][or:6][pr:3][qr:4][rr:5][qs:7]C[Extending at Black 1 is also possible, and White will play like this. If Black connects at 6 instead of 5, White will block at A in sente.]))
 (;B[nj]
 ;W[ni]
 ;B[mk]
-;W[oi]LB[ni:2][oi:4][nj:1][mk:3]C[a]))
-(;B[nj]LB[nb:B][nj:1][no:A]C[Black should have played here. A and B are miai next, and the game was still favorable for black. ]))
+;W[oi]LB[ni:2][oi:4][nj:1][mk:3]C[Cutting at Black 1 isn't a good idea, because White will connect at 4 to detroy Black's right side territory.]))
+(;B[nj]
+;W[nb]
+;B[no]LB[nb:2][nj:1][no:3]TR[pn][pp]C[Black should have reinforced at 1. White 2 is necessary, and Black can attack White's marked stones with 3.]))
 (;B[bf]
 ;W[ek]
 ;B[dk]
-;W[ck]LB[bf:1][dj:A][ck:4][dk:3][ek:2][bl:B]C[If black plays here to attack. This attachment is a good tesuji. A and B are miai for white.]))
+;W[ck]LB[bf:1][dj:A][ck:4][dk:3][ek:2][bl:B]C[If black plays 1 to attack. attaching at White 2 is a nice tesuji. If Black responds at 3 to cut, White 4 is sophisticated, and A and B are miai next.]))
 (;B[en]
 ;W[eo]
 (;B[em]
-;W[fp]LB[em:3][en:1][eo:2][fp:4]C[If black hanes here, White will cut. This is an easy result for white.])
+;W[fp]LB[em:3][en:1][eo:2][fp:4]C[If Black hanes at 1, White will cut at 2, and White will be happy to connect with 4.])
 (;B[ep]
 ;W[do]
 ;B[gn]
@@ -520,11 +516,11 @@ White's center group will be in danger. ])))
 ;B[go]
 ;W[dk]
 (;B[dl]
-;W[ek]LB[dk:8][ek:10][cl:A][dl:9][fm:6][en:1][gn:5][do:4][eo:2][go:7][ep:3]C[If black comes out here, White can make a counter attack here, and black can't save the stone A. ])
+;W[ek]LB[dk:8][ek:10][cl:A][dl:9][fm:6][en:1][gn:5][do:4][eo:2][go:7][ep:3]C[If Black comes with 3 to 7, White can make a counter attack with 8, and Black can't rescue A.])
 (;B[el]
 ;W[dl]
 ;B[em]
-;W[ek]LB[dk:8][ek:12][dl:10][el:9][em:11][fm:6][en:1][gn:5][do:4][eo:2][go:7][ep:3]C[a]))))
+;W[ek]LB[dk:8][ek:12][dl:10][el:9][em:11][fm:6][en:1][gn:5][do:4][eo:2][go:7][ep:3]C[Black should play 9, but that's still good enough for White.]))))
 (;W[bl]
 ;B[bm]
 ;W[cm]
@@ -534,7 +530,7 @@ White's center group will be in danger. ])))
 ;W[dl]
 ;B[cj]
 ;W[bl]
-;B[nb]LB[nb:10][cj:8][bk:4][ck:5][al:6][bl:9][dl:7][bm:2][cm:3]C[If white tries to connect under like this, Black can make a ko. Black's got a ko threat factory here, so white shouldn't fight the ko at A.]))
+;B[nb]LB[nb:10][cj:8][bk:4][ck:5][al:6][bl:9][dl:7][bm:2][cm:3]C[If White tries to connect underneath like this, Black can start a ko with 8, and White will be in big trouble because Black has a ko threats factory in the top right corner from 10.]))
 (;B[qo]
 ;W[qq]
 ;B[pq]
