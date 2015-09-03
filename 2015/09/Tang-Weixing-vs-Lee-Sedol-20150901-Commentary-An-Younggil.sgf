@@ -11,18 +11,20 @@ GN[Tang-Weixing-vs-Lee-Sedol-20150901]PW[Lee Sedol]PB[Tang Weixing]WR[9p]BR[9p]D
 ;W[nc]
 ;B[pc]
 ;W[md]
-(;B[qf]LB[dc:3][nc:8][oc:7][pc:9][md:10][od:6][cf:5][qf:11][dp:4][pp:2]C[a]
+(;B[qf]LB[dc:3][nc:8][oc:7][pc:9][md:10][od:6][cf:5][qf:11][dp:4][pp:2]C[Black started the game with a territorial opening with Black 5 and 7, and hane at White 8 was common.]
 ;W[ic]
 ;B[gc]
-(;W[ie]LB[gc:13][ic:12][ie:14]C[a]
+(;W[ie]LB[cc:A][gc:13][ic:12][ie:14]C[Black 13 was big, and White 14 was the right move to reinforce.
+
+There will be Black's bad aji in the top left corner at around A.]
 ;B[jq]
 ;W[cn]
-(;B[dj]LB[dj:17][cn:16][jq:15]C[a]
-(;W[qn]LB[qn:18]C[a]
-(;B[dr]LB[dr:19]C[a]
-(;W[fq]LB[fq:20]C[a]
+(;B[dj]LB[dj:17][cn:16][jq:15]C[Black 15 and White 16 were peaceful, and Black 17 was also big.]
+(;W[qn]LB[qn:18]C[White 18 was calm and solid. Lee's style of play becomes more gentle.]
+(;B[dr]LB[dr:19]C[The lower approach at Black 19 was practical in this situation.]
+(;W[fq]LB[fq:20]C[White 20 was the proper response in this case.]
 ;B[mq]
-(;W[oq]LB[mq:21][oq:22]C[a]
+(;W[oq]LB[mq:21][oq:22][dr:A]C[Extending at Black 21 was a good idea before moving A out, and White 22 was big and solid.]
 ;B[qq]
 ;W[qp]
 ;B[fr]
@@ -32,7 +34,9 @@ GN[Tang-Weixing-vs-Lee-Sedol-20150901]PW[Lee Sedol]PB[Tang Weixing]WR[9p]BR[9p]D
 ;B[eq]
 ;W[ep]
 ;B[bq]
-(;W[ch]LB[ch:32][cp:28][ep:30][qp:24][bq:31][cq:27][eq:29][gq:26][qq:23][fr:25]C[a]
+(;W[ch]LB[ch:32][cp:28][ep:30][qp:24][bq:31][cq:27][eq:29][gq:26][qq:23][fr:25]C[Black 23 was a probe, and the sequence from Black 25 to 31 was a joseki.
+
+Invading the left side at White 32 was nice.]
 ;B[dh]
 (;W[di]LB[di:34]C[a]
 (;B[ei]LB[dh:33][ei:35]C[a]
@@ -510,25 +514,27 @@ https://gogameguru.com/]
 ;W[cj]
 ;B[ge]LB[ge:8][cg:6][ci:1][di:2][cj:7][bk:3][ck:4][bl:5]C[a]))
 (;W[dl]
-;B[ge]LB[ge:2][dl:1]C[a]))
+;B[ge]LB[ge:2][cl:A][dl:1]C[Extending at White 1 or at A is too narrow  and small.]))
 (;W[dq]
 ;B[pr]
 ;W[qk]
 ;B[er]
 ;W[cr]
-;B[ge]LB[ge:6][qk:3][dq:1][cr:5][er:4][pr:2]C[a]))
+;B[ge]LB[ge:6][qk:3][dq:1][cr:5][er:4][pr:2]C[If White secures the bottom left with 1, sliding at Black 2 is very big.
+
+Black 4 is annoying for White, and the game will be favorable for Black with 6.]))
 (;W[cq]
-;B[gq]LB[cq:1][gq:2]C[a])
+;B[gq]LB[cq:1][gq:2]C[Responding at White 1 is passive, and Black will be happy with the ideal position with 2.])
 (;W[dq]
 ;B[er]
 ;W[cr]
 ;B[br]
 ;W[cq]
-;B[gq]LB[cq:5][dq:1][gq:6][br:4][cr:3][er:2]C[a]))
+;B[gq]LB[cq:5][dq:1][gq:6][br:4][cr:3][er:2]C[White 1 is slightly better than responding at 3-3, but that's still what Black wants.]))
 (;B[gq]
 ;W[eq]
 ;B[mq]
-;W[oq]LB[eq:2][gq:1][mq:3][oq:4]C[a]))
+;W[oq]LB[eq:2][gq:1][mq:3][oq:4]C[Extending at Black 1 and 3 aren't good enough, because White will be happy with the two corner territories.]))
 (;W[hq]
 ;B[nq]
 ;W[lq]
@@ -537,13 +543,13 @@ https://gogameguru.com/]
 ;B[pr]
 ;W[kp]
 ;B[qq]
-;W[qk]LB[qk:9][qn:5][no:4][kp:7][hq:1][lq:3][nq:2][qq:8][pr:6]C[a]))
+;W[qk]LB[qk:9][qn:5][no:4][jp:B][kp:7][fq:A][hq:1][lq:3][nq:2][qq:8][pr:6]C[Extending at White 1 is also possible, but Black will be happy to get the corner in sente, and Black will play A or B next.]))
 (;B[nq]
 ;W[qn]
 ;B[pr]
 ;W[ch]
 ;B[qq]
-;W[qk]LB[ch:4][qk:6][qn:2][nq:1][qq:5][pr:3]C[a]))
+;W[qk]LB[ce:A][ch:4][qk:6][qn:2][nq:1][qq:5][pr:3]C[If Black plays 1 to 3, White will play on the left side at 4. White will aim to attach at A later, and that's another game.]))
 (;W[cn]
 ;B[lc]
 ;W[mb]
@@ -559,6 +565,8 @@ https://gogameguru.com/]
 ;W[ib]
 ;B[hb]
 ;W[ja]
-;B[dj]LB[ja:15][ka:11][la:9][hb:14][ib:13][jb:10][kb:7][lb:8][mb:3][jc:5][kc:6][lc:2][id:12][jd:4][dj:16][cn:1]C[aa]))
+;B[dj]LB[ja:15][ka:11][la:9][hb:14][ib:13][jb:10][kb:7][lb:8][mb:3][jc:5][kc:6][lc:2][id:12][jd:4][dj:16][cn:1]C[If White plays elsewhere such as White 1, Black will invade the top at 2.
+
+Black 14 is recently researched and played, and the opening up to Black 16 seems to be active for Black.]))
 (;B[qg]
-;W[ic]LB[ic:2][qg:1]C[a]))
+;W[ic]LB[ic:2][qg:1]C[This two space jump at Black 1 was recently played quite a lot, but thats a bit thin compared to the original joseki.]))
