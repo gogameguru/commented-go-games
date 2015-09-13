@@ -1,42 +1,46 @@
 (;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
 RU[Chinese]SZ[19]KM[7.50]TM[1800]OT[5x60 byo-yomi]
 GN[Zhou-Ruiyang-vs-Park-Junghwan-20150830]PW[Park Junghwan]PB[Zhou Ruiyang]WR[9p]BR[9p]DT[2015-08-30]EV[2nd MLlily Cup]RO[Round of 16]PC[Guangzhou, China]SO[https://gogameguru.com/]RE[B+Resign]
-;B[qd]C[Zhou Ruiyang plays Black.]
+;B[qd]LB[qd:1]C[Zhou Ruiyang plays Black.]
 ;W[pp]
 ;B[dc]
 ;W[dp]
 ;B[cf]
-;W[nc]
+(;W[nc]LB[dc:3][nc:6][qd:1][cf:5][dp:4][pp:2]C[The opening of Black 1 to 5 is very popular lately.
+
+Approaching at White 6 is getting more common these days.]
 ;B[pc]
-(;W[jd]C[a]
+(;W[jd]LB[pc:7][jd:8]C[Black 7 is the most common response, and White 8 is the light and speedy way of play.]
 ;B[hc]
-(;W[pe]C[a]
+(;W[pe]LB[hc:9][pe:10]C[Black 9 was very big, and the shoulder hit at White 10 was raletively newly researched.]
 ;B[qe]
 ;W[pg]
-(;B[qn]C[a]
+(;B[qn]LB[od:A][pe:10][qe:11][pg:12][qn:13]C[White 10 to 12 was light way of play, and they also reduce Black's potential from the top right corner.
+
+Coming out at A isn't powerful, because White's stones in that area are pretty light. That's why Black approached at 13.]
 ;W[nq]
 ;B[rp]
-(;W[ql]C[a]
-(;B[pl]C[a]
-(;W[qk]C[a]
-(;B[qq]C[a]
+(;W[ql]LB[ql:16][rp:15][nq:14]C[pincering at White 16 was a good idea, because the right side is more valuable than the bottom right corner in this opening.]
+(;B[pl]LB[pl:17]C[Attaching at Black 17 was interesting.]
+(;W[qk]LB[qk:18]C[Extending at White 18 was calm and nice.]
+(;B[qq]LB[qq:19]C[a]
 ;W[pn]
 ;B[pm]
 ;W[qm]
 ;B[rn]
 ;W[on]
-(;B[iq]C[a]
-(;W[gq]C[a]
+(;B[iq]LB[pm:21][qm:22][on:24][pn:20][rn:23][iq:25]C[a]
+(;W[gq]LB[gq:26]C[a]
 ;B[lq]
-(;W[kn]C[a]
-(;B[jo]C[a]
+(;W[kn]LB[kn:28][lq:27]C[a]
+(;B[jo]LB[jo:29]C[a]
 ;W[im]
 ;B[ho]
-(;W[ko]C[a]
+(;W[ko]LB[im:30][ho:31][ko:32]C[a]
 ;B[gn]
 ;W[eq]
 ;B[dm]
-(;W[gl]C[a]
+(;W[gl]LB[gl:36][dm:35][gn:33][eq:34]C[a]
 ;B[co]
 ;W[cp]
 ;B[dj]
@@ -44,56 +48,56 @@ GN[Zhou-Ruiyang-vs-Park-Junghwan-20150830]PW[Park Junghwan]PB[Zhou Ruiyang]WR[9p
 ;B[ld]
 ;W[lc]
 ;B[md]
-(;W[kc]C[a]
-(;B[of]C[a]
-(;W[og]C[a]
+(;W[kc]LB[kc:44][lc:42][ld:41][md:43][he:40][dj:39][co:37][cp:38]C[a]
+(;B[of]LB[of:45]C[a]
+(;W[og]LB[og:46]C[a]
 ;B[nd]
 ;W[oc]
 ;B[pf]
 ;W[qg]
-(;B[mh]C[a]
+(;B[mh]LB[oc:48][nd:47][pf:49][qg:50][mh:51]C[a]
 ;W[od]
 ;B[qf]
 ;W[ng]
 ;B[nm]
-(;W[kp]C[a]
+(;W[kp]LB[od:52][qf:53][ng:54][nm:55][kp:56]C[a]
 ;B[nn]
 ;W[kq]
 ;B[kr]
-(;W[mp]C[a]
+(;W[mp]LB[nn:57][mp:60][kq:58][kr:59]C[a]
 ;B[pk]
 ;W[qj]
 ;B[pj]
-(;W[qi]C[a]
+(;W[qi]LB[qi:64][pj:63][qj:62][pk:61]C[a]
 ;B[mr]
 ;W[om]
 ;B[nl]
 ;W[ol]
 ;B[nk]
 ;W[ok]
-(;B[nj]C[a]
+(;B[nj]LB[nj:71][nk:69][ok:70][nl:67][ol:68][om:66][mr:65]C[a]
 ;W[oj]
 ;B[jk]
-(;W[pr]C[a]
+(;W[pr]LB[oj:72][jk:73][pr:74]C[a]
 ;B[ie]
 ;W[id]
 ;B[hd]
 ;W[hf]
 ;B[je]
-(;W[jb]C[a]
+(;W[jb]LB[jb:80][hd:77][id:76][ie:75][je:79][hf:78]C[a]
 ;B[kd]
 ;W[ib]
 ;B[ed]
-(;W[ej]C[a]
+(;W[ej]LB[ib:82][ed:83][kd:81][ej:84]C[a]
 ;B[ek]
 ;W[fk]
 ;B[fj]
 ;W[ei]
 ;B[fi]
-(;W[ij]C[a]
+(;W[ij]LB[ei:88][fi:89][fj:87][ij:90][ek:85][fk:86]C[a]
 ;B[eh]
 ;W[jj]
-(;B[jh]C[a]
+(;B[jh]LB[eh:91][jh:93][jj:92]C[a]
 ;W[lj]
 ;B[ki]
 ;W[kj]
@@ -104,7 +108,7 @@ GN[Zhou-Ruiyang-vs-Park-Junghwan-20150830]PW[Park Junghwan]PB[Zhou Ruiyang]WR[9p
 ;B[if]
 ;W[ig]
 ;B[ke]
-(;W[jg]C[a]
+(;W[jg]LB[ke:3][if:1][jf:100][ig:2][jg:4][hh:98][hi:99][ki:95][mi:97][kj:96][lj:94]C[a]
 ;B[kg]
 ;W[ih]
 ;B[nf]
@@ -134,7 +138,7 @@ GN[Zhou-Ruiyang-vs-Park-Junghwan-20150830]PW[Park Junghwan]PB[Zhou Ruiyang]WR[9p
 ;B[cn]
 ;W[bq]
 ;B[rr]
-(;W[em]C[a]
+(;W[em]LB[mb:24][mc:23][kf:8][lf:9][nf:7][kg:5][ih:6][em:31][cn:29][dn:28][oo:18][po:17][bp:27][np:20][op:19][qp:15][bq:30][jq:25][oq:14][pq:13][rq:22][sq:21][jr:26][qr:10][rr:11][sr:16][rs:12]C[a]
 ;B[do]
 ;W[rq]
 ;B[no]
@@ -157,7 +161,7 @@ GN[Zhou-Ruiyang-vs-Park-Junghwan-20150830]PW[Park Junghwan]PB[Zhou Ruiyang]WR[9p
 ;W[rq]
 ;B[jc]
 ;W[ic]
-(;B[kb]C[a]
+(;B[kb]LB[ma:47][kb:54][lb:42][nb:48][ob:43][ic:53][jc:52][dg:46][bh:51][ch:50][dh:45][ci:41][di:40][oi:38][do:35][no:37][rq:36][rr:49]C[a]
 ;W[jc]
 ;B[hb]
 ;W[ka]
@@ -165,18 +169,18 @@ GN[Zhou-Ruiyang-vs-Park-Junghwan-20150830]PW[Park Junghwan]PB[Zhou Ruiyang]WR[9p
 ;W[ip]
 ;B[hq]
 ;W[rq]
-;B[mg]C[a]
+;B[mg]LB[ka:60][hb:59][jc:58][mg:65][ip:62][hq:63][rq:64][rr:61]C[a]
 ;W[sp]
 ;B[hj]
 ;W[ii]
-;B[hk]C[a]
+;B[hk]LB[ii:68][hj:67][hk:69][sp:66]C[a]
 ;W[ll]
 ;B[hl]
 ;W[gr]
 ;B[jl]
-(;W[kl]C[a]
+(;W[kl]LB[hl:71][jl:73][kl:74][ll:70][gr:72]C[a]
 ;B[hp]
-(;W[lp]C[a]
+(;W[lp]LB[hp:75][lp:76]C[a]
 ;B[eo]
 ;W[bo]
 ;B[an]
@@ -185,17 +189,17 @@ GN[Zhou-Ruiyang-vs-Park-Junghwan-20150830]PW[Park Junghwan]PB[Zhou Ruiyang]WR[9p
 ;W[ap]
 ;B[pb]
 ;W[rf]
-;B[re]C[https://gogameguru.com/])
+;B[re]LB[pb:83][re:85][rf:84][an:79][bo:78][eo:77][ap:82][hr:80][ir:81]C[https://gogameguru.com/])
 (;W[eo]
 ;B[lm]
 ;W[km]
-;B[lp]C[a]))
+;B[lp]LB[km:3][lm:2][eo:1][lp:4]C[a]))
 (;W[hp]
-;B[lm]C[a]))
+;B[lm]LB[lm:2][hp:1]C[a]))
 (;B[rr]
 ;W[hb]
 ;B[ss]
-;W[fc]C[a]))
+;W[fc]LB[hb:2][fc:4][rr:1][ss:3]C[a]))
 (;W[el]
 ;B[di]
 ;W[rq]
@@ -213,7 +217,7 @@ GN[Zhou-Ruiyang-vs-Park-Junghwan-20150830]PW[Park Junghwan]PB[Zhou Ruiyang]WR[9p
 ;W[kk]
 ;B[gg]
 ;W[hg]
-;B[ge]C[a]))
+;B[ge]LB[ge:18][gg:16][hg:17][gh:11][kh:6][di:2][gi:7][ii:4][ji:5][gj:9][hj:8][gk:12][hk:10][ik:14][kk:15][el:1][fl:13][rq:3]C[a]))
 (;W[no]
 ;B[rm]
 ;W[rl]
@@ -221,13 +225,13 @@ GN[Zhou-Ruiyang-vs-Park-Junghwan-20150830]PW[Park Junghwan]PB[Zhou Ruiyang]WR[9p
 ;W[so]
 ;B[ro]
 ;W[sp]
-;B[rq]C[a]))
+;B[rq]LB[rl:3][rm:2][sm:4][no:1][ro:6][so:5][sp:7][rq:8]C[a]))
 (;W[ii]
-;B[jg]C[a]))
+;B[jg]LB[jg:2][ii:1]C[a]))
 (;B[kj]
 ;W[ki]
 ;B[lj]
-;W[kg]C[a]))
+;W[kg]LB[kg:4][ki:2][kj:1][lj:3]C[a]))
 (;W[fh]
 ;B[hi]
 ;W[di]
@@ -235,29 +239,29 @@ GN[Zhou-Ruiyang-vs-Park-Junghwan-20150830]PW[Park Junghwan]PB[Zhou Ruiyang]WR[9p
 ;W[gh]
 ;B[hk]
 ;W[dg]
-;B[lp]C[a]))
+;B[lp]LB[dg:7][fh:1][gh:5][di:3][hi:2][dk:4][hk:6][lp:8]C[a]))
 (;W[fi]
 ;B[hj]
 ;W[gj]
-;B[hi]LB[hl:B][jn:A]C[a]))
+;B[hi]LB[fi:1][hi:4][gj:3][hj:2][hl:B][jn:A]C[a]))
 (;W[ke]
 ;B[ig]
 ;W[kd]
 ;B[jg]
 ;W[gh]
-;B[gj]C[a]))
+;B[gj]LB[kd:3][ke:1][ig:2][jg:4][gh:5][gj:6]C[a]))
 (;W[gm]
 ;B[en]
 ;W[ij]
 ;B[jj]
 ;W[ii]
-;B[kh]C[a]))
+;B[kh]LB[kh:6][ii:5][ij:3][jj:4][gm:1][en:2]C[a]))
 (;B[oj]
 ;W[nj]
 ;B[ni]
 ;W[mj]
 ;B[oi]
-;W[lk]C[a]))
+;W[lk]LB[ni:3][oi:5][mj:4][nj:2][oj:1][lk:6]C[a]))
 (;W[jr]
 ;B[qi]
 ;W[ri]
@@ -267,11 +271,11 @@ GN[Zhou-Ruiyang-vs-Park-Junghwan-20150830]PW[Park Junghwan]PB[Zhou Ruiyang]WR[9p
 ;W[rg]
 ;B[rj]
 ;W[sh]
-;B[rk]C[a])
+;B[rk]LB[rg:7][qh:5][rh:4][sh:9][pi:6][qi:2][ri:3][rj:8][rk:10][jr:1]C[a])
 (;W[pi]
 ;B[qh]
 ;W[rg]
-;B[rj]C[a])))
+;B[rj]LB[rg:7][qh:6][rh:4][pi:5][qi:2][ri:3][rj:8][jr:1]C[a])))
 (;W[jr]
 ;B[mr]
 ;W[ks]
@@ -283,7 +287,7 @@ GN[Zhou-Ruiyang-vs-Park-Junghwan-20150830]PW[Park Junghwan]PB[Zhou Ruiyang]WR[9p
 ;W[op]
 ;B[no]
 ;W[lp]
-;B[oq]C[a]))
+;B[oq]LB[mo:8][no:10][lp:11][mp:7][np:6][op:9][jq:5][oq:12][jr:1][lr:4][mr:2][ks:3]C[a]))
 (;W[om]
 ;B[ol]
 ;W[nl]
@@ -292,7 +296,7 @@ GN[Zhou-Ruiyang-vs-Park-Junghwan-20150830]PW[Park Junghwan]PB[Zhou Ruiyang]WR[9p
 ;B[pj]
 ;W[mk]
 (;B[nj]
-;W[qj]C[a])
+;W[qj]LB[nj:8][pj:6][qj:9][mk:7][nk:4][ml:5][nl:3][ol:2][om:1]C[a])
 (;B[qj]
 ;W[rj]
 ;B[ri]
@@ -304,16 +308,16 @@ GN[Zhou-Ruiyang-vs-Park-Junghwan-20150830]PW[Park Junghwan]PB[Zhou Ruiyang]WR[9p
 ;B[oi]
 ;W[pi]
 ;B[oj]
-;W[rk]C[a]))
+;W[rk]LB[oi:16][pi:17][qi:15][ri:10][nj:14][oj:13][pj:6][qj:8][rj:9][mk:7][nk:4][ok:12][pk:11][rk:18][ml:5][nl:3][ol:2][om:1]C[a]))
 (;W[mo]
 ;B[pk]
 ;W[qj]))
 (;B[od]
-;W[lh]C[a]))
+;W[lh]LB[od:1][lh:2]C[a]))
 (;W[pf]
 ;B[od]
 ;W[nd]
-;B[oe]C[a]))
+;B[oe]LB[nd:3][od:2][oe:4][pf:1]C[a]))
 (;B[nd]
 ;W[oc]
 ;B[od]
@@ -321,25 +325,25 @@ GN[Zhou-Ruiyang-vs-Park-Junghwan-20150830]PW[Park Junghwan]PB[Zhou Ruiyang]WR[9p
 (;B[qb]
 ;W[pd]
 ;B[qc]
-;W[qf]C[a])
+;W[qf]LB[pb:4][qb:5][oc:2][qc:7][nd:1][od:3][pd:6][qf:8]C[a])
 (;B[pf]
 ;W[qb]
 ;B[qg]
-;W[ph]C[a])))
+;W[ph]LB[pb:4][qb:6][oc:2][nd:1][od:3][pf:5][qg:7][ph:8]C[a])))
 (;W[mc]
 ;B[nd]
 ;W[kd]
-;B[od]LB[jb:A]C[a]))
+;B[od]LB[jb:A][mc:1][kd:3][nd:2][od:4]C[a]))
 (;W[he]
-;B[hl]C[a]))
+;B[hl]LB[he:1][hl:2]C[a]))
 (;W[qf]
-;B[mn]C[a]))
+;B[mn]LB[qf:1][mn:2]C[a]))
 (;B[io]
 ;W[kp]
 ;B[kq]
 ;W[jp]
 ;B[ip]
-;W[im]C[a]))
+;W[im]LB[im:6][io:1][ip:5][jp:4][kp:2][kq:3]C[a]))
 (;W[kp]
 ;B[kq]
 ;W[ip]
@@ -353,13 +357,13 @@ GN[Zhou-Ruiyang-vs-Park-Junghwan-20150830]PW[Park Junghwan]PB[Zhou Ruiyang]WR[9p
 ;W[mp]
 ;B[lp]
 ;W[lm]
-;B[dk]C[a]))
+;B[dk]LB[dk:14][lm:13][jn:9][jo:5][ko:8][lo:10][hp:7][ip:3][jp:4][kp:1][lp:12][mp:11][jq:6][kq:2]C[a]))
 (;W[kq]
 ;B[fq]
 ;W[eq]
 ;B[fp]
 ;W[dn]
-;B[io]C[a]))
+;B[io]LB[dn:5][io:6][fp:4][eq:3][fq:2][kq:1]C[a]))
 (;B[hq]
 ;W[jq]
 ;B[jr]
@@ -369,20 +373,22 @@ GN[Zhou-Ruiyang-vs-Park-Junghwan-20150830]PW[Park Junghwan]PB[Zhou Ruiyang]WR[9p
 ;B[ir]
 ;W[kp]
 ;B[fp]
-;W[cm]C[a])
+;W[cm]LB[cm:10][fp:9][kp:8][cq:6][hq:1][jq:2][er:5][ir:7][jr:3][kr:4]C[a])
 (;W[ir]
 ;B[iq]
 ;W[hr]
 ;B[gq]
-;W[eq]LB[gr:B][kr:A]C[a])))
+;W[eq]LB[eq:8][gq:7][hq:1][iq:5][jq:2][gr:B][hr:6][ir:4][jr:3][kr:A]C[a])))
 (;B[pm]
 ;W[qq]
 ;B[oj]
 ;W[qi]
 ;B[mm]
-;W[cn]C[a]))
+;W[cn]LB[qi:4][oj:3][mm:5][pm:1][cn:6][qq:2]C[If Black still extends at 1, White will come back to the corner at 2. Black should reinforce the right side group with 3 to 5, and White will take sente.
+
+Black's opening]))
 (;W[pk]
-;B[pm]LB[qk:A][qq:B]C[a]))
+;B[pm]LB[pk:1][qk:A][pm:2][qq:B]C[If White hanes at 1, Black will extend at 2. After that, A and B are miai for Black, so White didn't hane at 1 in the game.]))
 (;B[qq]
 ;W[qo]
 ;B[ro]
@@ -390,20 +396,36 @@ GN[Zhou-Ruiyang-vs-Park-Junghwan-20150830]PW[Park Junghwan]PB[Zhou Ruiyang]WR[9p
 ;B[pm]
 ;W[qm]
 ;B[rn]
-;W[on]C[a]))
+;W[on]LB[qk:B][pl:A][pm:5][qm:6][on:8][pn:4][rn:7][qo:2][ro:3][qq:1]C[Entering the corner at Black 1 is also possible. White will play 2 to 8, and that's quite similar to the actual game.
+
+Zhou must have thought the exchange of Black A for White B would be benefitial for him, so he chose the actual game.]))
 (;W[qq]
-;B[qk]TR[pe][pg]C[a]))
+;B[qk]LB[qk:2][qq:1]TR[pe][pg]C[Responding at White 1 is a bit passive. White should take care of the marked stones after Black 2, and that's not what White wants.]))
 (;B[pf]
 ;W[of]
 ;B[qf]
 ;W[og]
 ;B[qh]
-;W[cn]C[a]))
+;W[cn]LB[of:2][pf:1][qf:3][og:4][qh:5][cn:6]C[Black 1 looks normal, but that will help White.
+
+White's center will become stronger with 2 to 4, and White will take sente as well.
+
+That's why Black 1 isn't right in this opening.]))
 (;W[ne]
 ;B[md]
 ;W[nd]
 ;B[pg]
 ;W[jb]
-;B[qn]C[a]))
+;B[qn]LB[jb:5][md:2][nd:3][ne:1][pg:4][qn:6]C[Jumping at White 1 is original shape, but then White 5 is necessary, and Black will develop the opening rapidly up to Black 6.
+
+That's why White chose other way for White 1 in the actual game.]))
 (;W[kc]
-;B[ic]C[a]))
+;B[ic]LB[ic:2][kc:1][cf:A]C[Extending at White 1 is also possible, but approaching at Black 2 is very good especially with A, so White 1 is not often played in this opening.]))
+(;W[od]
+;B[oc]
+;W[nc]
+;B[pc]
+;W[md]
+;B[qf]
+;W[ic]
+;B[gc]LB[gc:8][ic:7][nc:3][oc:2][pc:4][md:5][od:1][qf:6]C[Approaching at White 1 is also possible, and the opening up to Black 8 is also very popular these days.]))
