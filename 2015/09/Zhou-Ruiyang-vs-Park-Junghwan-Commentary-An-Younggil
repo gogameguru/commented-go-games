@@ -23,24 +23,30 @@ Coming out at A isn't powerful, because White's stones in that area are pretty l
 (;W[ql]LB[ql:16][rp:15][nq:14]C[pincering at White 16 was a good idea, because the right side is more valuable than the bottom right corner in this opening.]
 (;B[pl]LB[pl:17]C[Attaching at Black 17 was interesting.]
 (;W[qk]LB[qk:18]C[Extending at White 18 was calm and nice.]
-(;B[qq]LB[qq:19]C[a]
+(;B[qq]LB[qk:B][pl:A][qq:19]C[Black 19 was the right choice. 
+
+Zhou might have thought the exchange of Black A for White B would be benefitial for Black.]
 ;W[pn]
 ;B[pm]
 ;W[qm]
 ;B[rn]
 ;W[on]
-(;B[iq]LB[pm:21][qm:22][on:24][pn:20][rn:23][iq:25]C[a]
-(;W[gq]LB[gq:26]C[a]
+(;B[iq]LB[pl:A][pm:21][qm:22][on:24][pn:20][rn:23][iq:25]C[White 20 was necessary to cut Black A off to develop his formation.
+
+Black 21 to White 24 were the right exchanges, and Black splits the bottom with 25.]
+(;W[gq]LB[gq:26]C[Extending from the bottom left corner at White 26 was the right direction.]
 ;B[lq]
-(;W[kn]LB[kn:28][lq:27]C[a]
-(;B[jo]LB[jo:29]C[a]
+(;W[kn]LB[kn:28][lq:27]C[Black 27 was expected, and White 28 was a nice sense over the center.]
+(;B[jo]LB[jo:29]C[Black 29 doesn't look nice, but that was the proper move in this situation.]
 ;W[im]
 ;B[ho]
-(;W[ko]LB[im:30][ho:31][ko:32]C[a]
+(;W[ko]LB[im:30][ho:31][ko:32]C[Black 31 was a good followup, and White 32 was necessary to look after his weaknesses over the center.]
 ;B[gn]
 ;W[eq]
 ;B[dm]
-(;W[gl]LB[gl:36][dm:35][gn:33][eq:34]C[a]
+(;W[gl]LB[gl:36][dm:35][gn:33][eq:34]C[Black 33 looks slow, but was the right move, and Black 35 was a good place to limit White's potential from the bottom left, and develop his own formation from the left side.
+
+White 36 was natural as well.]
 ;B[co]
 ;W[cp]
 ;B[dj]
@@ -48,9 +54,11 @@ Coming out at A isn't powerful, because White's stones in that area are pretty l
 ;B[ld]
 ;W[lc]
 ;B[md]
-(;W[kc]LB[kc:44][lc:42][ld:41][md:43][he:40][dj:39][co:37][cp:38]C[a]
-(;B[of]LB[of:45]C[a]
-(;W[og]LB[og:46]C[a]
+(;W[kc]LB[kc:44][lc:42][ld:41][md:43][he:40][dj:39][co:37][cp:38]C[Black 37 and 39 were cool, and the opening up to there was smooth for Black.
+
+Zhou's style of play is compact and he likes simple and light shapes.]
+(;B[of]LB[of:45]C[Peeping at Black 45 was a brilliant idea.]
+(;W[og]LB[of:A][og:46]C[Pushing up at White 46 was the correct response, but Black A is still working well.]
 ;B[nd]
 ;W[oc]
 ;B[pf]
@@ -313,11 +321,13 @@ Coming out at A isn't powerful, because White's stones in that area are pretty l
 ;B[pk]
 ;W[qj]))
 (;B[od]
-;W[lh]LB[od:1][lh:2]C[a]))
+;W[lh]LB[od:1][lh:2]C[Responding at Black 1]))
 (;W[pf]
 ;B[od]
 ;W[nd]
-;B[oe]LB[nd:3][od:2][oe:4][pf:1]C[a]))
+;B[oe]LB[nd:3][od:2][oe:4][of:A][pf:1]C[If White connects at 1, Black will walk out with 2, and 3 and 4 will be miai for Black.
+
+The exchange of Black A for White 1 makes the White stones heavy.]))
 (;B[nd]
 ;W[oc]
 ;B[od]
@@ -325,25 +335,27 @@ Coming out at A isn't powerful, because White's stones in that area are pretty l
 (;B[qb]
 ;W[pd]
 ;B[qc]
-;W[qf]LB[pb:4][qb:5][oc:2][qc:7][nd:1][od:3][pd:6][qf:8]C[a])
+;W[qf]LB[pb:4][qb:5][oc:2][qc:7][nd:1][od:3][pd:6][qf:8]C[Pushing directly from 1 is clumsy. The hane at White 4 is a good sequence, and Black's four stones will be disconnected and floating up to Wite 8.])
 (;B[pf]
 ;W[qb]
 ;B[qg]
-;W[ph]LB[pb:4][qb:6][oc:2][nd:1][od:3][pf:5][qg:7][ph:8]C[a])))
+;W[ph]LB[pb:4][qb:6][oc:2][nd:1][od:3][pf:5][qg:7][ph:8]C[Wedging at Black 5 is right, but White will still be happy to enter the corner with 6.])))
 (;W[mc]
 ;B[nd]
 ;W[kd]
-;B[od]LB[jb:A][mc:1][kd:3][nd:2][od:4]C[a]))
+;B[od]LB[jb:A][mc:1][kd:3][nd:2][od:4]C[White 1 to 3 isn't a good option, because sliding at A is sente for Black, and that's painful for White.]))
 (;W[he]
-;B[hl]LB[he:1][hl:2]C[a]))
+;B[hl]LB[he:1][hl:2]C[If White plays elsewhere like 1, Black 2 will become the pivot point of the influence.]))
 (;W[qf]
-;B[mn]LB[qf:1][mn:2]C[a]))
+;B[mn]LB[qf:1][mn:2]C[If White plays elsewhere such as 1 instead of 32, Black will play 2 to counnter. White's shape in this area isn't strong enough, so White reinforced the center area in the actual game.]))
 (;B[io]
 ;W[kp]
 ;B[kq]
 ;W[jp]
 ;B[ip]
-;W[im]LB[im:6][io:1][ip:5][jp:4][kp:2][kq:3]C[a]))
+;W[im]LB[im:6][io:1][ip:5][jp:4][kp:2][kq:3]C[Jumping at Black 1 is lack of strategy and what White wants. White will play 2 to 6, and Black's lower side group will lose flexibility. 
+
+That's why Black didn't jump at 1 in the actual game.]))
 (;W[kp]
 ;B[kq]
 ;W[ip]
@@ -357,13 +369,15 @@ Coming out at A isn't powerful, because White's stones in that area are pretty l
 ;W[mp]
 ;B[lp]
 ;W[lm]
-;B[dk]LB[dk:14][lm:13][jn:9][jo:5][ko:8][lo:10][hp:7][ip:3][jp:4][kp:1][lp:12][mp:11][jq:6][kq:2]C[a]))
+;B[dk]LB[dk:14][lm:13][jn:9][jo:5][ko:8][lo:10][hp:7][ip:3][jp:4][kp:1][lp:12][mp:11][jq:6][kq:2]C[White 1 to 3 is also conceivable, but then Black will take sente up to White 13.
+
+Black can play the left side at around 14, and that's not satisfactory result for White.]))
 (;W[kq]
 ;B[fq]
 ;W[eq]
 ;B[fp]
 ;W[dn]
-;B[io]LB[dn:5][io:6][fp:4][eq:3][fq:2][kq:1]C[a]))
+;B[io]LB[dn:5][io:6][fp:4][eq:3][fq:2][kq:1]C[Extending at White 1 is wrong direction, because Black will settle easily up to 6.]))
 (;B[hq]
 ;W[jq]
 ;B[jr]
@@ -373,20 +387,26 @@ Coming out at A isn't powerful, because White's stones in that area are pretty l
 ;B[ir]
 ;W[kp]
 ;B[fp]
-;W[cm]LB[cm:10][fp:9][kp:8][cq:6][hq:1][jq:2][er:5][ir:7][jr:3][kr:4]C[a])
+;W[cm]LB[cm:10][fp:9][kp:8][cq:6][hq:1][jq:2][er:5][ir:7][jr:3][kr:4]C[Spliting at Black 1 is also conceivable. If White extends at 2, attaching at Black 3 will be a good continuation.
+
+The result up to White 10 is one of possible variations, and that'll be playable for both.])
 (;W[ir]
 ;B[iq]
 ;W[hr]
 ;B[gq]
-;W[eq]LB[eq:8][gq:7][hq:1][iq:5][jq:2][gr:B][hr:6][ir:4][jr:3][kr:A]C[a])))
+;W[eq]LB[jp:C][eq:8][gq:7][hq:1][iq:5][jq:2][gr:B][hr:6][ir:4][jr:3][kr:A]C[However, Zhou might have worried about White 4. If Black plays 5 to 7, White will play 8 and A and B will be miai for White.
+
+After Black A and White B, the ladder from C doesn't favor for Black, so Zhou didn't split at 1 in the actual game.]))
+(;B[fq]
+;W[iq]LB[fq:1][hq:A][iq:2]C[If Black approaches at 1, White will pincer at 2 or A, and the lower side will become well balanced with the influence from the bottom right.]))
 (;B[pm]
 ;W[qq]
 ;B[oj]
 ;W[qi]
 ;B[mm]
-;W[cn]LB[qi:4][oj:3][mm:5][pm:1][cn:6][qq:2]C[If Black still extends at 1, White will come back to the corner at 2. Black should reinforce the right side group with 3 to 5, and White will take sente.
+;W[cn]LB[qi:4][oj:3][mm:5][pm:1][cn:6][qq:2]C[If Black still extends at 1, White will come back to the corner at 2. Black should reinforce the right side group with 3 to 5, and White will play 6 with sente.
 
-Black's opening]))
+Black is slow in this variation.]))
 (;W[pk]
 ;B[pm]LB[pk:1][qk:A][pm:2][qq:B]C[If White hanes at 1, Black will extend at 2. After that, A and B are miai for Black, so White didn't hane at 1 in the game.]))
 (;B[qq]
