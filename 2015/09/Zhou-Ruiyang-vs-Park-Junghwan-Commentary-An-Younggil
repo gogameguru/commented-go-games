@@ -63,49 +63,67 @@ Zhou's style of play is compact and he likes simple and light shapes.]
 ;W[oc]
 ;B[pf]
 ;W[qg]
-(;B[mh]LB[oc:48][nd:47][pf:49][qg:50][mh:51]C[a]
+(;B[mh]LB[oc:48][nd:47][pf:49][qg:50][mh:51]C[Black 47 to Black 49 was the good move order, and reducing White's area with Black 51 was appropriate.]
 ;W[od]
 ;B[qf]
 ;W[ng]
 ;B[nm]
-(;W[kp]LB[od:52][qf:53][ng:54][nm:55][kp:56]C[a]
+(;W[kp]LB[od:52][qf:53][ng:54][mh:A][nm:55][kp:56]C[White 52 to White 54 was also a good idea to attack Black A.
+
+Black 55 was a well timed probe, and White 56 was questionable.]
 ;B[nn]
 ;W[kq]
 ;B[kr]
-(;W[mp]LB[nn:57][mp:60][kq:58][kr:59]C[a]
+(;W[mp]LB[nn:57][mp:60][kq:58][kr:59]TR[sf]C[Black 59 was persistent, and White 60 was inevitable.
+
+The exchange of White 58 for Black 59 became bad for White, and the flow of the game became favorable for Black here.]
 ;B[pk]
 ;W[qj]
 ;B[pj]
-(;W[qi]LB[qi:64][pj:63][qj:62][pk:61]C[a]
+(;W[qi]LB[qi:64][pj:63][qj:62][pk:61]C[Black 61 and 63 were useful exchanges for Black in sente, and White 64 was inevitable.]
 ;B[mr]
 ;W[om]
 ;B[nl]
 ;W[ol]
 ;B[nk]
 ;W[ok]
-(;B[nj]LB[nj:71][nk:69][ok:70][nl:67][ol:68][om:66][mr:65]C[a]
+(;B[nj]LB[nj:71][nk:69][ok:70][nl:67][ol:68][om:66][mr:65]TR[pj][pk][pl][pm]C[Black came back to 65, and White pushed through from 66, but that was a bit too late.
+
+Black 67 to Black 71 was a good decision to sacrifice the marked stones.
+
+Zhou thought the game was good enough with this, and that was exactly right.]
 ;W[oj]
 ;B[jk]
-(;W[pr]LB[oj:72][jk:73][pr:74]C[a]
+(;W[pr]LB[oj:72][jk:73][nn:A][pr:74]C[White 72 was necessary, and Black 73 showed a good sense in the center.
+
+Zhou is good at balance, and he has a special sense in the center area, and Black's moves in this area from A (Black 57) showed his strength.
+
+On the other hand, Park is relatively better at close combat and complicated battles, but Zhou didn't give Park good chances to do that so far.]
 ;B[ie]
 ;W[id]
 ;B[hd]
 ;W[hf]
 ;B[je]
-(;W[jb]LB[jb:80][hd:77][id:76][ie:75][je:79][hf:78]C[a]
+(;W[jb]LB[jb:80][hd:77][id:76][ie:75][je:79][hf:78][pr:74]C[White 74 was half sente, but Black didn't care and he attached at 75 to fight. That was a very good idea to maintain his initiative, and Black's bottom right corner will be a ko even if White plays first.
+
+White 80 was necessary to take care of his own group first.]
 ;B[kd]
 ;W[ib]
 ;B[ed]
-(;W[ej]LB[ib:82][ed:83][kd:81][ej:84]C[a]
+(;W[ej]LB[ib:82][ed:83][kd:81][ej:84]C[Black 81 was sente, and Black 83 was a solid reinforcement.
+
+White 84 was Park's style of play, but the situation was already not easy for White to control the center area.]
 ;B[ek]
 ;W[fk]
 ;B[fj]
 ;W[ei]
 ;B[fi]
-(;W[ij]LB[ei:88][fi:89][fj:87][ij:90][ek:85][fk:86]C[a]
+(;W[ij]LB[ei:88][fi:89][fj:87][ij:90][ek:85][fk:86]C[Black 85 to Black 89 were strong and powerful, and White played 90 to threaten Black's center group.]
 ;B[eh]
 ;W[jj]
-(;B[jh]LB[eh:91][jh:93][jj:92]C[a]
+(;B[jh]LB[eh:91][jh:93][jj:92]C[Black 91 was a very good move, and all the bad aji's removed from the left side.
+
+White 92 was to attack, and Black 93 was another nice move to manage the situation lightly.]
 ;W[lj]
 ;B[ki]
 ;W[kj]
@@ -247,29 +265,35 @@ Zhou's style of play is compact and he likes simple and light shapes.]
 ;W[gh]
 ;B[hk]
 ;W[dg]
-;B[lp]LB[dg:7][fh:1][gh:5][di:3][hi:2][dk:4][hk:6][lp:8]C[a]))
+;B[lp]LB[dg:7][fh:1][gh:5][di:3][hi:2][dk:4][hk:6][lp:8]TR[fk][gl][im][kn][ko][kp][kq]C[White 1 is also conceivable, but then Black will play 2 to 6. White 7 is necessary to take care of the weak group, but Black 8 is severe, and there's no way for White to rescue the marked stones in teh center.]))
 (;W[fi]
 ;B[hj]
 ;W[gj]
-;B[hi]LB[fi:1][hi:4][gj:3][hj:2][hl:B][jn:A]C[a]))
+;B[hi]LB[fi:1][hi:4][gj:3][hj:2][hl:B][jn:A]C[If White plays 1 to reduce Black's left side, Black will play 2 to 4 to strengthen the center group.
+
+White has two weaknesses at A and B, so White didn't choose 1 in the actual game.]))
 (;W[ke]
 ;B[ig]
 ;W[kd]
 ;B[jg]
 ;W[gh]
-;B[gj]LB[kd:3][ke:1][ig:2][jg:4][gh:5][gj:6]C[a]))
+;B[gj]LB[kd:3][ke:1][ig:2][jg:4][gh:5][gj:6]C[The hane at White 1 is the wrong direction. Black will play 2 to 4 to strengthen his center group.
+
+If White plays 5 next, Black will play 6 to divide White in two, and that'll be a very tough game for White.]))
 (;W[gm]
 ;B[en]
 ;W[ij]
 ;B[jj]
 ;W[ii]
-;B[kh]LB[kh:6][ii:5][ij:3][jj:4][gm:1][en:2]C[a]))
+;B[kh]LB[kh:6][ii:5][ij:3][jj:4][gm:1][en:2]C[If White plays 1 to 5 to attack Black's center group, Black will play 6 to make a nice shape in the center.
+
+This sort of direct attack doesn't succeed easily in top players' games.]))
 (;B[oj]
 ;W[nj]
 ;B[ni]
 ;W[mj]
 ;B[oi]
-;W[lk]LB[ni:3][oi:5][mj:4][nj:2][oj:1][lk:6]C[a]))
+;W[lk]LB[mh:A][ni:3][oi:5][mj:4][nj:2][oj:1][lk:6]TR[nk][nl][nm][nn]C[Blocking at Black 1 is greedy. White will cut at 2 to capture the other four stones, and the group A is still in danger.]))
 (;W[jr]
 ;B[qi]
 ;W[ri]
@@ -279,11 +303,11 @@ Zhou's style of play is compact and he likes simple and light shapes.]
 ;W[rg]
 ;B[rj]
 ;W[sh]
-;B[rk]LB[rg:7][qh:5][rh:4][sh:9][pi:6][qi:2][ri:3][rj:8][rk:10][jr:1]C[a])
+;B[rk]LB[rg:7][qh:5][rh:4][sh:9][pi:6][qi:2][ri:3][rj:8][rk:10][jr:1]TR[qj][qk][ql][qm]C[If White plays elsewhere like White 1, Black 2 to 4 will be a good combination. If White responds with 5 to 7, Black will capture the marked stones.])
 (;W[pi]
 ;B[qh]
 ;W[rg]
-;B[rj]LB[rg:7][qh:6][rh:4][pi:5][qi:2][ri:3][rj:8][jr:1]C[a])))
+;B[rj]LB[rg:7][qh:6][rh:4][pi:5][qi:2][ri:3][rj:8][jr:1]C[If White cuts at 5 instead, Black will cut at 8, and that's still troublesome for White.])))
 (;W[jr]
 ;B[mr]
 ;W[ks]
@@ -295,7 +319,7 @@ Zhou's style of play is compact and he likes simple and light shapes.]
 ;W[op]
 ;B[no]
 ;W[lp]
-;B[oq]LB[mo:8][no:10][lp:11][mp:7][np:6][op:9][jq:5][oq:12][jr:1][lr:4][mr:2][ks:3]C[a]))
+;B[oq]LB[mo:8][no:10][lp:11][mp:7][np:6][op:9][jq:5][oq:12][jr:1][lr:4][mr:2][ks:3]TR[on][pn][pp]C[If White hanes at 1 to cut Black off, Black will attach at 6 to manage the situation. White 11 was necessary, and Black will cut at 12 to capture White's marked stones in sente. That'll be a satisfactory result for Black.]))
 (;W[om]
 ;B[ol]
 ;W[nl]
@@ -304,7 +328,7 @@ Zhou's style of play is compact and he likes simple and light shapes.]
 ;B[pj]
 ;W[mk]
 (;B[nj]
-;W[qj]LB[nj:8][pj:6][qj:9][mk:7][nk:4][ml:5][nl:3][ol:2][om:1]C[a])
+;W[qj]LB[nj:8][pj:6][qj:9][mk:7][nk:4][ml:5][nl:3][ol:2][om:1]C[White should push through and cut with 1 to 3. The variation up to White 9 is still playable for both.])
 (;B[qj]
 ;W[rj]
 ;B[ri]
@@ -316,12 +340,15 @@ Zhou's style of play is compact and he likes simple and light shapes.]
 ;B[oi]
 ;W[pi]
 ;B[oj]
-;W[rk]LB[oi:16][pi:17][qi:15][ri:10][nj:14][oj:13][pj:6][qj:8][rj:9][mk:7][nk:4][ok:12][pk:11][rk:18][ml:5][nl:3][ol:2][om:1]C[a]))
+;W[rk]LB[oi:16][pi:17][qi:15][ri:10][nj:14][oj:13][pj:6][qj:8][rj:9][mk:7][nk:4][ok:12][pk:11][rk:19][ml:5][nl:3][ol:2][om:1]C[White doesn't have to worry about Black's blocking at 8. That's because White 11 to 15 was a nice sequence, and there's no problem to connect up to White 19.]))
 (;W[mo]
 ;B[pk]
-;W[qj]))
+;W[qj]
+;B[pj]
+;W[qi]
+;B[mj]LB[qi:5][mj:6][pj:4][qj:3][pk:2][mo:1]C[Responding at White 1 is slack. Black will push at 2 to 4 in sente, and make eye-shape in the center with 6. That'll be hard for White to attack this center group severely afterwards.]))
 (;B[od]
-;W[lh]LB[od:1][lh:2]C[Responding at Black 1]))
+;W[lh]LB[od:1][lh:2]C[Responding at Black 1 was solid but too slow. White will enlarge the center area from the right side nicely with 2.]))
 (;W[pf]
 ;B[od]
 ;W[nd]
