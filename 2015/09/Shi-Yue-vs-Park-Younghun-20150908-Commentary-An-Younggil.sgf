@@ -16,15 +16,21 @@ That's quite rare for Park to approach here, because he prefers general openings
 ;B[qp]
 ;W[pn]
 ;B[nq]
-(;W[qh]LB[qh:12][pn:10][qn:8][qp:9][nq:11]C[a]
+(;W[qh]LB[qh:12][pn:10][qn:8][qp:9][nq:11]C[White 8 to Black 11 is normal, and White 12 was a new style of extension.]
 ;B[pe]
 ;W[ne]
-(;B[pc]LB[pc:15][ne:14][pe:13]C[a]
+(;B[pc]LB[pc:15][ne:14][pe:13][qh:12]C[White 14 was a good followup to 12, and Black 15 was territorial move.]
 ;W[oh]
-(;B[ob]LB[ob:17][oh:16]C[a]
-(;W[cn]LB[cn:18]C[a]
+(;B[ob]LB[ob:17][oh:16]C[White 16 was a nice jump, and it looks as if Park researched about this opening before this game.
+
+The hane at Black 17 looks slow, but that's bigger than it looks.]
+(;W[cn]LB[ob:17][cn:18]TR[qo][qp][nq][pq]C[White didn't answer to Black 17, but approached the bottom left corner with 18.
+
+That was the right direction, because Black's bottom right corner is already safe and solid.]
 ;B[dk]
-(;W[cq]LB[dk:19][cq:20]C[a]
+(;W[cq]LB[dk:19][cq:20]C[Black chose to pincer at 19, and White entered the corner with 20.
+
+Park likes simple and plain opening, because he's very strong at the endgame. Meanwhile, Shi seems to like tough and fighting oriented opening.]
 ;B[cp]
 ;W[dq]
 ;B[ep]
@@ -35,7 +41,9 @@ That's quite rare for Park to approach here, because he prefers general openings
 ;W[fq]
 ;B[cf]
 ;W[fc]
-(;B[pl]LB[fc:30][cf:29][pl:31][bo:25][co:27][bp:24][cp:21][ep:23][bq:26][dq:22][fq:28]C[a]
+(;B[pl]LB[fc:30][cf:29][pl:31][bo:25][co:27][bp:24][cp:21][ep:23][bq:26][dq:22][fq:28]C[After the joseki up to White 28, Black 29 was the right direction to develop the left side.
+
+Black 31 was active and severe, and that was Shi's typical style of move.]
 (;W[mn]LB[mn:32]C[a]
 ;B[rl]
 ;W[rm]
@@ -423,13 +431,13 @@ https://gogameguru.com/])
 (;W[rl]
 ;B[rm]
 (;W[rn]
-;B[rk]LB[rk:4][rl:1][rm:2][rn:3]C[a])
+;B[rk]LB[rk:4][rl:1][rm:2][rn:3]C[White 1 is weak and passive. Black can even attach at 2 to separate White groups.])
 (;W[ql]
 ;B[rn]
 ;W[qm]
-;B[ef]LB[ef:6][ql:3][rl:1][qm:5][rm:2][rn:4]C[a])))
+;B[ef]LB[ef:6][ql:3][rl:1][qm:5][rm:2][rn:4]C[If White responds at 3, Black will connect with 4 in sente. That's satisfactory for Black.])))
 (;B[ef]
-;W[bd]LB[bd:2][ef:1]C[a])
+;W[bd]LB[bd:2][ef:1]C[Jumping at Black 1 is nice to enlarge his left side, but White 2 is also nice to save the corner. Shi didn't play 1 partly because that's what Park would like.])
 (;B[pk]
 ;W[nk]
 ;B[pi]
@@ -443,7 +451,7 @@ https://gogameguru.com/])
 ;B[rg]
 ;W[qi]
 ;B[pj]
-;W[rf]LB[qf:10][rf:14][pg:8][qg:9][rg:11][ph:7][oi:4][pi:3][qi:12][nj:6][oj:5][pj:13][nk:2][pk:1]C[a]))
+;W[rf]LB[qf:10][rf:14][pg:8][qg:9][rg:11][ph:7][oi:4][pi:3][qi:12][nj:6][oj:5][pj:13][nk:2][pk:1]C[Invading at Black 1 isn't proper. Capping at White 2 is nice, and Black's cutting from 5 to 9 doesn't work very well.]))
 (;W[ci]
 ;B[dn]
 ;W[dm]
@@ -453,25 +461,33 @@ https://gogameguru.com/])
 ;W[em]
 ;B[cl]
 ;W[cm]
-;B[fp]LB[ci:1][cl:8][cm:9][dm:3][em:7][dn:2][en:4][co:5][cp:6][fp:10]C[a]))
+;B[fp]LB[ci:1][cl:8][cm:9][dm:3][em:7][dn:2][en:4][co:5][cp:6][fp:10]C[The reverse pincer at White 1 is also conceivable. Black 2 to 10 is one of main variations from White 1, and that's still playable for both.
+
+However, Park doesn't like that sort of fighting style of opening, so he simply entered the corner in the actual game.]))
 (;W[nb]
 ;B[nc]
 ;W[mc]
 ;B[od]
 ;W[nd]
-;B[cf]))
+;B[cf]LB[nb:1][mc:3][nc:2][nd:5][od:4][cf:6]C[Reponding at White 1 is slow. Black will approach at 6 with sente, and the exchange from Black 1 to White 5 is benefitial for Black.]))
 (;B[cf]
 ;W[ob]
 ;B[pb]
 ;W[fd]
 ;B[dj]
-;W[jd]LB[ob:2][pb:3][fd:4][jd:6][cf:1][dj:5]C[a]))
+;W[jd]LB[ob:2][pb:3][fd:4][jd:6][cf:1][dj:5]C[Approaching to the top left corner with Black 1 is also possible.
+
+White will develop the top up to 6, and that's still well balanced between Black's territory and White's influence.]))
 (;B[og]
 ;W[pj]
-;B[pc]LB[pc:3][og:1][pj:2]C[a]))
+;B[pc]LB[pc:3][og:1][pj:2]C[Black 1 looks strange, but that's also conceivable. White 2 is necessary, and Black can come back to 3.
+
+This is another game.]))
 (;W[qg]
 ;B[pe]
-;W[ne]LB[ne:3][pe:2][qg:1][qj:A]C[Pincering at White 1 is normal, and White 3 is ]))
+;W[ne]LB[ne:3][pe:2][qg:1][qj:A]C[Pincering at White 1 is normal, and White 3 is recently researched move.
+
+Extending at A for White 3 is also possible.]))
 (;B[kd]
 ;W[qq]
 ;B[pc]
