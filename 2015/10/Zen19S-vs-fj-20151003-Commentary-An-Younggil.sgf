@@ -1,7 +1,43 @@
-(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+﻿(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
 RU[Japanese]SZ[19]KM[6.50]TM[1800]OT[5x40 byo-yomi]
-GN[Zen19S-vs-fj-20151003]PW[fj]PB[Zen19S]WR[6d]DT[2015-10-03]PC[KGS Go Server]SO[https://gogameguru.com/]RE[B+1.50]
-;B[pd]LB[pd:1]C[Zen19S plays Black, and fj plays White.]
+GN[Zen19S-vs-fj-20151003]PW[Franz-Josef Dickhut]PB[Zen19S]WR[6d]DT[2015-10-03]EV[2nd Codecentric Go Challenge]RO[Game 1]PC[KGS Go Server]WT[Human]BT[Computer]SO[https://gogameguru.com/]AN[An Younggil 8p]C[The 2nd Codecentric Go Challenge began on October 3, 2015, with the computer Go program Zen challenging 11 time German Go champion Franz-Josef Dickhut (aka FJ) in the first game of a best of five match.
+
+The Codecentric Go Challenge is an annual best of five match between a top computer Go program and a top amateur Go player.
+
+The first iteration of the tournament was held in 2014 and the event is sponsored by Codecentric - an IT consulting company based in Germany.
+
+In 2014, Dickhut defeated CrazyStone (another top Go AI) with a 3-1 score, after losing the first game. This year, he's facing CrazyStone's rival, Zen.
+
+Zen is the brainchild of two people - Yoji Ojima and Hideki Kato - who together form Team DeepZen, based in Japan.
+
+For this match, Zen is using a parallelized implementation of its code, developed by Hideki. This means that it can efficiently carry out many calculations simultaneously (in parallel) when it has access to a computer cluster (multiple computers at once). This version of Zen is stronger than the commercial version when clustered.
+
+Zen is running on a four PC cluster consisting of:
+
+A dual 12-core Xeon E5-2690 v3 at 2.6 GHz, with 32 GB RAM,
+a dual 10-core Xeon E5-2690 v2 at 3 GHz, with 32 GB RAM,
+a dual 6-core Xeon X5680 at 3.5 GHz, with 8 GB RAM, and
+an 8-core Core i7 5960X at 3 GHz, with 16 GB RAM.
+
+And Dickhut is running on a human brain ;)
+
+For more information about the match and to read an interview with both teams, please visit the Codecentric website: https://blog.codecentric.de/en/2015/10/codecentric-go-challenge-2015/
+
+The next game will be played this weekend, on Saturday October 17, at 2:00 PM German time. That's Saturday, 17 October at:
+
+5:00 AM US Pacific Daylight Time
+8:00 AM US Eastern Daylight Time
+12:00 PM UTC
+2:00 PM Central European Summer Time
+9:00 PM Japanese Standard Time, and
+11:00 PM Australian Eastern Daylight Time.
+
+You can watch the game on the KGS Go Server at: http://www.gokgs.com/ (look for the game between fj and Zen19S)
+
+More information about the match schedule is available here: https://go.codecentric.de/
+
+Let's have a look at the game!]RE[B+1.50]
+;B[pd]LB[pd:1]C[Zen19S plays Black, and Dickhut plays White.]
 ;W[dd]
 ;B[pp]
 ;W[eq]
@@ -117,7 +153,7 @@ Black 91 looks weird, but that was an interesting move.]
 ;W[en]
 (;B[nm]LB[jm:93][nm:95][en:94][jn:92]C[White 92 and 94 were a good move order, and Black 95 was the vital point of White's shape.]
 ;W[oo]
-(;B[nn]LB[nn:97][oo:96]C[White 96 was a correct response, and Black 97 was fighting spirit (Probably not, because Zen wouldn't yet play by fighting spirit).]
+(;B[nn]LB[nn:97][oo:96]C[White 96 was a correct response, and Black 97 was fighting spirit (probably not, because Zen wouldn't yet play by fighting spirit).]
 ;W[no]
 ;B[mm]
 ;W[op]
@@ -267,7 +303,7 @@ I can see Zen's improvement since I watched his games against Takemiya Masaki 9p
 
 Zen seems to be particularly very good at playing in the center area and sacrificing his stones. Zen used to be relatively weak at ko fight, but there weren't any chances to see his development from this game.
 
-Meanwhile, fj also played quite well, and he showed beautiful haengma from White 30 to 40. He maintained his lead up to the early endgame stage smoothly, but he didn't manage the close combat very well in the top left corner area, and Zen managed to reverse the game with completing a huge territory in the center.
+Meanwhile, Dickhut also played quite well, and he showed beautiful haengma from White 30 to 40. He maintained his lead up to the early endgame stage smoothly, but he didn't manage the close combat very well in the top left corner area, and Zen managed to reverse the game with completing a huge territory in the center.
 
 I hope you to enjoy watching this interesting and impressive game between human and machine with this commentary, and if you have any questions or opinions, please feel free to leave a comment.
 
@@ -331,14 +367,14 @@ If White connects at A for White 5, Black will connect at 5, and that's still tr
 ;B[kc]
 ;W[ib]
 ;B[jb]
-;W[ic]LB[ib:7][jb:8][ic:9][jc:5][kc:6][id:3][fe:1][ie:4][ff:2]C[The hane at White 1 would have been benefitial. If Black and White play the same as the actual game, the exchange of White 1 for Black 2 is still useful for White.]))
+;W[ic]LB[ib:7][jb:8][ic:9][jc:5][kc:6][id:3][fe:1][ie:4][ff:2]C[The hane at White 1 would have been beneficial. If Black and White play the same as the actual game, the exchange of White 1 for Black 2 is still useful for White.]))
 (;B[hn]
 ;W[km]
 ;B[jl]
 ;W[ln]
 ;B[kl]LB[cd:B][jl:3][kl:5][km:2][cn:A][hn:1][ln:4]TR[mo][mp][np][nq][oq]C[Black could connect at 1. White would play 2 to 4 to capture the marked stones, but White has to come back at A pretty soon. 
 
-Cutting at B will be quite big for Black afterwards, and in overall, the result would be  for Black.]))
+Cutting at B will be quite big for Black afterwards, and in overall, the result would be for Black.]))
 (;W[bf]
 ;B[cd]
 ;W[be]
@@ -357,7 +393,7 @@ Cutting at B will be quite big for Black afterwards, and in overall, the result 
 ;B[eg]
 ;W[he]
 ;B[gf]
-;W[hf]LB[cd:1][ed:7][fd:6][hd:9][fe:5][ge:10][he:13][bf:2][df:3][ef:8][ff:11][gf:14][hf:15][bg:4][eg:12]C[The solid connection at White 1 would be better. If Black tries to cut with 2 to 4, White 5 will be sharp tesuji to break through the center. If Black responds at 6, attaching at White 9 is another following tesuji to eraze the center territory.])
+;W[hf]LB[cd:1][ed:7][fd:6][hd:9][fe:5][ge:10][he:13][bf:2][df:3][ef:8][ff:11][gf:14][hf:15][bg:4][eg:12]C[The solid connection at White 1 would be better. If Black tries to cut with 2 to 4, White 5 will be sharp tesuji to break through the center. If Black responds at 6, attaching at White 9 is another following tesuji to erase the center territory.])
 (;B[df]
 ;W[bf]
 ;B[eg]
@@ -404,7 +440,7 @@ Cutting at B will be quite big for Black afterwards, and in overall, the result 
 ;B[jj]
 ;W[jn]
 ;B[im]
-;W[hc]LB[hc:6][ff:1][jj:3][kk:2][im:5][jn:4]C[Black 1 is also tempthing to enclose the center area, and the game would be very close up to White 6.]))
+;W[hc]LB[hc:6][ff:1][jj:3][kk:2][im:5][jn:4]C[Black 1 is also tempting, to enclose the center area, and the game would be very close up to White 6.]))
 (;W[nb]
 ;B[qe]
 ;W[rd]
@@ -416,7 +452,7 @@ Cutting at B will be quite big for Black afterwards, and in overall, the result 
 ;W[md]
 ;B[ne]
 ;W[jb]LB[jb:11][nb:1][mc:7][md:9][nd:8][od:5][qd:A][rd:3][ne:10][pe:6][qe:2][re:4]C[Pushing at White 1 would be slightly better. Black will capture White A with 2 next, but White will destroy Black's upper side up to White 11.]))
-(;B[pc]LB[oc:A][pc:1]C[Black 1 or at A is also nice to secure the territory in this area. That'll be hard for White to invade deeply after Black 1.]))
+(;B[pc]LB[oc:A][pc:1]C[Black 1 or at A is also nice to secure the territory in this area. It will be hard for White to invade deeply after Black 1.]))
 (;W[pc]
 (;B[qc]
 ;W[oc]
@@ -435,12 +471,12 @@ Attaching at White 1 is normal, and the result up to White 7 is expected.])
 ;B[qe]
 ;W[rd]LB[mb:A][nb:6][ob:3][pb:5][oc:2][pc:1][od:4][qd:7][rd:9][qe:8]C[If Black blocks from the outside, White can live in the corner up to 9. There'll be still bad aji for Black at A later.])))
 (;B[mq]
-;W[qq]LB[mq:1][qq:2]C[If Black plays 1, White will enter the corner, and it'll be impossible for Black to capture them.])
+;W[qq]LB[mq:1][qq:2]C[If Black plays 1, White will enter the corner, and it will be impossible for Black to capture them.])
 (;B[pr]
 ;W[oq]
 ;B[pq]
 ;W[mq]LB[op:A][mq:4][oq:2][pq:3][pr:1]C[Black 1 is also conceivable, but then cutting point at A will be left after White 4.]))
-(;W[cm]LB[cm:1]C[White should have just responded at 1, and the game would still be favorable for White. ]))
+(;W[cm]LB[cm:1]C[White should have just responded at 1, and the game would still be favorable for White.]))
 (;W[oj]
 ;B[pj]
 ;W[pk]
@@ -449,15 +485,17 @@ Attaching at White 1 is normal, and the result up to White 7 is expected.])
 (;B[oj]
 ;W[qi]
 ;B[ph]
-;W[lc]LB[lc:9][ph:8][qi:7][nj:4][oj:6][pj:2][pk:3][ol:5]C[White 1 to 5 would be more active to make living shape on the right side.
+;W[lc]LB[lc:9][ph:8][qi:7][nj:4][oj:6][pj:2][pk:3][qk:A][rk:B][ol:5]C[White 1 to 5 would be more active to make living shape on the right side.
 
-If Black connects at 6, White can even take sente to invade the upper side at 9.])
+If Black connects at 6, White can even take sente to invade the upper side at 9.
+
+If Black ataris at A later, White can sacrifice one stone with B.])
 (;B[qk]
 ;W[oj]
 ;B[en]
 ;W[pi]
 ;B[bo]
-;W[ep]LB[pi:9][nj:4][oj:7][pj:2][pk:3][qk:6][ol:5][dn:B][en:8][fn:A][bo:10][ep:11]C[White doesn't have to worry about the ko from Black 6. That's because Black 8 doesn't work as a ko threat, because  A and B are miai for White after White 11.])))
+;W[ep]LB[pi:9][nj:4][oj:7][pj:2][pk:3][qk:6][ol:5][dn:B][en:8][fn:A][bo:10][ep:11]C[White doesn't have to worry about the ko from Black 6. That's because Black 8 doesn't work as a ko threat, because A and B are miai for White after White 11.])))
 (;B[gm]
 ;W[eo]LB[gk:A][gm:1][eo:2]TR[co][do]C[If Black blocks at 1, White will still wedge at 2 to cut the marked stones off.
 
